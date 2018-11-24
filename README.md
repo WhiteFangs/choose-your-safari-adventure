@@ -11,4 +11,7 @@ I made some manual corrections to the `data.json` file, I removed empty data and
 
 ## Twine Story Generator
 
-Coming soon
+The story graph works by multiplying the nodes by 2 at every level until reaching 8 nodes at the same level, then join the choices to 4 nodes and alternate for as long as necessary between 8 and 4.
+
+Here is a schema of the story graph for a 10 level generated story in Twine:
+![](https://github.com/WhiteFangs/choose-your-safari-adventure/raw/master/graph.png)
