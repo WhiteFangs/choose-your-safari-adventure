@@ -69,14 +69,14 @@ if($twinDebug){
 		?>
 		<tw-passagedata pid="<?php echo $key+1; ?>" name="<?php echo $page->name; ?>" tags="" position="<?php echo $positions->x . "," . $positions->y; ?>" size="100,100">
 		<?php 
-		echo $page->name;
-		echo "<br>";
+		echo $page->title;
+		echo "\n\n";
 		echo $page->area;
-		echo "<br>";
+		echo "\n\n";
 		if($page->nextPages != null){
 			foreach ($page->nextPages as $next) {
 				echo "Go [[". $next->area ."|" . $next->name . "]]";
-				echo "<br>";
+				echo "\n\n";
 			}
 		}
 		echo "</tw-passagedata>";
