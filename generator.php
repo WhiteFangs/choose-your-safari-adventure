@@ -23,6 +23,9 @@ if($visualDebug){
 }
 
 if($twinDebug){
+	$filename = 'Choose-Your-Safari-Adventure_' . uniqid();
+	header('Content-disposition: attachment; filename=' . $filename . '.html');
+	header('Content-type: text/html');
 	function GetPositions($key){
 		$initialX = 1000;
 		$initialY = 100;
@@ -59,7 +62,7 @@ if($twinDebug){
 	}
 	?>
 
-	<tw-storydata name="Test" startnode="1" creator="Twine" creator-version="2.2.1" ifid="CD3FE479-0DA0-43AD-8F87-75DBDE871DD4" zoom="1" format="SugarCube" format-version="2.21.0" options="" hidden>
+	<tw-storydata name="<?php echo $filename; ?>" startnode="1" creator="Twine" creator-version="2.2.1" ifid="CD3FE479-0DA0-43AD-8F87-75DBDE871DD4" zoom="1" format="SugarCube" format-version="2.21.0" options="" hidden>
 	<style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css"></style>
 	<script role="script" id="twine-user-script" type="text/twine-javascript"></script>
 
