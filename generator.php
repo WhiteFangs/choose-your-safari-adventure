@@ -23,6 +23,7 @@ if($visualDebug){
 	}
 }else if($twineDebug || $publish){
 	$filename = 'Choose-Your-Safari-Adventure_' . uniqid();
+	include("./backgrounds.php");
 	if($twineDebug){
 		header('Content-disposition: attachment; filename=' . $filename . '.html');
 		header('Content-type: text/html');
@@ -66,15 +67,22 @@ if($visualDebug){
 	?>
 
 	<tw-storydata name="<?php echo $filename; ?>" startnode="1" creator="Twine" creator-version="2.2.1" ifid="CD3FE479-0DA0-43AD-8F87-75DBDE871DD4" zoom="1" format="SugarCube" format-version="2.21.0" options="" hidden>
-	<style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css"></style>
+	<style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css">
+	<?php 
+	foreach ($backgrounds as $key => $value) {
+		foreach ($value as $number => $image) {
+			echo 'html[data-tags~="'.$key .'_' . $number .'"] {background-image:url('. $image .');background-size:cover;}';
+		}
+	}
+	?>
+	</style>
 	<script role="script" id="twine-user-script" type="text/twine-javascript"></script>
 
 	<?php
 	foreach ($pages as $key => $page) {
 		$positions = GetPositions($key);
-		?>
-		<tw-passagedata pid="<?php echo $key+1; ?>" name="<?php echo $page->name; ?>" tags="" position="<?php echo $positions->x . "," . $positions->y; ?>" size="100,100">
-		<?php 
+		$tag = $page->area . "_" . array_rand($backgrounds[$page->area]);
+		echo '<tw-passagedata pid="'. ($key+1) .'" name="'. $page->name .'" tags="'. $tag . '" position="'. $positions->x . ',' . $positions->y. '" size="100,100">';
 		echo $page->title;
 		echo "\n\n";
 		echo $page->area;
