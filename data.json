@@ -11,7 +11,7 @@
         "areas": [
             "forest",
             "savannah",
-            "bush"
+            "savannah"
         ],
         "intro": "The African paradise flycatcher  is a medium-sized passerine bird with a very long tail. It is a common resident breeder in Africa south of the Sahara Desert. The male is boldly coloured in chestnut and black and the female is rather more drab. This bird feeds mainly on insects and builds a tiny cup nest in a tree where two or three eggs are laid. This species is usually found in open forests and savannah habitats and the International Union for Conservation of Nature has listed it as being of \"least concern\".\n<br>",
         "description": "The adult male African paradise flycatcher is about 17\u00a0cm long, but the very long tail streamers double this. It has a black head, neck and underparts, and chestnut wings and tail. There is a prominent white wingbar. The female has a browner tint to the underparts and lacks the wingbar and tail streamers. Young birds are similar to the female but duller.\n<br>The males show considerable variation in plumage in some areas. There is a morph of this species in which the male has the chestnut parts of the plumage replaced by white, and some races have black tail streamers.\n<br>This species readily hybridizes with the genetically similar Rufous-vented paradise flycatcher. The red-bellied paradise flycatcher is also closely related to this species, and hybrids occur with the underparts a mixture of black and red.\n<br>",
@@ -153,7 +153,7 @@
         "type": "bird",
         "rarity": 1,
         "areas": [
-            "bush"
+            "savannah"
         ],
         "intro": "The Karamoja apalis  is a species of bird in the Cisticolidae family. It is found in Tanzania, Uganda and Kenya.\n<br>Its natural habitat is subtropical or tropical moist shrubland with a particular preference for stands of whistling thorn Acacia drepanolobium. It is threatened by habitat loss.\n<br>",
         "description": "",
@@ -199,7 +199,7 @@
         "rarity": 1,
         "areas": [
             "forest",
-            "bush"
+            "savannah"
         ],
         "intro": "The Rudd's apalis  is a species of bird in the Cisticolidae family.\nIt is found primarily in Mozambique but also in southern Malawi and adjacent areas of South Africa and Swaziland.\nIts natural habitats are subtropical or tropical dry forests and subtropical or tropical moist shrubland.\n<br>",
         "description": "",
@@ -265,7 +265,7 @@
         "type": "bird",
         "rarity": 1,
         "areas": [
-            "bush",
+            "savannah",
             "water"
         ],
         "intro": "The black-lored babbler or Sharpe's pied-babbler  is a species of bird in the Leiothrichidae family.  It is found in southwestern Kenya,Tanzania, Uganda, Burundi, Rwanda, and the part of the Democratic Republic of the Congo immediately adjacent to the three last-named countries.   This bird was formerly considered the same species as Turdoides melanops of southern Africa, now known as the black-faced babbler.<br>These birds are mostly grey-brown with white mottling, especially on the underparts, that varies according to location and the individual. The population near Nanyuki, Kenya, is darker but can have a pure white chin or entire throat.  The combination of pale yellow or white eyes and black lores  separates adults of this species from similar babblers except melanops, though all juvenile babblers have brown eyes.<br>In Kenya, single birds give repeated single or double harsh notes such as waaach or a muffled kurr-ack; pairs or groups give longer phrases in chorus.  The tempo is frequently slow for a babbler.  They are most vocal in the early morning and late afternoon.<br>Like other Turdoides, it is found low or on the ground in or near dense woody vegetation, including in cultivated areas.  Kenyan birds forage in bushes and tall grass.  They are \"restless, noisy, and suspicious\" and \"typical gregarious babblers\".<br>Single birds give repeated single or double harsh notes such as waaach or a muffled kurr-ack; pairs or groups give longer phrases in chorus.  The tempo is frequently slow for a babbler.  They are most vocal in the early morning and late afternoon.<br>",
@@ -283,7 +283,7 @@
         "rarity": 1,
         "areas": [
             "forest",
-            "bush"
+            "savannah"
         ],
         "intro": "The northern pied babbler  is a species of bird in the family Leiothrichidae.\nIt is found in Kenya and Tanzania.\nIts natural habitats are subtropical or tropical moist lowland forest and subtropical or tropical dry shrubland.\n<br>",
         "description": "",
@@ -297,8 +297,7 @@
         "type": "bird",
         "rarity": 1,
         "areas": [
-            "savannah",
-            "bush"
+            "savannah"
         ],
         "intro": "",
         "description": "",
@@ -422,7 +421,7 @@
         "rarity": 1,
         "areas": [
             "savannah",
-            "bush"
+            "savannah"
         ],
         "intro": "The Usambiro barbet  is a subspecies of bird in the African barbet family Lybiidae. It is a subspecies of D'Arnaud's barbet, along with Emin's barbet. It varies from the nominate in having a longer wing, shorter tail, darker bill. The Usambiro barbet was originally described as a subspecies of D'Arnaud's barbet in 1908 by Oscar Rudolph Neumann from a specimen collected in Usambiro in Tanzania. It is sometimes treated as a valid species in its own right.<br>It is found in southern Kenya and northern Tanzania, and is found in Maasai Mara National Reserve and Serengeti National Park. The species inhabits open areas including savannah, grassland, shrubland and pastures. It ranges from 1,100\u20132,100\u00a0m  above sea-level. Where the species' range overlaps with the Red-and-yellow barbet, this species will avoid the streambeds favoured by the larger Red-and-yellow barbet and occupies flat areas.<br>The Usambiro barbet is 18\u00a0to 19\u00a0cm  long and weighs 37\u201350.5\u00a0g . The head is yellow with black spots and the wings are black with white spots. The breast is also yellow with a dark breast band.The belly is pale yellow with a reddish vent. The sexes are similar.<br>The diet of this species is assumed to be the same as the D'Arnaud's barbet, comprising seeds, fruit and a wide range of insects.<br>",
         "description": "",
@@ -465,7 +464,7 @@
         "rarity": 1,
         "areas": [
             "forest",
-            "bush"
+            "savannah"
         ],
         "intro": "The dark batis  is a small passerine bird belonging to the genus Batis in the wattle-eye family, Platysteiridae. It is found in highland forest in south-west Tanzania and northern Malawi. These birds were formerly thought to be forest batises  but in 2006 were described as a new species based on differences in morphology and mitochondrial DNA from those birds in northern Tanzania and Kenya.\n<br>",
         "description": "The dark batis is about 10\u00a0cm  in length and weighs 10\u201315\u00a0g . It has a dark bill and legs and red eyes. The male is white below with a broad black breastband. Above it has a dark grey crown, grey back with some black feather-tips, a black face-mask and black wings with a white stripe. The female has a greyish crown, brownish back, dark mask, slight white supercilium and a narrow rufous stripe on the wing. Below it has a rufous chin-spot and breast with whitish tips to some of the feathers.<br>The forest batis has a slightly shorter tail. Males of the two species are very similar but forest batises have a narrower breastband and usually some hint of a white supercilium which is lacking in the male dark batis. The females are more distinctive: female forest batises have a paler breast and chin with more white tips giving a mottled appearance. There is a conspicuous white supercilium and a broad rufous wing-stripe.<br>The dark batis has a variety of whistling and harsh churring calls and its wings make a whirring sound in flight. The male's song is a series of short, low whistles.<br>",
@@ -482,7 +481,7 @@
         "rarity": 1,
         "areas": [
             "forest",
-            "bush"
+            "savannah"
         ],
         "intro": "The forest batis or short-tailed batis  is a species of bird in the wattle-eye family, Platysteiridae occurring in eastern Africa.\n<br>",
         "description": "The forest batis is a small species measuring 9.5\u201310\u00a0cm  in length and weighing 10.5\u201314.2\u00a0g . The adult male has bluish grey upperparts with a black mask across the face, a white spot on the lores and white spots o the rump which are revealed when the long feathers are fluffed out. The underparts are white with a black breast band and blackish thighs.  The wings are black with a white stripe, the bill and legs are black while the eyes are red. Females are similar in pattern but the upper part colour is more olive in tone, the wings more reddish brown and has a mottled rufous breast band and browner wings. Juveniles similar to female but markings less well differentiated. The short black tail is edged with white.<br>",
@@ -500,7 +499,6 @@
         "areas": [
             "forest",
             "savannah",
-            "bush",
             "water"
         ],
         "intro": "The pygmy batis  is a very small insectivorous bird which finds its food foraging among leaves, it is a member of the wattle-eyes family, the Platysteiridae. It occurs in the dry savannahs of north-eastern Africa.\n<br>",
@@ -530,7 +528,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "B\u00f6hm's bee-eater  is a species of bird in the family Meropidae. It is found in Democratic Republic of the Congo, Malawi, Mozambique, Tanzania, and Zambia.\n<br>The name of this bird commemorates the German zoologist Richard B\u00f6hm.<br>",
         "description": "",
         "habitat": "",
@@ -594,7 +592,7 @@
         "type": "bird",
         "rarity": 1,
         "areas": [
-            "bush",
+            "savannah",
             "water"
         ],
         "intro": "",
@@ -610,7 +608,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "The black-collared apalis  is a species of bird in the Cisticolidae family.\nIt is found in Cameroon, Democratic Republic of the Congo, Kenya, Nigeria, South Sudan, and Uganda.\n<br>The black-collared apalis was formerly placed in the genus Apalis but was moved to the new genus Oreolais when Apalis was shown to be polyphyletic.<br>",
         "description": "",
         "habitat": "",
@@ -655,7 +653,7 @@
         "rarity": 1,
         "areas": [
             "forest",
-            "bush",
+            "savannah",
             "water"
         ],
         "intro": "F\u00fclleborn's boubou  is a species of bird in the Malaconotidae family. It is found in Malawi, Tanzania, and Zambia, where its typical habitat is humid montane forest, dense undergrowth, secondary growth, forest edges and bamboo groves. The name of this bird commemorates the German physician Friedrich F\u00fclleborn.<br>",
@@ -674,7 +672,6 @@
         "areas": [
             "forest",
             "savannah",
-            "bush",
             "water"
         ],
         "intro": "The slate-colored boubou or slate-coloured boubou  is a species of bird in the family Malaconotidae. It is found in Ethiopia, Kenya, Rwanda, Somalia, South Sudan, Tanzania, and Uganda. Its natural habitats are subtropical or tropical dry forests, dry savanna, subtropical or tropical dry shrubland, and subtropical or tropical moist shrubland.\n<br>",
@@ -693,8 +690,7 @@
         "rarity": 1,
         "areas": [
             "forest",
-            "savannah",
-            "bush"
+            "savannah"
         ],
         "intro": "The northern brownbul  is a species of songbird in the bulbul family, Pycnonotidae.\nIt is found in eastern Africa.\nIts natural habitats are subtropical or tropical dry forests, dry savanna, and subtropical or tropical dry shrubland.\nThe northern brownbul was originally described in the genus Criniger. Alternate names include the East African scrub bulbul and northern brown bulbul.\n<br>",
         "description": "",
@@ -712,7 +708,7 @@
         "rarity": 1,
         "areas": [
             "forest",
-            "bush"
+            "savannah"
         ],
         "intro": "The terrestrial brownbul  is a species of songbird in the bulbul family, Pycnonotidae.\nIt is found in eastern and south-eastern Africa. Its natural habitats are subtropical or tropical dry forest, subtropical or tropical moist lowland forest, and subtropical or tropical moist shrubland.\n<br>",
         "description": "",
@@ -729,7 +725,7 @@
         "rarity": 1,
         "areas": [
             "forest",
-            "bush",
+            "savannah",
             "water"
         ],
         "intro": "",
@@ -760,7 +756,7 @@
         "type": "bird",
         "rarity": 1,
         "areas": [
-            "bush"
+            "savannah"
         ],
         "intro": "The Cretzschmar's bunting  is a passerine bird in the bunting family Emberizidae, a group now separated by most modern authors from the finches, Fringillidae.\n<br>It breeds in Greece, Turkey, Cyprus and the Levant. It is migratory, wintering in Sudan and northern Eritrea. It is a very rare wanderer to western Europe.\n<br>Cretzschmar's bunting breeds on sunny open hillsides with some bushes. It is mainly coastal or insular, and often breeds at lower levels than the closely related ortolan bunting where both occur. It lays four to six eggs in a ground nest. Its natural food consists of seeds and when feeding young, insects.\n<br>This bird is smaller than ortolan. The breeding male has a grey head with orange moustaches. The upperparts are brown and heavily streaked, except on the rump, and the underparts are rusty orange. The stout bill is pink.\n<br>Females and young birds have a weaker head pattern, and are more similar to ortolans. They can be distinguished by the warm brown rump and white eye-ring.\n<br>The English name commemorates the German physician and scientist Philipp Jakob Cretzschmar who founded the Senckenberg Natural History Museum. The genus name Emberiza is from Old German Embritz, a bunting. The specific caesias is from Latin caesius, \"bluish-grey\".<br>",
         "description": "",
@@ -777,8 +773,7 @@
         "rarity": 1,
         "areas": [
             "forest",
-            "savannah",
-            "bush"
+            "savannah"
         ],
         "intro": "The golden-breasted bunting  is a passerine bird in the bunting family Emberizidae. It occurs in dry open woodlands and moist savanna in Africa south of the Sahara, but is absent from the equatorial forest belt.\n<br>There are three subspecies:\n<br>",
         "description": "The golden-breasted bunting is 15\u201316\u00a0cm long. The adult male has striking head pattern with a white crown, black lateral crown stripes, white supercilium and black-bordered white ear coverts. The underparts are orange-yellow becoming yellow on the throat and whitish on the lower belly. The upperparts are chestnut with a grey rump. The browner wings have two conspicuous white wing bars. The sexes are very similar, but females may have a buff tone to the white head markings and browner head stripes, and the back may have dark streaks.  Young birds are duller and paler than the females.\n<br>E. f. princeps is similar to the nominate form, but larger, and paler below. E. f. flavigaster is more distinctive, having a paler, redder back, pale grey rump, paler yellow underparts and whiter flanks.\n<br>The golden-breasted bunting\u2019s call is a nasal ascending zzhrr. The song is variable, but includes a weechee weechee weechee.\n<br>",
@@ -809,7 +804,7 @@
         "rarity": 1,
         "areas": [
             "forest",
-            "bush"
+            "savannah"
         ],
         "intro": "The black-fronted bushshrike  is a passerine bird of the bushshrike family, Malaconotidae. It inhabits forests mainly in East Africa. It forms a superspecies with the many-colored bushshrike  and the two are sometimes considered to be a single species.\n<br>",
         "description": "It is 18-19 centimetres long. It is variable in appearance and has several different colour morphs. All birds have green upperparts, grey crown and upper back, yellow tip to the tail and dark bill and legs. The orange morph has a black mask and forehead and orange underparts, shading to yellow under the tail. The red morph is similar but redder on the throat and breast with yellow on the belly and undertail-coverts. The buff form has buff underparts and a pale throat. The black morph has an entirely black face, forehead, throat and breast and green belly and undertail-coverts. Females are duller than the males with less black on the forehead. Juvenile birds have buffish underparts with dark barring and yellow edges to the wing-feathers. The song includes repeated bell-like phrases. Pairs often duet together.\n<br>",
@@ -826,7 +821,7 @@
         "rarity": 1,
         "areas": [
             "forest",
-            "bush"
+            "savannah"
         ],
         "intro": "",
         "description": "A strikingly coloured, medium sized bush shrike which in the adults is mostly green with a bright red forehead and throat, a broad black breast band and a bright lemon-yellow belly, the tail is black. Young birds are pale green above with finely barred yellow-green underparts.<br>",
@@ -842,7 +837,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "The buff-crested bustard  is a species of bird in the family Otididae. It is found in Djibouti, Ethiopia, Kenya, Somalia, South Sudan, Tanzania, and Uganda.\n<br>",
         "description": "",
         "habitat": "",
@@ -859,7 +854,6 @@
         "areas": [
             "forest",
             "savannah",
-            "bush",
             "water"
         ],
         "intro": "The kori bustard  is the largest flying bird native to Africa. It is a member of the bustard family, which all belong to the order Otidiformes and are restricted in distribution to the Old World. It is one of the four species  in the large-bodied genus Ardeotis. In fact, the male kori bustard may be the heaviest living animal capable of flight.\n<br>This species, like most bustards, is a ground-dwelling bird and an opportunistic omnivore. Male kori bustards, which can be more than twice as heavy as the female, attempt to breed with as many females as possible and then take no part in the raising of the young. The nest is a shallow hollow in the earth, often disguised by nearby obstructive objects such as trees.\n<br>",
@@ -914,7 +908,7 @@
         "areas": [
             "forest",
             "savannah",
-            "bush"
+            "savannah"
         ],
         "intro": "The lemon-breasted canary , also known as the lemon-breasted seedeater, is a species of finch in the Fringillidae family. It is found in Malawi, Mozambique, South Africa, Zambia, and Zimbabwe. Its natural habitats are dry savannah, subtropical or tropical dry shrubland, and rural gardens.\n<br>",
         "description": "Although their common name would indicate that each lemon-breasted canary indeed has a yellow throat\/chest, this is not the case between males and females, making them easy to differentiate. Only the males have the signature yellow feathers in the breast region. The females have mostly cream and brown feathers, less distinct head markings. However, both sexes have noticeably yellow rumps around the tail feathers and bicolored beaks, the upper part being darker brown\/black than the lower part.  In addition, males also have white and yellow cheek patches and two yellow and white dots above their beaks. Nestlings of this species show yellow beak edges. There are no known subspecies, however there are small differences between canaries of different regions.\n<br>",
@@ -929,7 +923,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "The papyrus canary, also known as Van Someren's canary  is a species of passerine bird in the finch family Fringillidae.\n<br>It is found in Burundi, Democratic Republic of the Congo, Kenya, Rwanda, Tanzania, and Uganda. It is found primarily in papyrus stends at altitudes of between 900 and 1600\u00a0m, but is also found in cultivation near highland papyrus. It always builds its nests in papyrus stands, using papyrus leaves as the main material.<br>The papyrus canary was formerly placed in the genus Serinus but phylogenetic analysis using mitochondrial and nuclear DNA sequences found that the genus was polyphyletic. The genus was therefore split and a number of species including the papyrus canary were moved to the resurrected genus Crithagra.<br>",
         "description": "",
         "habitat": "",
@@ -1027,7 +1021,7 @@
         "rarity": 1,
         "areas": [
             "savannah",
-            "bush"
+            "savannah"
         ],
         "intro": "The rufous chatterer  is a species of bird in the Leiothrichidae family.\nIt is found in Ethiopia, Kenya, Somalia, Sudan, Tanzania, and Uganda.\nIts natural habitats are dry savanna and subtropical or tropical dry shrubland.\n<br>",
         "description": "",
@@ -1043,7 +1037,7 @@
         "type": "bird",
         "rarity": 1,
         "areas": [
-            "bush"
+            "savannah"
         ],
         "intro": "The scaly chatterer  is a species of bird in the family Leiothrichidae. It is also known as the bare-eyed babbler. It is found in Ethiopia, Kenya, Somalia, and Tanzania.\n<br>Its natural habitat is subtropical or tropical dry shrubland.\n<br>",
         "description": "",
@@ -1060,7 +1054,7 @@
         "rarity": 1,
         "areas": [
             "savannah",
-            "bush"
+            "savannah"
         ],
         "intro": "The ashy cisticola  is a species of bird in the Cisticolidae family.\nIt is found in Ethiopia, Kenya, Somalia, South Sudan, and Tanzania.\nIts natural habitats are dry savanna, subtropical or tropical dry shrubland, and subtropical or tropical dry lowland grassland.\n<br>",
         "description": "",
@@ -1074,7 +1068,7 @@
         "type": "bird",
         "rarity": 1,
         "areas": [
-            "bush"
+            "savannah"
         ],
         "intro": "The black-lored cisticola  is a species of bird in the Cisticolidae family.\nIt is found in Malawi, Tanzania, and Zambia.\nIts natural habitat is subtropical or tropical dry shrubland.\n<br>",
         "description": "",
@@ -1122,7 +1116,7 @@
         "rarity": 1,
         "areas": [
             "forest",
-            "bush"
+            "savannah"
         ],
         "intro": "The Hunter's cisticola  is a species of bird in the Cisticolidae family.\nIt is found in Kenya, Tanzania, and Uganda.\nIts natural habitats are tropical moist montane and high-altitude shrubland.  It is a dueting species.<br>",
         "description": "",
@@ -1172,7 +1166,7 @@
         "rarity": 1,
         "areas": [
             "savannah",
-            "bush"
+            "savannah"
         ],
         "intro": "The tiny cisticola  is a species of bird in the family Cisticolidae.\nIt is found in Ethiopia, Kenya, Somalia, South Sudan, and Tanzania.\nIts natural habitats are dry savanna, subtropical or tropical dry shrubland, and subtropical or tropical dry lowland grassland.\n<br>",
         "description": "",
@@ -1203,7 +1197,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "The African citril , also known as the Abyssinian citril, is a species of finch.  It is found from Ethiopia, Eritrea to western Kenya. It is closely related to the western and southern citril, to which it was formerly considered conspecific.\n<br>The African citril was formerly placed in the genus Serinus but phylogenetic analysis using mitochondrial and nuclear DNA sequences found that the genus was polyphyletic. The genus was therefore split and a number of species including the African citril were moved to the resurrected genus Crithagra.<br>",
         "description": "",
         "habitat": "",
@@ -1233,7 +1227,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "",
         "description": "This is a medium-sized but stocky thrush 17\u201320\u00a0cm in length. The summer male is unmistakable, with a blue-grey head, orange underparts and outer tail feathers, dark brown wings and white back. Females and immatures are much less striking, with dark brown scaly upperparts, and paler brown scaly underparts. The outer tail feathers are reddish, like the male.<br>",
         "habitat": "",
@@ -1266,7 +1260,6 @@
         "rarity": 1,
         "areas": [
             "savannah",
-            "bush",
             "water"
         ],
         "intro": "The blue-capped cordon-bleu or blue-capped cordonbleu  is native to Ethiopia, Kenya, Somalia, South Sudan, and Tanzania in East Africa. This small finch does fairly well in captivity given adequate conditions; however, breeding this finch is said to be quite difficult.\n<br>",
@@ -1316,7 +1309,7 @@
         "type": "bird",
         "rarity": 1,
         "areas": [
-            "bush"
+            "savannah"
         ],
         "intro": "The double-banded courser , also known as the two-banded courser, is a species of bird in the Glareolidae family.\n<br>",
         "description": "The bird's crown is pale and streaked with brown\/black feathers.  A narrow black stripe extends from the base of the bill, through the eye to the nape. The cheeks, chin, throat and neck are buff\/white flecked with dark brown. The feather of the back and wing coverts are sandy brown with dark centres and broadly edged with white\/buff. The short bill is blackish, eyes are dark brown and the legs and feet are pale grey.<br>",
@@ -1366,7 +1359,7 @@
         "rarity": 1,
         "areas": [
             "forest",
-            "bush",
+            "savannah",
             "water"
         ],
         "intro": "The Abyssinian crimsonwing , also known as the Ethiopian crimsonwing, Salvadori's crimsonwing or crimson-backed forest finch, is a common species of estrildid finch found in eastern Africa. It has an estimated global extent of occurrence of 190,000\u00a0km\u00b2.\n<br>",
@@ -1401,7 +1394,7 @@
         "rarity": 1,
         "areas": [
             "forest",
-            "bush"
+            "savannah"
         ],
         "intro": "",
         "description": "",
@@ -1434,7 +1427,7 @@
         "areas": [
             "forest",
             "savannah",
-            "bush"
+            "savannah"
         ],
         "intro": "The Cape crow or black crow  is slightly larger  than the carrion crow and is completely black with a slight gloss of purple in its feathers. It has proportionately longer legs, wings and tail too and has a much longer, slimmer bill that seems to be adapted for probing into the ground for invertebrates. The head feathers have a coppery-purple gloss and the throat feathers are quite long and fluffed out in some calls and displays.\n<br>",
         "description": "",
@@ -1530,7 +1523,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "The dusky turtle dove  is a species of bird in the family Columbidae.\nIt is found in Burundi, Democratic Republic of the Congo, Eritrea, Ethiopia, Kenya, Malawi, Rwanda, Saudi Arabia, Somalia, South Sudan, Tanzania, Uganda, Yemen, and Zambia.\n<br>",
         "description": "",
         "habitat": "",
@@ -1564,7 +1557,7 @@
         "areas": [
             "forest",
             "savannah",
-            "bush"
+            "savannah"
         ],
         "intro": "The Cape eagle-owl  is a species of owl in the family Strigidae. It is one of several large species of the eagle-owl genus Bubo.\n<br>",
         "description": "This is a large owl, though intermediate in size among other large Bubo owls. Its total length ranges from 46 to 61\u00a0cm . Males weigh from 905 to 1,387\u00a0g  while the larger females range from 1,240 to 1,800\u00a0g . The wing chord measures 34.3\u201341.8\u00a0cm  while the tail measures 15.5\u201326.6\u00a0cm . This owl is dark brown above with prominent ear-tufts and yellow or yellowish-orange eyes. It is dark below with the sides of the breast being blotchy brown and the paler chest overlaid with white, black and tawny-fulvous markings, variously. The facial disc is fulvous-brown, with a distinct black or dark brown frame that becomes broader towards the neck. Both the tail and wing feathers are barred with light and dark brown. The toes and tarsi are densely feathered, with the little visible skin being brown above and yellowish below the feet.\n<br>The song of the male Cape eagle-owl consists of a powerful, explosive hoot, followed by a faint note: boowh-hu. The female's voice is similar but slightly higher pitched. Pairs on occasion will duet. When approaching a female during courtship, the male will let out a trisyllabic cu-coo-cu while bowing to his mate. Both females and young give a nasal, drawn-out chrrreeh while begging for food at the nest. Females cluck slightly while offering food to their young. When alarmed, both sexes let out a barking wack wack wack....<br>",
@@ -1582,7 +1575,6 @@
         "areas": [
             "forest",
             "savannah",
-            "bush",
             "water"
         ],
         "intro": "Verreaux's eagle-owl, also commonly known as the milky eagle owl or giant eagle owl,  is a member of the family Strigidae. This species is widespread in sub-Saharan Africa. A member of the genus Bubo, it is the largest African owl, measuring up to 66\u00a0cm  in total length. This eagle-owl is a resident primarily of dry, wooded savanna. Verreaux's eagle-owl is mainly grey in color and is at once distinguished from other large owls by its bright pink eyelids, a feature shared with no other owl species in the world. Verreaux's eagle-owl is a highly opportunistic predator equipped with powerful talons. Just over half of its known diet is comprised by mammals but equal or even greater numbers of birds and even insects may be hunted locally, along with any other appropriately sized prey that is encountered. This species is considered of Least Concern by IUCN as it occurs over a wide range and has shown some adaptability to human-based habitation alterations and destruction and adaptability to diverse prey when a primary prey species declines in a region. As a large, highly territorial species of owl, it does however occur at fairly low densities and some regional declines have been reported.<br>The common name commemorates the French naturalist Jules Verreaux. The type specimen that was later described by Temminck at the Rijksmuseum van Natuurlijke Historie was collected by Verreaux while he was still in his teens.<br>",
@@ -1633,7 +1625,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water", "savannah"],
+        "areas": ["forest", "savannah", "water", "savannah"],
         "intro": "The black-chested snake eagle  is a large African bird of prey of the family Accipitridae. It resembles other snake-eagles and was once believed to be conspecific with the short-toed and Beaudouin's snake eagles.\n<br>",
         "description": "",
         "habitat": "This species can be found throughout southern Africa from Ethiopia and Sudan in the north to South Africa in the south and Angola in the southwest. Due to its wide distribution the species is not endangered.\n<br>",
@@ -1648,7 +1640,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water", "savannah"],
+        "areas": ["forest", "savannah", "water", "savannah"],
         "intro": "The brown snake eagle  is a species of bird of prey in the family Accipitridae. It is found in West, East and southern Africa.\n<br>",
         "description": "Their plumage is entirely brown, but some of them could have some white feathers. The juvenile eagles stay around the nest for 60\u2013100 days, until they fledge. The juvenile brown snake eagle is completely independent a few weeks after fledging. The brown snake eagle is of average size, compared with larger species, such as the bald eagle, reaching only 60-70 centimeters in height. They also live less, only 7\u201310 years.\n<br>",
         "habitat": "",
@@ -1697,7 +1689,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water", "savannah"],
+        "areas": ["forest", "savannah", "water", "savannah"],
         "intro": "The lesser spotted eagle  is a large Eastern European bird of prey. Like all typical eagles, it belongs to the family Accipitridae. The typical eagles are often united with the buteos, sea eagles, and other more heavy-set Accipitridae, but more recently it appears as if they are less distinct from the more slender accipitrine hawks than believed.\n<br>",
         "description": "This is a medium-sized eagle, about 60\u00a0cm  in length and with a wingspan of 150\u00a0cm . Its head and wing coverts are pale brown and contrast with the generally dark plumage. The head and bill are small for an eagle. Usually, a white patch occurs on the upper wings, and even adults retain a clearly marked white \"V\" on the rump; the wing markings are absent and the white \"V\" is not well-defined in the greater spotted eagle.\n<br>The juvenile has less contrast in the wings, but the remiges bear prominent white spots. It differs from greater spotted eagle juveniles by a lack of wing covert spotting and the presence of a cream-colored neck patch.\n<br>The call is a dog-like yip.\n<br>",
         "habitat": "The lesser spotted eagle breeds in Central and Eastern Europe and southeastward to Turkey and Armenia;  and winters in Africa. This is a very wary species of open or lightly wooded country, in which it hunts small mammals and similar terrestrial prey. This eagle lays one to three white, buff-spotted eggs in a tree nest. As usual for eagles, only in breeding seasons with very abundant prey does more than one young fledge, but the female starts incubating when the first egg has been laid,  thus the first young to hatch usually outgrows its clutch mate and will kill and even eat them sooner or later.\n<br>The territories of Lesser Spotted Eagles are spaced regularly and consistently between years in the north-western part of their distribution. The distances between territories vary across the region, although this was not found to be related to breeding success. Synchronous variation in breeding success across the region indicates that the eagles are instead influenced by large-scale factors such as fluctuations in climate or prey availability.<br>",
@@ -1762,7 +1754,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "The cut-throat finch  is a common species of estrildid finch found throughout Africa; it is also known as the bearded finch, the ribbon finch, the cut throat, and the weaver finch.\n<br>The cut-throat finch has plumage that is pale, sandy brown with flecks of black all over.  They have a black-brown tail, a thick white chin and cheeks, and a chestnut brown patch on the belly.  The legs are a pink fleshy colour.  The adult male has a bright red band across its throat , while the male juveniles have a slightly duller red band.\n<br>It has an estimated global extent of occurrence of 3,300,000\u00a0km\u00b2.  It is found throughout much of Sub-Saharan Africa, particularly in the Sahel, eastern and southern parts of the continent.\n<br>",
         "description": "",
         "habitat": "",
@@ -1796,7 +1788,6 @@
         "areas": [
             "forest",
             "savannah",
-            "bush",
             "water"
         ],
         "intro": "The African firefinch , also called the dark firefinch or blue-billed firefinch  due to the color of its bill, is a common species of estrildid finch found in almost all parts of Africa. It has an estimated global extent of occurrence of 5,400,000\u00a0km2.\n<br>",
@@ -1815,7 +1806,6 @@
         "rarity": 1,
         "areas": [
             "savannah",
-            "bush",
             "water"
         ],
         "intro": "The red-billed firefinch or  Senegal firefinch   is a small passerine bird. This estrildid finch is a resident breeding bird in most of Sub-Saharan Africa with an estimated global extent of occurrence of 10,000,000\u00a0km2. This species was introduced to Egypt, however, the introduced population has become extinct.\n<br>",
@@ -1833,7 +1823,7 @@
         "rarity": 1,
         "areas": [
             "savannah",
-            "bush"
+            "savannah"
         ],
         "intro": "The grey-backed fiscal  is a species of bird in the family Laniidae.\nIt is found in Burundi, Cameroon, Central African Republic, Chad, Democratic Republic of the Congo, Ethiopia, Kenya, Mali, Mauritania, Nigeria, Rwanda, Sudan, Tanzania, and Uganda. Its natural habitats are dry savanna and subtropical or tropical dry lowland grassland.<br>",
         "description": "This is a large shrike with a length of about 25\u00a0cm . The head of the male has a grey crown, a white supercilium and a large black mask. The upper parts are medium grey, the rump is white, the wings are blackish, with a white patch which is conspicuous in flight, and the long tail has a white base and a black tip. The underparts and base of the underside of the tail are white. The female is similar but has patches of chestnut on the flanks that are visible during display and when the bird is preening. The juvenile is brownish with brown wings and tail and is heavily barred with grey.<br>",
@@ -1870,7 +1860,7 @@
         "areas": [
             "forest",
             "savannah",
-            "bush"
+            "savannah"
         ],
         "intro": "The Taita fiscal or Teita fiscal  is a member of the shrike family found in east Africa from southeastern South Sudan, southern Ethiopia, and western Somalia to northeastern Tanzania. Its habitat is dry open thornbush and acacia and other dry open woodland.\n<br>",
         "description": "This is a fairly distinctive 21\u00a0cm -long passerine with white underparts and a black crown, hindneck and wings. The back is grey with a characteristic white 'V' and the rump is white. The tail is relatively long and black with white outer feathers. There is a small white patch on the wings. The bill, eyes and legs are black. The adult male and female Taita fiscal have similar plumage except for a rufous lower flank of the female which is usually hidden by the wing. \nThe juvenile is mainly brown\u2013black above, with barring on the head and buff tips to the shoulder feathers. Its underparts are whitish with darker barring. The adult Taita fiscal is distinguished from other black-headed fiscals by the grey back and the wing pattern, if those are well seen. It gives a jumbled mix of shrike-like whistles and buzzes, including a chwaa-pikerrek-chrrrr-yook pikechik song.<br>",
@@ -1889,7 +1879,7 @@
         "rarity": 1,
         "areas": [
             "savannah",
-            "bush"
+            "savannah"
         ],
         "intro": "The flappet lark  is a species of lark in the family Alaudidae which is widespread in Africa.\n<br>",
         "description": "",
@@ -1938,7 +1928,6 @@
         "rarity": 1,
         "areas": [
             "savannah",
-            "bush",
             "water"
         ],
         "intro": "The African grey flycatcher, grayish flycatcher, or large flycatcher  is a passerine bird in the Old World flycatcher family Muscicapidae that occurs in parts of East Africa.\n<br>",
@@ -1956,7 +1945,7 @@
         "rarity": 1,
         "areas": [
             "forest",
-            "bush"
+            "savannah"
         ],
         "intro": "The Livingstone's flycatcher  is a species of bird in the family Erythrocercidae.\nIt is found in Malawi, Mozambique, Tanzania, Zambia, and Zimbabwe.\nIts natural habitats are subtropical or tropical dry forests and subtropical or tropical moist shrubland.\n<br>",
         "description": "",
@@ -1971,7 +1960,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "The white-eyed slaty flycatcher  is a small passerine bird of the genus Melaenornis in the Old World flycatcher family Muscicapidae.  It is native to the African highlands from Ethiopia and Kenya through Rwanda to eastern Zaire and Malawi. In Kenya, it is mostly absent from the east and the north of the country. It is a highland bird, common in wooded habitats, including gardens.\n<br>It is a very distinctive bird normally seen singly or in pairs. White-eyed slaty flycatchers are frequently spotted either hawking for insects or taking them from the ground. They perch with an upright pose on branches, stumps, signposts. The sub-species M. f. toruensis occurs in Rwanda and Burundi and has an inconspicuous eye-ring.\n<br>The specific epithet commemorates the German explorer Gustav Adolf Fischer.\n<br>",
         "description": "",
         "habitat": "",
@@ -1987,7 +1976,7 @@
         "rarity": 1,
         "areas": [
             "forest",
-            "bush"
+            "savannah"
         ],
         "intro": "The little yellow flycatcher  is a species of bird in the family Erythrocercidae.\nIt is found in Kenya, Somalia, and Tanzania.\nIts natural habitats are subtropical or tropical moist lowland forest and subtropical or tropical moist shrubland.\n<br>",
         "description": "",
@@ -2002,7 +1991,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water", "savannah"],
+        "areas": ["forest", "savannah", "water", "savannah"],
         "intro": "The Elgon francolin  is a francolin found in moorland at altitudes above 2,300 metres  from eastern Uganda  to central Kenya. Most recent authorities treat it as a subspecies of the moorland francolin. Alternatively, it has been suggested that it is a species , a subspecies of the Shelley's francolin , or even a hybrid between the moorland and red-winged francolins. It was described by Ogilvie-Grant in 1891 as Francolinus elgonensis, and some authorities still use the genus Francolinus for all members otherwise placed in Scleroptila. The Elgon francolin resembles the nominate subspecies of the moorland francolin, but the latter is duller  and has a black-dotted throat.<br>",
         "description": "",
         "habitat": "",
@@ -2016,7 +2005,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water", "savannah"],
+        "areas": ["forest", "savannah", "water", "savannah"],
         "intro": "The Erckel's francolin  is a species of bird in the family Phasianidae.\nIt is native to Eritrea, Ethiopia, and Sudan. In 1957 the species was also introduced to the Hawaiian islands.\n<br>",
         "description": "",
         "habitat": "",
@@ -2030,7 +2019,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water", "savannah"],
+        "areas": ["forest", "savannah", "water", "savannah"],
         "intro": "The Hildebrandt's francolin  is a species of bird in the family Phasianidae.\nIt is found in Burundi, Democratic Republic of the Congo, Kenya, Malawi, Mozambique, Rwanda, Tanzania, and Zambia. The species is named for Johann Maria Hildebrandt, who collected the first specimens in Kenya.\n<br>",
         "description": "",
         "habitat": "",
@@ -2060,7 +2049,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water", "savannah"],
+        "areas": ["forest", "savannah", "water", "savannah"],
         "intro": "The moorland francolin  is a species of bird in the family Phasianidae.\n<br>It is found in moorland in the highlands of Ethiopia, Kenya, and Uganda.\n<br>In Kenya and Uganda, the subspecies is sometimes known as the Elgon francolin. Compared to the nominate subspecies of Ethiopia, the Elgon francolin is brighter  and lacks black spots to the throat, leading to conflicting taxonomic treatments. Though most authorities maintain it as a subspecies of the moorland francolin, it been suggested that it is a species , a subspecies of the Shelley's francolin , or even a hybrid between the moorland and red-winged francolins.<br>",
         "description": "",
         "habitat": "It is found in moorland in the highlands of Ethiopia, Kenya, and Uganda.\n<br>",
@@ -2092,7 +2081,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water", "savannah"],
+        "areas": ["forest", "savannah", "water", "savannah"],
         "intro": "The ring-necked francolin  is a bird species in the family Phasianidae.  It is found in Burundi, Cameroon, Kenya, Rwanda, Tanzania, and Uganda. Rarer than previously believed, it is uplisted from a species of Least Concern to Near Threatened status in the 2007 IUCN Red List.<br>",
         "description": "",
         "habitat": "",
@@ -2106,7 +2095,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "The scaly francolin  is a species of bird in the family Phasianidae.\nIt is found in Angola, Burundi, Cameroon, Central African Republic, Republic of the Congo, Democratic Republic of the Congo, Equatorial Guinea, Ethiopia, Gabon, Kenya, Malawi, Nigeria, Rwanda, S\u00e3o Tom\u00e9 and Pr\u00edncipe, Sudan, Tanzania, and Uganda.\n<br>",
         "description": "",
         "habitat": "",
@@ -2124,7 +2113,7 @@
         "areas": [
             "forest",
             "savannah",
-            "bush"
+            "savannah"
         ],
         "intro": "The bare-faced go-away-bird  is a species of bird in the family Musophagidae which is native to the eastern Afrotropics. It is named for its distinctive and uniquely bare, black face. The genus is named for the g'way call of its near relation, the grey go-away-bird.\n<br>",
         "description": "The sexes are similar, other than the female's green beak.  It is 48 cm long beak to tail, and weighs approximately 210 to 300 grams.<br>",
@@ -2140,7 +2129,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "The white-bellied go-away-bird  is a bird of eastern Africa in the turaco family.\n<br>",
         "description": "This species averages 51\u00a0cm  in length.  Its long, pointed grey and black tail with a white median band is distinctive.  A white wing patch is conspicuous in flight. The bill is black in male, pea-green in the female.\n<br>",
         "habitat": "",
@@ -2155,7 +2144,7 @@
         "type": "bird",
         "rarity": 1,
         "areas": [
-            "bush",
+            "savannah",
             "water"
         ],
         "intro": "The papyrus gonolek  is a species of bird in the Malaconotidae family. It is found in Burundi, Democratic Republic of the Congo, Kenya, Rwanda, Tanzania, and Uganda.\nIt has specialised habitat requirements, being restricted to papyrus swamps. Not yet a threatened species, it has become rare due to habitat loss and pollution.\n<br>",
@@ -2190,7 +2179,7 @@
         "rarity": 1,
         "areas": [
             "forest",
-            "bush"
+            "savannah"
         ],
         "intro": "Cabanis's greenbul , or Cabanis's bulbul is a species of songbird in the bulbul family, Pycnonotidae. It is found in east-central and south-central Africa. Its natural habitats are subtropical or tropical dry forest, subtropical or tropical moist lowland forest, subtropical or tropical moist montane forest, and subtropical or tropical moist shrubland.\n<br>Cabanis's greenbul was originally described in the genus Criniger. The common name and Latin binomial commemorates the German ornithologist Jean Louis Cabanis. Formerly, some authorities considered the placid greenbul to be a subspecies of Cabanis's greenbul, or Cabanis's greenbul to be a subspecies of Fischer's greenbul.\n<br>Two subspecies are recognized:<br>",
         "description": "",
@@ -2207,7 +2196,7 @@
         "rarity": 1,
         "areas": [
             "forest",
-            "bush"
+            "savannah"
         ],
         "intro": "Fischer's greenbul  is a species of songbird in the bulbul family, Pycnonotidae.\nIt is found in eastern Africa from southern Somalia to north-eastern Mozambique.\nIts natural habitats are subtropical or tropical dry forests, subtropical or tropical moist lowland forests, and subtropical or tropical moist shrubland.\n<br>Fischer's greenbul was originally described in the genus Criniger. Formerly, some authorities have considered it as a subspecies of Sharpe's greenbul and some have also considered Cabanis's greenbul and the placid greenbul to be subspecies of Fischer's greenbul.\nThe common name and scientific name commemorate the German explorer Gustav Fischer. Alternate names for Fischer's greenbul include the East Coast olive greenbul and Fischer's bulbul.<br>",
         "description": "",
@@ -2224,7 +2213,7 @@
         "rarity": 1,
         "areas": [
             "forest",
-            "bush"
+            "savannah"
         ],
         "intro": "The grey-olive greenbul , or grey-olive bulbul, is a species of songbird in the bulbul family, Pycnonotidae.  It is found in eastern and south-central Africa.  Its natural habitats are subtropical or tropical dry forests, subtropical or tropical moist lowland forests, and subtropical or tropical moist shrubland.\n<br>Two subspecies are recognized:<br>",
         "description": "",
@@ -2303,7 +2292,7 @@
         "images": [],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "The olive-headed greenbul  is a species of the bulbul family of passerine birds. It is found in south-eastern Africa.\n<br>The olive-headed greenbul was originally described in the genus Criniger and then classified in Andropadus. It was re-classified to the new genus Arizelocichla in 2010. Alternatively, some authorities classify the olive-headed greenbul in the genus Pycnonotus. Some authorities have considered the olive-headed greenbul to be a subspecies of the stripe-cheeked greenbul. The alternate name green-throated greenbul is also used by the yellow-throated greenbul.<br>The olive-headed greenbul is found in south-western Tanzania, Malawi and north-western Mozambique.<br>",
         "description": "",
         "habitat": "The olive-headed greenbul is found in south-western Tanzania, Malawi and north-western Mozambique.<br>",
@@ -2331,7 +2320,7 @@
         "images": [],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "The placid greenbul  is a species of songbird in the bulbul family, Pycnonotidae. It is found in eastern Africa from eastern Kenya through Tanzania to north-eastern Zambia, Malawi and north-western Mozambique.<br>The placid greenbul was originally described in the genus Xenocichla . Some authorities consider the placid greenbul to be either a subspecies of Cabanis's greenbul or Fischer's greenbul. Alternate names for the placid greenbul include the Kenya Highlands greenbul, Kenya Highlands olive bulbul, Kenya Highlands olive greenbul, olive mountain greenbul, and Shelley's greenbul. The latter name should not be confused with the species of the same name, Arizelocichla masukuensis.\n<br>",
         "description": "",
         "habitat": "",
@@ -2376,7 +2365,7 @@
         "rarity": 1,
         "areas": [
             "forest",
-            "bush"
+            "savannah"
         ],
         "intro": "The sombre greenbul  is a member of the bulbul family of passerine birds. It is a resident breeder in coastal bush, evergreen forest and dry shrub land in eastern and southern Africa.  It is the only member of the genus Andropadus.\n<br>",
         "description": "The sombre greenbul is 15\u201318\u00a0cm long, with mainly dull greyish olive-green plumage, paler on the underparts than above. There are variations in colour based on habitat range. Individuals located in southern Africa tend to be plain, olive-green. To the north, birds are yellower with greener upper parts. It has a white iris. The sexes are similar in plumage, but juveniles are even duller than the adult and have dark, grey eyes. There is no colour distinction among sexes. The subspecies A. i. hypoxanthus is much yellower below than the nominate subspecies.\n<br>The sombre greenbul is a vocal species, and the most typical call is a monotonous, ringing phrase starting with a penetrating single whistle weeeewee, followed by a jumbled chortle and ending off with a rather plaintive, drawn out whistle willy. If agitated, a call of peeet peeet peeet repeatedly is likely to be heard.<br>",
@@ -2407,7 +2396,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "The stripe-faced greenbul  is a species of the bulbul family of passerine birds. It is found in Africa from south-eastern Kenya to south-western Tanzania.<br>The stripe-faced greenbul was originally described in the genus Xenocichla , then classified in Andropadus and, in 2010 re-classified to the new genus Arizelocichla. Some authorities have considered the stripe-faced greenbul to be a subspecies of the stripe-cheeked greenbul.<br>",
         "description": "",
         "habitat": "",
@@ -2423,7 +2412,7 @@
         "rarity": 1,
         "areas": [
             "forest",
-            "bush"
+            "savannah"
         ],
         "intro": "The lowland tiny greenbul , is a species of songbird in the bulbul family, Pycnonotidae.\nIt is found in eastern Africa. Its natural habitats are subtropical or tropical moist lowland forest and subtropical or tropical moist shrubland.\n<br>",
         "description": "",
@@ -2440,7 +2429,7 @@
         "type": "bird",
         "rarity": 1,
         "areas": [
-            "bush"
+            "savannah"
         ],
         "intro": "The purple grenadier  is a common species of estrildid finch found in eastern Africa.\n<br>",
         "description": "The length averages 13.3\u00a0cm .  All ages and sexes have a black tail, and adults have a red bill.  The male has a cinnamon-colored head and neck with a blue patch surrounding the eye.  The rump is purplish blue and the underparts are violet-blue with variable rufous patches.  The female is smaller and mostly cinnamon brown with white barring on the underparts and silver-blue eyepatches.  Juveniles are like females, but mostly unbarred tawny-brown with a reddish-brown bill.<br>The song  is described as \"a high, thin chit-cheet tsereea-ee-ee tsit-tsit, or cheerer cheet tsee-tsee sur-chit.\"<br>The phylogeny has been obtained by Antonio Arnaiz-Villena et al.The phylogeny has been obtained by Antonio Arnaiz-Villena et al.<br>",
@@ -2472,7 +2461,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "",
         "description": "",
         "habitat": "",
@@ -2488,7 +2477,7 @@
         "rarity": 1,
         "areas": [
             "savannah",
-            "bush"
+            "savannah"
         ],
         "intro": "The grey wren-warbler  is a species of bird in the Cisticolidae family.\nIt is found in Angola, Burundi, Democratic Republic of the Congo, Ethiopia, Kenya, Malawi, Rwanda, Somalia, South Sudan, Tanzania, Uganda, and Zambia.\nIts natural habitat is dry savanna.\n<br>The grey wren-warbler is a shy bird found in dense bush and undergrowth. It is normally found singly or in pairs and is a dark brownish-grey with inconspicuous barred markings. The tail is black and the eye red. It is more likely to be heard than seen though there may be an occasional glimpse of its tail which wags up and down as it forages. Its sharp call is rather like two stones striking each other.<br>",
         "description": "",
@@ -2504,7 +2493,7 @@
         "type": "bird",
         "rarity": 1,
         "areas": [
-            "bush"
+            "savannah"
         ],
         "intro": "The southern grosbeak-canary, also known as Kenya grosbeak-canary  is a species of finch in the Fringillidae family. It is found in Kenya and Tanzania. Its natural habitat is subtropical or tropical dry shrubland.\n<br>The southern grosbeak-canary was formerly placed in the genus Serinus but phylogenetic analysis using mitochondrial and nuclear DNA sequences found that the genus was polyphyletic. The genus was therefore split and a number of species including the southern grosbeak-canary were moved to the resurrected genus Crithagra.<br>",
         "description": "",
@@ -2523,7 +2512,6 @@
         "areas": [
             "forest",
             "savannah",
-            "bush",
             "water"
         ],
         "intro": "The hamerkop , is a medium-sized wading bird. It is  the only living species in the genus Scopus and the family Scopidae. The shape of its head with a long bill and crest at the back is reminiscent of a hammer, which has given this species its name after the Afrikaans word for hammerhead. It is found in Africa, Madagascar to Arabia, living in a wide variety of wetlands, including estuaries, lakesides, fish ponds, riverbanks, and rocky coasts. The hamerkop, which is a sedentary bird that often shows local movements, is not globally threatened and is locally abundant in Africa and Madagascar.\n<br>",
@@ -2576,7 +2564,7 @@
         "rarity": 1,
         "areas": [
             "forest",
-            "bush"
+            "savannah"
         ],
         "intro": "The chestnut-fronted helmetshrike  is a species of bird in the helmetshrike family Prionopidae, formerly usually included in the Malaconotidae.\n<br>It is found in Kenya, Mozambique, Somalia, South Africa, Tanzania, and Zimbabwe.\nIts natural habitats are subtropical or tropical dry forests, subtropical or tropical dry shrubland, and subtropical or tropical moist shrubland found around the equator.\n<br>",
         "description": "",
@@ -2593,7 +2581,6 @@
         "rarity": 1,
         "areas": [
             "savannah",
-            "bush",
             "water"
         ],
         "intro": "The grey-crested helmetshrike  is a species of bird in the helmetshrike family Prionopidae, formerly usually included in the Malaconotidae.\n<br>It is found in Kenya and Tanzania.\nIts natural habitats are dry savanna and subtropical or tropical dry shrubland.\nIt is threatened by habitat loss.\n<br>",
@@ -2609,7 +2596,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "The green-backed honeybird , also known as the eastern green-backed honeyguide, green-backed honeyguide and slender-billed honeyguide, is a species of bird in the family Indicatoridae.\n<br>It is found in Angola, Botswana, Democratic Republic of the Congo, Kenya, Malawi, Mozambique, Namibia, Tanzania, Zambia, and Zimbabwe.\n<br>",
         "description": "",
         "habitat": "",
@@ -2693,7 +2680,7 @@
         "areas": [
             "forest",
             "savannah",
-            "bush"
+            "savannah"
         ],
         "intro": "The Abyssinian ground hornbill or northern ground hornbill  is an African bird, found north of the equator, and is one of two species of ground hornbill. The other is the slightly larger southern ground hornbill; the two are the largest species of hornbills found in Africa.\n<br>",
         "description": "Abyssinian ground hornbill is a large, terrestrial hornbill with black body feathers and white primary feathers which are visible in flight.  The adult male has a patch of bare blue skin around the eye and an inflatable patch of bare skin on the neck and throat which is red, apart from the upper throat which is blue. The bill is long and black except for a reddish patch at the base of the mandible. On top of the bill there is a short open-ended black casque. The female is similar but smaller with any bare skin being wholly dark blue. Juvenile birds are dark sooty-brown with a smaller bill, with an incipient casque. As the juvenile matures, which usually takes 3 years, it gradually develops the plumage, bare skin colour and casque of the adults.  The total length is 90 to 110\u00a0cm .<br>It reportedly averages around 90 to 100\u00a0cm  tall, around 110\u00a0cm  and weighs approximately 4\u00a0kg . Per Stevenson and Fanshawe, the Abyssinian is a larger species on average than the southern ground hornbill, at 102\u00a0cm , but published weights and standard measurements contrarily indicate the southern species is indeed slightly larger.<br>",
@@ -2709,7 +2696,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "The Hemprich's hornbill  is a species of hornbill in the family Bucerotidae. It is found in Djibouti, Eritrea, Ethiopia, Kenya, Somalia, South Sudan, and Uganda.\n<br>",
         "description": "",
         "habitat": "",
@@ -2759,7 +2746,7 @@
         "type": "bird",
         "rarity": 1,
         "areas": [
-            "bush"
+            "savannah"
         ],
         "intro": "Von der Decken's hornbill  is a hornbill found in East Africa, especially to the east of the East African Rift, from Ethiopia south to Tanzania. It is found mainly in thorn scrub and similar arid habitats. Jackson's hornbill is often treated as a subspecies of it. It was named after the German explorer Baron Karl Klaus von der Decken .<br>",
         "description": "This species is a small hornbill with blackish upperparts and mainly whitish underparts and head. It has a long tail and a long curved bill which lacks a casque. It is similar to the red-billed hornbill except for the bill colour and the lack of spotting on the wing coverts in both male and female.\n<br>The species shows sexual dimorphism; the female has a black bill, whereas the male has a red bill with a cream tip and a black cutting edge.\n<br>",
@@ -2821,7 +2808,7 @@
         "images": [],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "The Zambezi indigobird , also known as the twinspot indigobird or green indigobird, is a species of bird in the Viduidae family. It is found in Malawi, Tanzania, Zambia, and Zimbabwe.\n<br>It appears on Zambia's new 5 ngwee coin.\n<br>",
         "description": "",
         "habitat": "",
@@ -2838,7 +2825,6 @@
         "areas": [
             "forest",
             "savannah",
-            "bush",
             "water"
         ],
         "intro": "The brown-hooded kingfisher  is a species of bird in the subfamily Halcyoninae, the tree kingfishers. It has a brown head and blackish and turquoise wings. It is found in Sub-Saharan Africa, living in woodland, scrubland, forest edges, and also suburban areas. The International Union for Conservation of Nature  has assessed it as being of least concern.\n<br>",
@@ -2876,7 +2862,7 @@
         "rarity": 1,
         "areas": [
             "forest",
-            "bush",
+            "savannah",
             "water"
         ],
         "intro": "The grey-headed kingfisher  has a wide distribution from the Cape Verde Islands off the north-west coast of Africa to Mauritania, Senegal and Gambia, east to Ethiopia, Somalia and southern Arabia and south to South Africa.\n<br>",
@@ -3011,7 +2997,7 @@
         "type": "bird",
         "rarity": 1,
         "areas": [
-            "bush"
+            "savannah"
         ],
         "intro": "The foxy lark or Abyssinian lark  is a species of lark in the family Alaudidae. It is found in east-central Africa.\n<br>",
         "description": "",
@@ -3026,7 +3012,7 @@
         "rarity": 1,
         "areas": [
             "savannah",
-            "bush"
+            "savannah"
         ],
         "intro": "Friedmann's lark  is a species of lark in the family Alaudidae found in East Africa.\n<br>",
         "description": "It is best identified by its distinctive song; a long, drawn-out singular note, hoo-ee-oo , repeated at 1 or 2 second intervals. It is heard more often at night, and given while atop a bush or during undulating display flights.<br>",
@@ -3044,7 +3030,7 @@
         "rarity": 1,
         "areas": [
             "savannah",
-            "bush"
+            "savannah"
         ],
         "intro": "The masked lark  is a species of lark in the family Alaudidae. It is found in Ethiopia and Kenya. Its natural habitats are subtropical or tropical dry shrubland and subtropical or tropical dry lowland grassland.\n<br>Some authorities have placed the masked lark in the genus Calandrella.<br>Four subspecies are recognized:<br>",
         "description": "",
@@ -3061,7 +3047,7 @@
         "rarity": 1,
         "areas": [
             "savannah",
-            "bush"
+            "savannah"
         ],
         "intro": "The pink-breasted lark  or pink-breasted bushlark is a species of passerine bird in the family Alaudidae.\n<br>",
         "description": "",
@@ -3079,7 +3065,7 @@
         "rarity": 1,
         "areas": [
             "savannah",
-            "bush"
+            "savannah"
         ],
         "intro": "The red-winged lark  is a species of lark in the family Alaudidae found in eastern Africa.\n<br>",
         "description": "It is a larger version of the rufous-naped lark, with a more robust bill and longer tail, but their morphological and vocal features do not intergrade where they occur together.<br>",
@@ -3097,7 +3083,7 @@
         "rarity": 1,
         "areas": [
             "savannah",
-            "bush"
+            "savannah"
         ],
         "intro": "The short-tailed lark  is a species of lark in the family Alaudidae.\n<br>It is found in Ethiopia, Kenya, Somalia, and Tanzania. Its natural habitats are dry savannah, subtropical or tropical dry shrubland, and subtropical or tropical dry lowland grassland.<br>",
         "description": "",
@@ -3110,7 +3096,7 @@
         "images": [],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "The Athi short-toed lark  is a species of lark in the family Alaudidae. It is found in southern Kenya and northern Tanzania.<br>The Athi short-toed lark was originally described as belonging to the genus Spizocorys and was then classified as belonging to the genus Calandrella until moved to Alaudala in 2014. Formerly or presently, some authorities consider the Athi short-toed lark as a subspecies of the Somali short-toed lark or of the lesser short-toed lark. Alternate names for the Athi short-toed lark include the Athi lark and Kenya short-toed lark .\n<br>",
         "description": "",
         "habitat": "",
@@ -3126,7 +3112,7 @@
         "rarity": 1,
         "areas": [
             "savannah",
-            "bush"
+            "savannah"
         ],
         "intro": "Thekla's lark  breeds on the Iberian Peninsula, in northern Africa, and sub-Saharan Africa from Senegal to Somalia. It is a sedentary  species. This is a common bird of dry open country, often at some altitude. Thekla's lark was named by Alfred Edmund Brehm in 1857 for his recently deceased sister Thekla Brehm . The name is a modern Greek one, \u0398\u03ad\u03ba\u03bb\u03b1 , which comes from ancient Greek \u0398\u03b5\u03cc\u03ba\u03bb\u03b5\u03b9\u03b1  derived from \u03b8\u03b5\u03cc\u03c2  and \u03ba\u03bb\u03ad\u03bf\u03c2 . The population is declining in Spain, but this is a common bird with a very wide range and the International Union for Conservation of Nature has rated its conservation status as being of \"least concern\".<br>",
         "description": "This is a smallish lark, slightly smaller than the Eurasian skylark. It has a long, spiky, erectile crest. It is greyer than the Eurasian skylark, and lacks the white wing and tail edge of that species. It is very similar to the widespread crested lark. It is smaller and somewhat greyer than that species, and has a shorter bill. In flight it shows grey underwings, whereas the crested lark has reddish underwings. The body is mainly dark-streaked grey above and whitish below. The sexes are similar.<br>",
@@ -3144,7 +3130,6 @@
         "rarity": 1,
         "areas": [
             "savannah",
-            "bush",
             "water"
         ],
         "intro": "The white-tailed lark  is a species of lark in the family Alaudidae found in Africa.\n<br>Alternate names for the white-tailed lark include northern white-tailed bush lark, northern white-tailed lark and white-tailed bush lark.<br>The white-tailed lark is found in western Chad, eastern Sudan, north-eastern South Sudan, south-central Ethiopia, and from Uganda and western Kenya to central Tanzania. It occurs mainly around Lake Chad and Lake Victoria.\n<br>The natural habitat of M. albicauda is tropical to subtropical, seasonally wet or flooded lowland grassland.\n<br>",
@@ -3264,7 +3249,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water", "savannah"],
+        "areas": ["forest", "savannah", "water", "savannah"],
         "intro": "The Masai ostrich , also known as the pink-necked ostrich or East African ostrich, is a large subspecies of the common ostrich native to East Africa. Today it is farmed for eggs, meat and feathers.\n<br>",
         "description": "",
         "habitat": "",
@@ -3278,7 +3263,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "The blue-naped mousebird , also formerly called the blue-naped coly  is found in the wild in the drier regions of East Africa and is also a common pet bird. It is one of the remaining six species of Mousebirds. The term \u201cmousebird\u201d comes from its ability to move along the ground in a way that resembles the scurrying of a mouse.<br>",
         "description": "The blue-naped mousebird is a fairly small to medium-sized bird, measuring 13-14 inches in length. Adults have an ash brown, grayish body, crested head with a turquoise nape, and a black-and-red bill, whereas juveniles lack the blue on nape, and have pink facial skin and greenish bills.<br>Characteristic of mousebirds, the blue-naped mousebird has widely spaced and large feet for its body size, which are pamprodactylous; they are able to rotate all four toes to face forward at will. Their toes are strong and dextrous, allowing the birds to climb and scurry along branches, to hang by a toenail, or to use one foot to hold food.<br>",
         "habitat": "In the wild, these birds live in the semi-desert and dry regions of eastern Africa They are found in a band between 10\u00b0N and 20\u00b0N from the western coast to Sudan, Djibouti, Eritrea, Ethiopia and Somalia in the East and south 10\u00b0N through East Africa and on to the Eastern Zaire borders.\nThis species has an extremely large range, and hence does not approach the thresholds for Vulnerable under the range size criterion . Despite the fact that the population trend appears to be decreasing, the decline is not believed to be sufficiently rapid to approach the thresholds for Vulnerable under the population trend criterion . The population size has not been quantified, but it is not believed to approach the thresholds for Vulnerable under the population size criterion . For these reasons the species is evaluated as least concern.<br>",
@@ -3295,7 +3280,7 @@
         "areas": [
             "forest",
             "savannah",
-            "bush"
+            "savannah"
         ],
         "intro": "",
         "description": "This bird is about 35\u00a0cm  long, with the tail comprising approximately half the length, and weighs about 57 grams . It is well-named, because it is dull-mousy brown in overall color on the back and on the head . The bill is black on the upper part and is a pinkish color on the lower part. The rare white-headed mousebird can be confused with this species, but the differently colored mandibles and the lack of a bare grey orbital patch render the Speckled species distinctive.<br>The speckled mousebird is not known for its voice, as songbirds are, although it is a noisy creature. They make a warbling tsu-tsu call while in flight, and are known for their tisk-tisk alarm call while in flight.<br>",
@@ -3311,7 +3296,7 @@
         "type": "bird",
         "rarity": 1,
         "areas": [
-            "bush"
+            "savannah"
         ],
         "intro": "The white-headed mousebird  is a bird belonging to the mousebird family, Coliidae. It is found only in east Africa where it occurs in southern Somalia and parts of Kenya with its range just extending into southern Ethiopia and northern Tanzania. It inhabits arid bushland up to 1,400 metres above sea-level.\n<br>It is 32\u00a0cm long with the long, graduated tail accounting for over half of this. The plumage is mainly greyish with black and white barring on the back, neck and breast. It has a white crest, crown and cheeks. There is a white stripe down the back which becomes visible when the bird flies. Around the eye is a patch of dark, bare skin. The bill is bluish-white above and buff below. In juvenile birds, the throat and breast are buff. The northern subspecies  is darker than the southern form .\n<br>The contact call is a scratchy chattering and the bird also has a descending song.\n<br>",
         "description": "",
@@ -3330,7 +3315,6 @@
         "areas": [
             "forest",
             "savannah",
-            "bush",
             "water"
         ],
         "intro": "The eastern nicator  is a species of songbird in the family Nicatoridae.\nIt is found in Kenya, Malawi, Mozambique, Somalia, South Africa, Swaziland, Tanzania, Zambia, and Zimbabwe.\nIts natural habitats are subtropical or tropical dry forests, dry savanna, and subtropical or tropical moist shrubland. It occurs south to around Mtunzini in northern KwaZulu-Natal, South Africa, and is regularly reported from lowland areas north through to east Africa, including inland areas along the Zambezi River.<br>This species was formerly called the \"yellow-spotted nicator\" although this is no longer the case, with that name now belonging solely to the central African western nicator.\n<br>",
@@ -3349,7 +3333,7 @@
         "rarity": 1,
         "areas": [
             "forest",
-            "bush",
+            "savannah",
             "water"
         ],
         "intro": "The thrush nightingale , also known as the sprosser, is a small passerine bird that was formerly classed as a member of the thrush family Turdidae, but is now more generally considered to be an Old World flycatcher, Muscicapidae. It, and similar small European species, are often called chats.\n<br>It is a migratory insectivorous species breeding in forests in Europe and Asia and overwintering in Africa. The distribution is more northerly than the very closely related common nightingale, Luscinia megarhynchos, which it closely resembles in appearance. It nests near the ground in dense undergrowth.\n<br>The thrush nightingale is similar in size to the European robin. It is plain greyish-brown above and white and greyish-brown below. Its greyer tones, giving a cloudy appearance to the underside, and lack of the common nightingale's obvious rufous tail side patches are the clearest plumage differences from that species. Sexes are similar. It has a similar but more powerful song than that of the nightingale.\n<br>",
@@ -3381,7 +3365,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "The Nubian nightjar  is a species of nightjar in the family Caprimulgidae. It is found in Djibouti, Egypt, Eritrea, Ethiopia, Israel, Kenya, Oman, Saudi Arabia, Somalia, Sudan, and Yemen.\n<br>The Nubian nightjar is 20\u201322\u00a0cm long. The bird resembles the Moorish nightjar, but is smaller, has a shorter tail and blunt wings compared to the \u033aMoorish nightjar. Another characteristic feature is a red-brown band over the neck. The white wing spots are not further away from the wing tips than other types of nightjars.<br>",
         "description": "The Nubian nightjar is 20\u201322\u00a0cm long. The bird resembles the Moorish nightjar, but is smaller, has a shorter tail and blunt wings compared to the \u033aMoorish nightjar. Another characteristic feature is a red-brown band over the neck. The white wing spots are not further away from the wing tips than other types of nightjars.<br>",
         "habitat": "",
@@ -3395,7 +3379,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "",
         "description": "",
         "habitat": "",
@@ -3409,7 +3393,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "The star-spotted nightjar  is a species of nightjar in the family Caprimulgidae.\nIt is found in Ethiopia, Kenya, Somalia, and South Sudan.\n<br>",
         "description": "",
         "habitat": "",
@@ -3486,7 +3470,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "The brown parisoma or brown warbler  is a typical warbler found in eastern Africa.\n<br>",
         "description": "",
         "habitat": "",
@@ -3550,7 +3534,7 @@
         "rarity": 1,
         "areas": [
             "savannah",
-            "bush"
+            "savannah"
         ],
         "intro": "The golden pipit  is a distinctive pipit of dry country grassland, savanna and shrubland in eastern Africa. It is native to Ethiopia, Kenya, Somalia, South Sudan, Tanzania and Uganda, and has occurred as a vagrant to Oman, South Africa and Zimbabwe.<br>The adult male, unlike most pipits, is very easy to identify. It is yellow below and yellow in the wings. From the front the yellow throat and breast with the dark band does resemble the yellow-throated longclaw or Pangani longclaw, but neither have yellow wings  and both have a black line in the face. The female golden pipit is a fairly typical brown pipit but has a yellow underside to the wing.\nIt is gold in colour.\n<br>",
         "description": "",
@@ -3631,7 +3615,7 @@
         "rarity": 1,
         "areas": [
             "savannah",
-            "bush"
+            "savannah"
         ],
         "intro": "The lark buttonquail, lark-plover or quail-plover  is a species of buttonquail in the family Turnicidae. It is monotypic within the genus Ortyxelos.<br>",
         "description": "The quail-plover is a small, short-tailed cursorial bird which looks a little like a miniature courser when on the ground. The upperparts are a sandy-rufous colour and the underparts mainly whitish.  They show a distinctive wing pattern in flight when the contrast between the white primary coverts and the black with white-tipped remiges to form a distinct diagonal band on the upperwing. Its fluttering flight style is rather lark-like. The females are slightly darker than the males while the juveniles are paler.<br>",
@@ -3683,7 +3667,7 @@
         "rarity": 1,
         "areas": [
             "forest",
-            "bush"
+            "savannah"
         ],
         "intro": "The brown-necked raven  is a larger bird  than the carrion crow though not as large as the common raven. It has similar proportions to the common raven but the bill is not so large or deep and the wings tend to be a little more pointed in profile. The head and throat are a distinct brownish-black giving the bird its English name, while the rest of the plumage is black glossed with purple, blue or purplish-blue. Like the Common raven, Thick-billed raven and White-necked raven, it is one of the larger raven species. The smaller raven species are the Australian raven, Forest raven, Little raven, Fan-tailed raven and Chihuahuan raven with the Thick-billed raven being the world's largest raven species and the Chihuahuan raven being the smallest. The feathers of this species often fade quite quickly to a brownish black  and the bird can look distinctly brown by the time it moults. The feet, legs and bill are black. The dwarf raven was formerly considered a subspecies  but this bird now appears to be closer to the pied crow  than this species.\n<br>",
         "description": "",
@@ -3701,7 +3685,7 @@
         "rarity": 1,
         "areas": [
             "forest",
-            "bush"
+            "savannah"
         ],
         "intro": "The fan-tailed raven  is a passerine bird of the crow family native to Eastern Africa and the Arabian Peninsula. Like the Forest raven, Little raven, Australian raven and Chihuahuan raven, it is one of the smaller raven species. The larger species of raven are the Common raven, Thick-billed raven, White-necked raven and Brown-necked raven with the Common and Thick-billed ravens being the world's largest raven species and the Little and Fan-tailed ravens being the smallest, in fact it is about the same size or slightly larger than the carrion crow  but with a much thicker bill, shorter tail and much larger wings.\n<br>",
         "description": "The fan-tailed raven is completely black including bill, legs and feet and the plumage has a purplish-blue gloss in good light. Worn plumage is slightly coppery-brown. The base of the feathers on the upper neck are white and only seen if the bird is inspected or a strong gust blows them the wrong way. The throat hackles are shorter than in most other ravens.\n<br>The voice is described as guttural croaks mixed with the sound of frog-call. Like all corvids, the Fan-tailed raven is capable of vocal mimicry, however this behavior is mostly recorded in captivity and, very rarely, in the wild.\n<br>",
@@ -3719,7 +3703,7 @@
         "rarity": 1,
         "areas": [
             "forest",
-            "bush"
+            "savannah"
         ],
         "intro": "",
         "description": "The white-necked raven has a much shorter tail than the common raven, as well as a deeper bill with a white tip that is almost as strongly arched as that of the thick-billed raven. Though predominantly black, the throat, breast and neck show a faint purple gloss. There is a large patch of white feathers on the nape of the neck.\n<br>Soars well with shallower wingbeats than other Corvidae.<br>Often described as a raven with a sore throat, it has very similar calls to the common raven, but with a more husky note. It has a croak like the other raven species but with a more whispering note. Like all corvids, the White-necked raven is capable of vocal mimicry. However, this behavior is only ever recorded in captivity.\n<br>",
@@ -3735,7 +3719,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "The black redstart  is a small passerine bird in the redstart genus Phoenicurus. Like its relatives, it was formerly classed as a member of the thrush family , but is now known to be an Old World flycatcher .  Other common names are Tithy's redstart, blackstart and black redtail.\n<br>",
         "description": "\nThe black redstart is 13\u201314.5\u00a0cm  in length and 12\u201320\u00a0g  in weight, similar to the common redstart. The adult male is overall dark grey to black on the upperparts and with a black breast; the lower rump and tail are orange-red, with the two central tail feathers dark red-brown. The belly and undertail are either blackish-grey  or orange-red ; the wings are blackish-grey with pale fringes on the secondaries forming a whitish panel  or all blackish . The female is grey  to grey-brown  overall except for the orange-red lower rump and tail, greyer than the common redstart; at any age the grey axillaries and underwing coverts are also distinctive . One-year-old males are similar to females but blacker; the whitish wing panel of the western subspecies does not develop until the second year.<br>",
         "habitat": "It is a widespread breeder in south and central Europe and Asia and northwest Africa, from Great Britain and Ireland  south to Morocco, east to central China. It is resident in the milder parts of its range, but northeastern birds migrate to winter in southern and western Europe and Asia, and north Africa. It nests in crevices or holes in buildings.<br>In Britain, it is most common as a passage and winter visitor, with only 20\u201350 pairs breeding. On passage it is fairly common on the east and south coasts, and in winter on the coasts of Wales and western and southern England, with a few also at inland sites. Migrant black redstarts arrive in Britain in October or November and either move on or remain to winter, returning eastward in March or April. They also winter on the south and east coasts of Ireland.<br>The species originally inhabited stony ground in mountains, particularly cliffs, but since about 1900 has expanded to include similar urban habitats including bombed areas during and after World War II, and large industrial complexes that have the bare areas and cliff-like buildings it favours; in Great Britain, most of the small breeding population nests in such industrial areas. It will catch passing insects in flight, and migrants often hunt in coastal tide-wrack for flies or tiny crustaceans. Its quick ducks of head and body are robin-like, and its tail is often flicked. The male has a rattling song and a tick call.\n<br>Eastern race birds are very rare vagrants in western Europe.<br>",
@@ -3767,7 +3751,7 @@
         "rarity": 1,
         "areas": [
             "forest",
-            "bush"
+            "savannah"
         ],
         "intro": "The R\u00fcppell's robin-chat  is a species of bird in the family Muscicapidae, that is native to the Afrotropics. It is named for the German naturalist Eduard R\u00fcppell.<br>",
         "description": "It is a smaller version of the White-browed robin-chat, measuring 18\u00a0cm rather than 20 \u00a0cm, with darker, blackish central tail feathers, and in some races a more constricted supercilium behind the eye.<br>",
@@ -3784,7 +3768,7 @@
         "rarity": 1,
         "areas": [
             "forest",
-            "bush",
+            "savannah",
             "water"
         ],
         "intro": "The bearded scrub robin , also known as the eastern bearded scrub robin, is a species of bird in the family Muscicapidae. It is found in eastern and southern Africa.\n<br>",
@@ -3802,7 +3786,7 @@
         "type": "bird",
         "rarity": 1,
         "areas": [
-            "bush"
+            "savannah"
         ],
         "intro": "The rufous-tailed scrub robin  is a medium-sized member of the family Muscicapidae. Other common names include the rufous scrub robin, rufous bush chat, rufous bush robin and the rufous warbler. It breeds around the Mediterranean and east to Pakistan. It also breeds south of the Sahara from the Sahel region east to Somalia; these African birds are sometimes considered to be a separate species, the African scrub robin . It is partially migratory, wintering in Africa  and India. This is a very rare visitor to northern Europe.\n<br>The scientific name is from Ancient Greek. Cercotrichas is from kerkos, \"tail\" and trikhas, \"thrush\", and galactotes means resembling milk, from galaktos, \"milk\".<br>The rufous-tailed scrub robin is a bird of dry open country with bushes and shrubs. It builds its nest a few feet off the ground; there are three to five eggs is a typical clutch.\n<br>The rufous-tailed scrub robin is larger than the European robin. It has brown upper parts, whitish under parts, and a prominent whitish eye-stripe. The western race has a paler, warmer brown back than birds in southeastern Europe and Asia. The long rufous tail is frequently fanned, showing the black and white tips of the tail feathers. The adult male and female have similar plumage and the juvenile resembles the adult but is paler. These birds feed on insects mostly caught on the ground. Their clear thrush-like song has a sad tone.\n<br>",
         "description": "Adult male and female rufous-tailed scrub robin look alike and measure about 6 inches  long with relatively long legs and a large rounded tail. The upper parts are a rich brownish chestnut, with the rump and uppertail coverts rather more rufous. There is a distinct curved, creamy-white broad streak from the nostrils to behind the eye and a dark brown line through the eye. The under-eye area is whitish and the ear coverts pale brown. The eye and the beak are both brown but the lower mandible of the beak has a greyish base. The underparts are buffish white, with the chin, central belly and undertail coverts paler than the other parts. The feathers of the wing are dark brown, fringed on the leading edge with buff and on the trailing edge with pale chestnut-brown and with the secondaries tipped with white. The central pair of feathers on the tail are bright rufous-chestnut with narrow black tips and the rest a similar colour with white tips and adjacent broad black bands. The legs and feet are pale brown. Juveniles are similar in appearance but generally a paler sandy-brown colour. The plumage is moulted in the autumn and prior to this, the white tips of the tail feathers may have become reduced in size or worn off.<br>The song is a somewhat lark-like but often disjointed series of notes, sometimes clear and loud but at other times soft, and is sung from an elevated position near the top of a tree, on a pole or on a wire.  It has been described as having a sad tone.<br>",
@@ -3820,7 +3804,7 @@
         "rarity": 1,
         "areas": [
             "forest",
-            "bush",
+            "savannah",
             "water"
         ],
         "intro": "The white-starred robin  is a species of bird in the Old World flycatcher and chat family Muscicapidae. It is also sometimes more simply called the starred robin. It is monotypic within the genus Pogonocichla. There are around twelve subspecies. The species is found in East and southern Africa. It is a forest species, occurring in montane forest in the north of its range but closer to sea level further south. This is a brightly coloured robin with a bright yellow breast and belly, a slate coloured head with spots on the eyes and throat and blueish wings.\n<br>The white-starred robin gives a range of calls that vary geographically. The diet is dominated by insects, although some fruit is taken as well. It is a territorial and seasonal breeder that lays up to three eggs in a domed nest. The generic name Pogoncichla is derived from the Greek pogon for beard, a reference to the white spots on the throat and face, and kikhle for thrush. Similarly the specific name stellata and the species' common name are also derived from the facial spots.<br>",
@@ -3868,7 +3852,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "The black-faced sandgrouse  is a species of bird in the Pteroclididae family.\nIt is found in Ethiopia, Kenya, Somalia, Tanzania, and Uganda.\n<br>",
         "description": "",
         "habitat": "",
@@ -3883,7 +3867,7 @@
         "type": "bird",
         "rarity": 1,
         "areas": [
-            "bush",
+            "savannah",
             "water"
         ],
         "intro": "",
@@ -3899,7 +3883,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "",
         "description": "",
         "habitat": "",
@@ -3913,7 +3897,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "The Abyssinian scimitarbill  is a species of bird in the family Phoeniculidae.\nIt is found in Djibouti, Ethiopia, Kenya, Somalia, South Sudan, Tanzania, and Uganda.\n<br>",
         "description": "",
         "habitat": "",
@@ -3925,7 +3909,7 @@
         "images": [],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "The lesser seedcracker  is a common species of estrildid finch found in eastern Africa. It has an estimated global extent of occurrence of 410,000\u00a0km2.\n<br>It is found in Malawi, Mozambique, Tanzania and Zimbabwe. The IUCN has classified the species as being of least concern.\n<br>",
         "description": "",
         "habitat": "",
@@ -3942,7 +3926,7 @@
         "areas": [
             "forest",
             "savannah",
-            "bush"
+            "savannah"
         ],
         "intro": "The Reichenow's seedeater , is a species of finch in the Fringillidae family.  It is sometimes considered conspecific with the black-throated canary.\n<br>The Reichenow's seedeater was formerly placed in the genus Serinus but phylogenetic analysis using mitochondrial and nuclear DNA sequences found that the genus was polyphyletic. The genus was therefore split and a number of species including the Reichenow's seedeater were moved to the resurrected genus Crithagra.<br>It is found frequently in eastern Africa.\nIts natural habitats are subtropical or tropical dry forests, dry savanna, and subtropical or tropical dry shrubland.\n<br>",
         "description": "",
@@ -3990,7 +3974,7 @@
         "type": "bird",
         "rarity": 1,
         "areas": [
-            "bush"
+            "savannah"
         ],
         "intro": "Shelley's sparrow , also known as Shelley's rufous sparrow or the White Nile rufous sparrow, is a sparrow found in eastern Africa from South Sudan, southern Ethiopia, and north-western Somalia to northern Uganda and north-western Kenya. Formerly, it was considered as a subspecies of the Kenya sparrow. This species is named after English geologist and ornithologist George Ernest Shelley.<br>",
         "description": "",
@@ -4006,7 +3990,7 @@
         "type": "bird",
         "rarity": 1,
         "areas": [
-            "bush"
+            "savannah"
         ],
         "intro": "The isabelline shrike or Daurian shrike  is a member of the shrike family . It was previously considered conspecific with the red-backed shrike and red-tailed shrike.\n<br>",
         "description": "The plumage is isabelline, the sandy colour which gives rise to its name. It has a red tail. Young birds can be distinguished from young red-backed shrikes by the much sparser vermiculations on the underparts.\n<br>",
@@ -4024,7 +4008,7 @@
         "rarity": 1,
         "areas": [
             "forest",
-            "bush"
+            "savannah"
         ],
         "intro": "The northern white-crowned shrike or white-rumped shrike , is a shrike found in dry thornbush, semi-desert, and open acacia woodland in east Africa from south eastern South Sudan and southern Ethiopia to Tanzania. Its binomial name commemorates the German naturalist and explorer Eduard R\u00fcppell.\n<br>The northern white-crowned shrike is a 19\u201323-cm long passerine. The adult has a white crown and rump, black eyestripe, brown back and wings and black tail. The throat, breast and belly are white, and the flanks are brown. The sexes are similar, but juveniles have a brown crown, white head sides, and grey breast. The flight is parrot-like.\n<br>Several subspecies have been described, but there is extensive individual variation in plumage. Although birds in the north of the range are larger than in the south, the difference is clinal and the northern white-crowned shrike may be monotypic.\n<br>The calls are high-pitched squawks, squeaks and chatters, including  kek-kek and chee-chee.\n<br>The northern white-crowned shrike is gregarious, occurring in groups of up 12 birds. It hunts from an exposed perch, feeding mainly on large insects, usually taken from the ground. It also will feed from the backs of large mammals, like an oxpecker, and occasionally will eat fruit which has fallen to the ground.\n<br>The neat thick-walled cup nest is constructed from grass and spider webs in a horizontal tree fork 4\u20136 metres above the ground. The two to four white or lilac eggs are blotched with grey, purple or brown. It is likely that cooperative breeding occurs, given the gregarious habits of this species and the known cooperative breeding of the closely related southern white-crowned shrike.\n<br>",
         "description": "The northern white-crowned shrike is a 19\u201323-cm long passerine. The adult has a white crown and rump, black eyestripe, brown back and wings and black tail. The throat, breast and belly are white, and the flanks are brown. The sexes are similar, but juveniles have a brown crown, white head sides, and grey breast. The flight is parrot-like.\n<br>Several subspecies have been described, but there is extensive individual variation in plumage. Although birds in the north of the range are larger than in the south, the difference is clinal and the northern white-crowned shrike may be monotypic.\n<br>The calls are high-pitched squawks, squeaks and chatters, including  kek-kek and chee-chee.\n<br>",
@@ -4056,7 +4040,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "",
         "description": "The silverbird is a stunning flycatcher of open areas west of the Rift Valley, silvery grey above and tawny orange below. Juveniles have black-bordered tawny spots on upperparts, mottled buff and black on throats and breasts. The species is 18\u00a0cm  long and weighs 22\u201323\u00a0g .<br>The call of the silverbird uses short phrases which are slightly thrush-like. Sometimes the terminal note is higher and thinner, eee-sleeur-eeee or sweet siursur-eet-seet; also a longer eep-eep churEErip, eep-eep cherip chch chchch eee, embellished with chattering and seep notes.\n<br>",
         "habitat": "",
@@ -4089,7 +4073,6 @@
         "areas": [
             "forest",
             "savannah",
-            "bush",
             "water"
         ],
         "intro": "The white-browed sparrow-weaver  is a predominantly brown, sparrow-sized bird found throughout central and north-central southern Africa. It is found in \ngroups of two to eleven individuals consisting of one breeding pair and nonreproductive individuals.\n<br>",
@@ -4107,7 +4090,6 @@
         "rarity": 1,
         "areas": [
             "savannah",
-            "bush",
             "water"
         ],
         "intro": "The chestnut sparrow  is a species of passerine bird in the sparrow family Passeridae. It is the smallest member of the sparrow family, at about 11\u00a0cm  long. The breeding male has deep chestnut plumage and the female and juvenile are coloured a duller grey with some chestnut markings. Like its closest relatives in the genus Passer, the Arabian golden sparrow and the Sudan golden sparrow, it is gregarious and found in arid areas. Ranging through the east of Africa from Darfur in Sudan to Tanzania, it is found in dry savanna, papyrus swamps, and near human habitation. Adults and juveniles both feed mostly on grass seeds, and fly in flocks, often with other species of birds, to find food. It nests in trees, building its own domed nests, and also usurping the more elaborate nests of weavers.\n<br>",
@@ -4125,7 +4107,7 @@
         "rarity": 1,
         "areas": [
             "savannah",
-            "bush"
+            "savannah"
         ],
         "intro": "The Kenya sparrow , also known as the Kenya rufous sparrow, is a sparrow found in Kenya and Tanzania. It tends to be found in dry wooded savannah and agricultural areas. Some authorities have lumped the great sparrow , the Kenya sparrow, and the Socotra sparrow  into P.\u00a0motitensis following Dowsett and Forbes-Watson . Some authorities also lump Shelley's sparrow and the Kordofan sparrow with this species, or all three with the great sparrow.<br>",
         "description": "",
@@ -4141,7 +4123,7 @@
         "type": "bird",
         "rarity": 1,
         "areas": [
-            "bush"
+            "savannah"
         ],
         "intro": "The parrot-billed sparrow  is found in the arid lowlands of eastern Africa. At 18 centimetres  and 42 grams , it is largest of the sparrows of the family Passeridae. It is often considered a subspecies of the grey-headed sparrow.\n<br>",
         "description": "",
@@ -4157,7 +4139,7 @@
         "type": "bird",
         "rarity": 1,
         "areas": [
-            "bush"
+            "savannah"
         ],
         "intro": "",
         "description": "",
@@ -4174,7 +4156,7 @@
         "rarity": 1,
         "areas": [
             "savannah",
-            "bush"
+            "savannah"
         ],
         "intro": "The Swahili sparrow  is a passerine bird of the sparrow family Passeridae. It lives in the savanna of southern Kenya and Tanzania. Until recently, it was usually treated as a subspecies of the northern grey-headed sparrow , which it hybridizes with in southern Tanzania and possibly elsewhere.\n<br>",
         "description": "",
@@ -4205,7 +4187,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "The yellow-necked spurfowl or yellow-necked francolin  is a species of bird in the family Phasianidae.  It is found in Djibouti, Eritrea, Ethiopia, Kenya, Somalia, Sudan, Tanzania, and Uganda. This species is named for the yellow patch found on its neck. Males of this species have been noted to have spurs on the back of their legs.\n<br>",
         "description": "",
         "habitat": "",
@@ -4220,7 +4202,7 @@
         "type": "bird",
         "rarity": 1,
         "areas": [
-            "bush"
+            "savannah"
         ],
         "intro": "Fischer's starling  is a bird which is an uncommon resident breeder from southern Ethiopia and Somalia to eastern Kenya and Tanzania. It is found in dry open acacia thornbush.\n<br>The English and scientific names commemorate the German explorer Gustav Fischer.<br>",
         "description": "The adult of this 18\u00a0cm  long, 51\u00a0g  starling has mainly dully ash-grey plumage except for a white lower chest, belly and undertail. It has a white iris and dark bill. The sexes are alike, but the juvenile has browner plumage, a brown iris and a dull yellow lower mandible. There are no subspecies.\n<br>This species has a number of calls, but the most familiar is a wheezing cree-wee-creewoo. There is also a loud whistle and a metallic song.\n<br>",
@@ -4252,7 +4234,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water", "savannah"],
+        "areas": ["forest", "savannah", "water", "savannah"],
         "intro": "The ashy starling  is a species of starling in the family Sturnidae. It is found in Kenya and Tanzania.  It is alternatively placed in the genus Cosmopsarus or Spreo.\n<br>",
         "description": "",
         "habitat": "",
@@ -4266,7 +4248,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water", "savannah"],
+        "areas": ["forest", "savannah", "water", "savannah"],
         "intro": "The black-bellied starling  is a species of starling in the Sturnidae family. It is found in Kenya, Mozambique, Somalia, South Africa, Swaziland, Tanzania, and Zimbabwe.\n<br>",
         "description": "",
         "habitat": "",
@@ -4298,7 +4280,7 @@
         "rarity": 1,
         "areas": [
             "savannah",
-            "bush"
+            "savannah"
         ],
         "intro": "",
         "description": "The adult has a metallic green head and upper back, bright golden yellow breast and belly, dark bill and legs, white iris and metallic violet blue on wings, back, neck and its long tail feathers. Both sexes are similar. The young are duller than the adult.\n<br>",
@@ -4316,7 +4298,6 @@
         "areas": [
             "forest",
             "savannah",
-            "bush",
             "water"
         ],
         "intro": "Hildebrandt's starling  is a species of starling in the family Sturnidae. It forms a superspecies with and has previously been included in the same species as Shelley's starling, a migratory species ranging from Ethiopia and Somalia to Kenya. Both of these species have also been combined into a superspecies with the chestnut-bellied starling of West Africa. It was originally placed in the now defunct genus Notauges. The species is named for Johann Maria Hildebrandt, a German collector who was the first European to obtain specimens.<br>",
@@ -4332,7 +4313,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water", "savannah"],
+        "areas": ["forest", "savannah", "water", "savannah"],
         "intro": "Kenrick's starling  is a species of starling in the family Sturnidae. It is found in Kenya and Tanzania.\n<br>",
         "description": "",
         "habitat": "",
@@ -4347,7 +4328,7 @@
         "type": "bird",
         "rarity": 1,
         "areas": [
-            "bush"
+            "savannah"
         ],
         "intro": "The magpie starling  is a member of the starling family from eastern Africa.\n<br>",
         "description": "The magpie starling is about 16\u201319\u00a0cm  in length. The white patches at base of primaries are obvious in flight. The male is a shiny blue-black on upperparts, head and upper breast, with mostly white below and bloodred eyes. The female is a dull blackish above with dark grey crown, and a dark grey throat is separated from white belly by a glossy black breast band. Her eyes are red or orange-red. The Juvenile is brown with a white belly; eyes brown, becoming orange-red in as the bird matures. Exceptional young birds are entirely white below, including chin and throat.\n<br>The call is a prolonged soft babbling quereeeh quaaa kereek quak-quak, suaaaa, cherak-chik-chak...mixed higher harsh notes.\n<br>",
@@ -4362,7 +4343,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water", "savannah"],
+        "areas": ["forest", "savannah", "water", "savannah"],
         "intro": "R\u00fcppell's starling , also known as Rueppell's glossy-starling or Rueppell's long-tailed starling, is a species of starling in the family Sturnidae. It is found in Burundi, the Democratic Republic of the Congo, Eritrea, Ethiopia, Kenya, Rwanda, Somalia, South Sudan, Sudan, Tanzania, and Uganda.\n<br>",
         "description": "",
         "habitat": "",
@@ -4376,7 +4357,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water", "savannah"],
+        "areas": ["forest", "savannah", "water", "savannah"],
         "intro": "Sharpe's starling  is a species of starling in the family Sturnidae. It is found in Burundi, the Democratic Republic of the Congo, Ethiopia, Kenya, Rwanda, South Sudan, Tanzania, and Uganda.\n<br>The common name and Latin binomial name commemorate the British zoologist Richard Bowdler Sharpe.<br>",
         "description": "",
         "habitat": "",
@@ -4390,7 +4371,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water", "savannah"],
+        "areas": ["forest", "savannah", "water", "savannah"],
         "intro": "The slender-billed starling  is a species of starling in the family Sturnidae. It is found in Burundi, Democratic Republic of the Congo, Eritrea, Ethiopia, Kenya, Malawi, Rwanda, Tanzania, Uganda, and Zambia.<br>",
         "description": "",
         "habitat": "",
@@ -4404,7 +4385,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water", "savannah"],
+        "areas": ["forest", "savannah", "water", "savannah"],
         "intro": "Stuhlmann's starling  is a species of starling in the family Sturnidae. It is found in Burundi, the Democratic Republic of the Congo, Ethiopia, Kenya, Rwanda, South Sudan, Tanzania, and Uganda. Their length is usually around 19\u00a0cm, and they feed on seed, grain, arthropods and larvae.<br>",
         "description": "",
         "habitat": "",
@@ -4421,7 +4402,6 @@
         "areas": [
             "forest",
             "savannah",
-            "bush",
             "water"
         ],
         "intro": "The superb starling  is a member of the starling family of birds. It was formerly known as Spreo superbus.<br>",
@@ -4453,7 +4433,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water", "savannah"],
+        "areas": ["forest", "savannah", "water", "savannah"],
         "intro": "The white-billed starling  is a species of starling in the family Sturnidae. It is found in Eritrea and Ethiopia.\n<br>",
         "description": "",
         "habitat": "",
@@ -4501,7 +4481,6 @@
         "areas": [
             "forest",
             "savannah",
-            "bush",
             "water"
         ],
         "intro": "The amethyst sunbird, also called the black sunbird , is a species of passerine bird in the Nectariniidae family. It is native to the Afrotropics, mostly south of the equator. They are commonly found in well-watered habitats, and undertake seasonal movements to visit flowering woodlands. The demise of some woodlands have impacted their numbers locally, but their range has also expanded along with the spread of wooded gardens.\n<br>",
@@ -4519,7 +4498,6 @@
         "rarity": 1,
         "areas": [
             "savannah",
-            "bush",
             "water"
         ],
         "intro": "The beautiful sunbird  is a sunbird. It is native to tropical Africa, its range extending from Senegal and Guinea in the west to Sudan, South Sudan, Ethiopia and Kenya in the east.\n<br>",
@@ -4535,7 +4513,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "The black-bellied sunbird  is a species of bird in the Nectariniidae family.\nIt is found in Ethiopia, Kenya, Somalia, and Tanzania. At an average weight of around 5\u00a0grams, this is the smallest known species of sunbird.\n<br>",
         "description": "",
         "habitat": "",
@@ -4568,7 +4546,7 @@
         "rarity": 1,
         "areas": [
             "forest",
-            "bush",
+            "savannah",
             "water"
         ],
         "intro": "The collared sunbird, , is a sunbird. The sunbirds are a group of very small Old World passerine birds which feed largely on nectar, although they will also take insects, especially when feeding young. Collared sunbird is in fact mainly insectivorous.\n<br>",
@@ -4634,7 +4612,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "The green-headed sunbird  is a species of bird in the Nectariniidae family.\nIt is found in Angola, Benin, Burkina Faso, Burundi, Cameroon, Central African Republic, Republic of the Congo, Democratic Republic of the Congo, Ivory Coast, Equatorial Guinea, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Liberia, Malawi, Mali, Nigeria, Rwanda, Senegal, Sierra Leone, South Sudan, Tanzania, Togo, Uganda, and Zambia.\n<br>",
         "description": "",
         "habitat": "",
@@ -4650,7 +4628,7 @@
         "rarity": 1,
         "areas": [
             "forest",
-            "bush"
+            "savannah"
         ],
         "intro": "The malachite sunbird  is a small nectarivorous bird found from the highlands of Ethiopia southwards to South Africa. The pollinate many flowering plants, particularly those with long corolla tubes, in the Fynbos.\n<br>",
         "description": "The breeding male malachite sunbird, which has very long central tail feathers, is 25\u00a0cm long, and the shorter-tailed female 15\u00a0cm. The adult male is metallic green when breeding, with blackish-green wings with small yellow pectoral patches. In non-breeding  plumage, the male's upperparts are brown apart from the green wings and tail, the latter retaining the elongated feathers. The underparts in eclipse plumage are yellow, flecked with green.\n<br>The female has brown upperparts and dull yellow underparts with some indistinct streaking on the breast. Her tail is square-ended. The juvenile resembles the female.\n<br>",
@@ -4666,7 +4644,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "The Marico sunbird  is a species of bird in the Nectariniidae family.\nIt is found in Angola, Botswana, Burundi, Eritrea, Ethiopia, Kenya, Mozambique, Namibia, Rwanda, Somalia, South Africa, South Sudan, Swaziland, Tanzania, Uganda, Zambia, and Zimbabwe.\n<br>",
         "description": "",
         "habitat": "",
@@ -4682,7 +4660,7 @@
         "rarity": 1,
         "areas": [
             "forest",
-            "bush",
+            "savannah",
             "water"
         ],
         "intro": "Neergaard's sunbird  is a species of bird in the Nectariniidae family. It is found in Mozambique and South Africa. Its natural habitat is subtropical or tropical dry forests near the coast, where it is threatened by habitat loss.\n<br>",
@@ -4698,7 +4676,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "The Nile Valley sunbird  is a species of bird in the Nectariniidae family. It is found in Djibouti, Egypt, Eritrea, Ethiopia, Oman, Saudi Arabia, Somalia, Sudan, Libya, and Yemen.\n<br>In February, the male Nile Valley sunbird assumes his nuptial plumage which he displays in flamboyant fashion. In winter both sexes look alike, tiny, only 9 to 10\u00a0cm long, pale grey above and washed-out yellow below, with a long, slender and slightly down-curved bill. \n<br>",
         "description": "",
         "habitat": "",
@@ -4776,7 +4754,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "The Shelley's sunbird  is a species of bird in the Nectariniidae family.  It is found in Democratic Republic of the Congo, Malawi, Mozambique, Tanzania, Zambia and Zimbabwe. The species is named after George Ernest Shelley.\n<br>",
         "description": "",
         "habitat": "",
@@ -4790,7 +4768,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "",
         "description": "",
         "habitat": "",
@@ -4803,7 +4781,7 @@
         "type": "bird",
         "rarity": 1,
         "areas": [
-            "bush"
+            "savannah"
         ],
         "intro": "The Tsavo sunbird  is a small passerine bird of Kenya and Tanzania.  It is sometimes lumped with the purple-banded sunbird.\n<br>",
         "description": "The Tsavo sunbird is 9.5 to 10\u00a0cm  long.  The bill is down-curved and rather short for a sunbird, especially compared to that of the otherwise similar Marico sunbird.<br>The female is greyish-brown above and on the head with a white eyebrow stripe; the throat is either white or dusky with white edges .  The underparts are faintly yellow-tinged white with dusky stripes on the breast.  The tail is bluish-black with grey edges and tip.<br>The juvenile male looks like the dark-throated form of the female.  Later it develops a black throat and black wing coverts, both with green feathers intermixed, and often a wide black stripe down the belly.<br>The adult male is apparently the same at all seasons: gleaming bluish-green above and on the head, with a black belly and lower breast.  The upper breast may have a maroon band, missing the center or complete and 3 to 5\u00a0mm wide.  <br>The song is \"a rapid sputtering tsustiseesee, chuchiti-tsi-tsi-tsi-tsi sitisee-see-see-see chitisee\u2026\" and variants, sometimes only the last few notes.  Calls resemble the purple-banded sunbird's: \"oud annoyance chatter, chi-chi-chi-chi\u2026\" and \"a high tsik-tsiki-tsik or brrrzi.\"<br>",
@@ -4821,7 +4799,6 @@
         "areas": [
             "forest",
             "savannah",
-            "bush",
             "water"
         ],
         "intro": "The variable sunbird , Cinnyris venustus , is a sunbird. The sunbirds are a group of small Old World passerine birds which feed largely on nectar, although they will also take insects, especially when feeding young. Flight is fast and direct on their short wings. Most species can take nectar by hovering like a hummingbird, but usually perch to feed most of the time.\n<br>The variable sunbird is a fairly common resident breeder in equatorial Africa. Two eggs are laid in a suspended nest in a tree. This species is found in open woodland and cultivation.\n<br>Variable sunbirds are small, only 10\u00a0cm long. They have medium-length thin down-curved bills and brush-tipped tubular tongues, both adaptations to their nectar feeding.\n<br>The adult male has a glossy green head, throat and nape, and a maroon breast band. In most subspecies, the belly of the male is yellow, but in a few it is orange or white. The female has grey-brown upperparts and yellowish underparts, and an obvious pale supercilium. The eclipse male is like the female, but shows some green, especially on the throat. The call is a clear tew-tew-tew-tew-tew .\n<br>",
@@ -4865,7 +4842,7 @@
         "images": [],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "The violet-breasted sunbird  is a species of bird in the Nectariniidae family.\nIt is found in Kenya and Somalia.\n<br>",
         "description": "",
         "habitat": "",
@@ -4877,7 +4854,7 @@
         "images": [],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "The mottled swift  is a species of bird in the swift family, Apodidae. It is one of two species in the genus Tachymarptis together with the alpine swift . It occurs widely in eastern Africa and locally in western Africa. It is found in Angola, Burkina Faso, Burundi, Cameroon, Central African Republic, Chad, Democratic Republic of the Congo, Ivory Coast, Eritrea, Ethiopia, Gabon, Ghana, Guinea, Kenya, Malawi, Mali, Mozambique, Nigeria, Rwanda, Sierra Leone, Sudan, Tanzania, Togo, Uganda, Zambia, and Zimbabwe.<br>",
         "description": "",
         "habitat": "",
@@ -4889,7 +4866,7 @@
         "images": [],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "The scarce swift  is a species of swift in the family Apodidae.\nIt is found in Burundi, Cameroon, Democratic Republic of the Congo, Kenya, Malawi, Mozambique, Rwanda,  Tanzania, Uganda, Zambia, and Zimbabwe.<br>",
         "description": "",
         "habitat": "",
@@ -4903,7 +4880,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "The bridled tern   is a seabird of the family Laridae. It is a bird of the tropical oceans. The scientific name is from Ancient Greek. The genus is onux, \"claw\", and \"prion\", nail. The specific anaethetus means \"senseless, stupid\".<br>",
         "description": "This is a medium-sized tern, at 30\u201332\u00a0cm in length and with a 77\u201381\u00a0cm wingspan similar to the common tern in size, but more heavily built. The wings and deeply forked tail are long, and it has dark grey upperparts and white underparts. The forehead and eyebrows are white, as is a striking collar on the hindneck. It has black legs and bill. Juvenile bridled terns are scaly grey above and pale below.\n<br>This species is unlikely to be confused with any tern apart from the similarly dark-backed sooty tern and the spectacled tern from the Tropical Pacific. It is paler-backed than that sooty,  and has a narrower white forehead and a pale neck collar.\n<br>",
         "habitat": "This bird is migratory and dispersive, wintering more widely through the tropical oceans. It has markedly marine habits compared to most terns. The Atlantic subspecies melanopterus breeds in Mexico, the Caribbean and west Africa; other races occur around the Arabian Peninsula and in Southeast Asia and Australasia, but the exact number of valid subspecies is disputed. It is a rare vagrant to western Europe.\nThese are the four subspecies listed by the IOC:\n<br>",
@@ -4919,7 +4896,7 @@
         "type": "bird",
         "rarity": 1,
         "areas": [
-            "bush",
+            "savannah",
             "water"
         ],
         "intro": "",
@@ -4986,7 +4963,7 @@
         "rarity": 1,
         "areas": [
             "savannah",
-            "bush"
+            "savannah"
         ],
         "intro": "",
         "description": "",
@@ -5003,7 +4980,7 @@
         "rarity": 1,
         "areas": [
             "forest",
-            "bush"
+            "savannah"
         ],
         "intro": "The Abyssinian ground thrush  is a thrush from the family Turdidae which is native to north-east Africa where it lives at high altitude in montane forests.<br>",
         "description": "The Abyssinian ground thrush is an attractive but rather secretive species. The adults are a deep rufous orange on the head and face with a distinct white eye ring, the orange colour becomes les rufous on the breast and flanks and the upperparts are olive brown except for the orange-brown rump and tail. On the folded wing it shows two prominent white wingbars from the tips to the coverts. Immature birds tend to be paler and duller than the adults. They measure 19\u201320\u00a0cm in length and weigh 43\u201365g.<br>The contact call of the Abyssinian ground thrush is a high pitched \"tseep\", the song is a typical thrush like melodious series of whistled phrases rendered in Sinclair & Ryan as \"chee-cheeleeroo-chruup\".<br>",
@@ -5038,7 +5015,6 @@
         "areas": [
             "forest",
             "savannah",
-            "bush",
             "water"
         ],
         "intro": "The spotted palm thrush , also known as the spotted morning-thrush, is a species of bird in the family Muscicapidae.  It is found in Ethiopia, Kenya, Somalia, Sudan, Tanzania, and Uganda.  Its natural habitats are subtropical or tropical dry forests, dry savanna, and subtropical or tropical moist shrubland.\n<br>",
@@ -5068,7 +5044,7 @@
         "images": [],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "The moustached tinkerbird  is a species of bird in the Lybiidae family .\nIt is found in Kenya, Malawi, Tanzania, Uganda, and Zambia.\n<br>",
         "description": "",
         "habitat": "",
@@ -5084,7 +5060,7 @@
         "rarity": 1,
         "areas": [
             "forest",
-            "bush"
+            "savannah"
         ],
         "intro": "The red-fronted tinkerbird,  is a small African barbet. Barbets are near-passerine birds with bristles around the base of the bill. They have a world-wide tropical distribution.\n<br>The red-fronted tinkerbird is a widespread and frequently common resident breeder in eastern South Africa, with a separate population from southern Sudan and Ethiopia south to central and eastern Tanzania. It is sometimes considered conspecific with its northern counterpart, the yellow-fronted tinkerbird, Pogoniulus chrysoconus.\n<br>The red-fronted tinkerbird is associated with juniper forest and scrub. It nests in a tree hole and lays two or three eggs. It eats berries and fruit, particularly mistletoe, but also takes insects as it forages in deep cover.\n<br>The red-fronted tinkerbird is 9\u201310.5\u00a0cm  in length. It is a plump bird, with a short neck, large head, and short tail. The adult has black upperparts heavlly streaked with yellow and white, and a golden wing patch. Its head has a strong black and white pattern, with a red forecrown spot. Its underparts and rump are lemon yellow. Sexes are similar in appearance, but young birds lack the red forehead.\n<br>This species is distinguished from the yellow-fronted tinkerbird by the colour of the forehead spot, the golden wing patch, and its overall darker appearance. It is often confused with the red-fronted barbet, but it is significantly smaller than that species, has a black moustache and a less robust bill, and lacks a broad yellow superciliary stripe.\n<br>At about 100 repetitions per minute, the red-fronted tinkerbird's call is a fast tink-tink-tink-tink, very similar to that of the yellow-fronted tinkerbird. Many barbets perch prominently, but unlike their larger relatives, the smaller tinkerbirds sing from cover and are more frequently heard than seen.\n<br>",
         "description": "",
@@ -5102,7 +5078,6 @@
         "rarity": 1,
         "areas": [
             "savannah",
-            "bush",
             "water"
         ],
         "intro": "The acacia tit , also known as the Somali tit and northern grey tit, is a species of bird in the family Paridae. It is native to north eastern Africa where it occurs in dry acacia habitat.\n<br>",
@@ -5120,7 +5095,7 @@
         "rarity": 1,
         "areas": [
             "savannah",
-            "bush"
+            "savannah"
         ],
         "intro": "The mouse-coloured penduline tit or mouse-colored penduline tit  is a species of bird in the family Remizidae. At 8\u00a0cm  in length, it is one of the two shortest birds native to Africa, alongside the tit hylia.<br>",
         "description": "",
@@ -5168,7 +5143,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "The Hartlaub's turaco  is a species of bird in the family Musophagidae. It is found in Kenya, Tanzania, and Uganda.\n<br>The common name and Latin binomial commemorate the German physician and ornithologist  Gustav Hartlaub.<br>",
         "description": "",
         "habitat": "",
@@ -5182,7 +5157,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "The Livingstone's turaco  is a species of bird in the Musophagidae family, which was named for Charles Livingstone, the brother of David Livingstone.\n<br>It is distributed through the subtropical lowlands of southeastern Africa. It has an isolated population in Burundi, and is besides found from southern Tanzania to eastern and southern Malawi, eastern Zimbabwe, widely in Mozambique and along the subtropical coast of South Africa.\n<br>By appearances and behaviour it has much in common with the Knysna turaco of South Africa, and Schalow's turaco which replaces it on the plateau regions to the west of its range.\n<br>",
         "description": "",
         "habitat": "",
@@ -5215,7 +5190,7 @@
         "rarity": 1,
         "areas": [
             "forest",
-            "bush"
+            "savannah"
         ],
         "intro": "",
         "description": "",
@@ -5232,7 +5207,7 @@
         "rarity": 1,
         "areas": [
             "forest",
-            "bush",
+            "savannah",
             "water"
         ],
         "intro": "The mountain wagtail , also known as the long-tailed wagtail or grey-backed wagtail, is a species of wagtail of the family Motacillidae from sub-Saharan Africa.<br>",
@@ -5284,7 +5259,7 @@
         "rarity": 1,
         "areas": [
             "forest",
-            "bush"
+            "savannah"
         ],
         "intro": "The cinnamon bracken warbler  is a species of Old World warbler in the family Locustellidae.\nIt is found in Burundi, Democratic Republic of the Congo, Ethiopia, Kenya, Malawi, Mozambique, Rwanda, South Sudan, Tanzania, Uganda, and Zambia.\nIts natural habitats are subtropical or tropical moist montane forests and subtropical or tropical moist shrubland.\n<br>",
         "description": "",
@@ -5328,7 +5303,7 @@
         "type": "bird",
         "rarity": 1,
         "areas": [
-            "bush"
+            "savannah"
         ],
         "intro": "The grey-capped warbler  is a species of bird in the Cisticola family Cisticolidae. It is the only species in the genus Eminia. The grey-capped warbler is found in Burundi, Democratic Republic of the Congo, Kenya, Rwanda, South Sudan, Tanzania, and Uganda.\n<br>Its natural habitat is subtropical or tropical moist shrubland.\n<br>",
         "description": "",
@@ -5345,7 +5320,7 @@
         "rarity": 1,
         "areas": [
             "forest",
-            "bush"
+            "savannah"
         ],
         "intro": "The mountain yellow warbler or mountain flycatcher-warbler  is a species of Acrocephalidae warbler; formerly, these were placed in the paraphyletic \"Old World warblers\".\n<br>It is found in Burundi, DRC, Kenya, Malawi, Rwanda, South Sudan, Tanzania, Uganda, and Zambia.\nIts natural habitats are subtropical or tropical moist montane forests and subtropical or tropical moist shrubland.\n<br>",
         "description": "",
@@ -5361,7 +5336,7 @@
         "type": "bird",
         "rarity": 1,
         "areas": [
-            "bush"
+            "savannah"
         ],
         "intro": "The eastern olivaceous warbler  is a small passerine bird with drab plumage tones, that is native to the Old World. For the most part it breeds in the northern Afrotropics and winters in southeastern Europe, the Middle East and adjacent western Asia.\n<br>",
         "description": "It is a medium-sized warbler, more like a very pale reed warbler than its relative the melodious warbler. The adult has a plain pale brown back and whitish underparts. The bill is strong and pointed and the legs grey. The sexes are identical, as with most warblers, but young birds are more buff on the belly. It has a characteristic downward tail flick.\n<br>Western olivaceous warbler differs from this species in being larger and having a browner tinge to the upperparts; it also has a larger bill. Eastern olivaceous warbler sometimes has a greenish tinge to its upperparts, and can be very difficult to separate from Sykes's warbler, Iduna rama. The song is a fast nasal babbling.\n<br>",
@@ -5377,7 +5352,7 @@
         "type": "bird",
         "rarity": 1,
         "areas": [
-            "bush",
+            "savannah",
             "water"
         ],
         "intro": "The Basra reed warbler  is a \"warbler\" of the genus Acrocephalus. It is an endemic breeder in East and southern Iraq and Israel in extensive beds of papyrus and reeds. It is easily mistaken for the great reed warbler but is a bit smaller, has whiter under parts and has a narrower, longer and more pointed bill. It winters in East Africa. It is a very rare vagrant in Europe. The call is a gruff 'chaar', deeper than a reed warbler's.\n<br>It is found in aquatic vegetation in or around shallow, fresh or brackish water, still or flowing, mainly in dense reedbeds. It is found in thickets and bushland when migrating or wintering.\n<br>In 2007, the species was discovered as a breeding bird in northern Israel.\n<br>",
@@ -5397,7 +5372,7 @@
         "areas": [
             "forest",
             "savannah",
-            "bush"
+            "savannah"
         ],
         "intro": "Roberts's warbler , also known as the briar warbler, is a species of bird in the Cisticolidae family.  It is found in the Eastern Highlands of Zimbabwe and Mozambique.  Its natural habitats are subtropical or tropical moist montane forests and subtropical or tropical moist shrubland.\n<br>",
         "description": "",
@@ -5410,7 +5385,7 @@
         "images": [],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "The highland rush warbler  is a species of Old World warbler in the Locustellidae family. It is found in Burundi, Democratic Republic of the Congo, Kenya,  Tanzania,  Rwanda, and Uganda.\n<br>",
         "description": "",
         "habitat": "",
@@ -5423,7 +5398,7 @@
         "type": "bird",
         "rarity": 1,
         "areas": [
-            "bush",
+            "savannah",
             "water"
         ],
         "intro": "The white-winged swamp warbler , also known as the white-winged scrub-warbler, is a species of Old World warbler in the family Locustellidae.  It is found in Burundi, Democratic Republic of the Congo, Kenya, Rwanda, Tanzania, Uganda, and Zambia.  Its natural habitat is swamps.\n<br>",
@@ -5440,7 +5415,7 @@
         "type": "bird",
         "rarity": 1,
         "areas": [
-            "bush"
+            "savannah"
         ],
         "intro": "The Upcher's warbler  is an Old World warbler in the tree warbler genus Hippolais. It breeds in an area from Turkey south and east to Pakistan. It is migratory, wintering in eastern Africa, from Eritrea and Somalia south to Tanzania.\n<br>This small passerine bird is a species found in semi-desert habitats, frequenting bushy scrub and thickets of tamarisk. 4-5 eggs are laid in a nest in bushes and low trees.\n<br>This is a medium-sized warbler, similar in size to the icterine warbler, with a slightly longer bill and shorter wings and a longer tail. Its frequent tail movement is reminiscent of a Sylvia warbler or a chat. Its rather grey plumage is similar to the olivaceous warbler, but tail movements are diagnostic.\n<br>It feeds on invertebrates. Its song is similar to that of other Hippolais warblers, but distinctive and unmistakable, and entirely different from that of the olivaceous warbler.\n<br>",
         "description": "",
@@ -5457,7 +5432,7 @@
         "rarity": 1,
         "areas": [
             "forest",
-            "bush"
+            "savannah"
         ],
         "intro": "The brown woodland warbler  is a species of Old World warbler in the family Phylloscopidae.\n<br>It is found in Democratic Republic of the Congo, Djibouti, Eritrea, Ethiopia, Kenya, Rwanda, Saudi Arabia, Somalia, South Sudan, Tanzania, Uganda, and Yemen.  Its natural habitats are boreal forests, subtropical or tropical moist montane forests, and subtropical or tropical dry shrubland.\n<br>",
         "description": "",
@@ -5528,7 +5503,7 @@
         "images": [],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "",
         "description": "",
         "habitat": "",
@@ -5542,7 +5517,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "The black-faced waxbill or black-cheeked waxbill  is a common species of estrildid finch found in southern Africa. It has an estimated global extent of occurrence of 1,300,000\u00a0km2.\n<br>It is found in Angola, Botswana, Kenya, Namibia, Rwanda, South Africa, Tanzania, Uganda, Zambia and Zimbabwe. The IUCN has classified the species as being of least concern.\n<br>Origin and phylogeny has been obtained by Antonio Arnaiz-Villena et al.. Estrildinae may have originated in India and dispersed thereafter .\n<br>",
         "description": "",
         "habitat": "",
@@ -5573,7 +5548,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "The crimson-rumped waxbill  also known as rosy-rumped waxbill is a common species of estrildid finch found in eastern Africa. It has an estimated global extent of occurrence of 830,000\u00a0km2.\n<br>It is found in Burundi, The Democratic Republic of the Congo, Djibouti,  Egypt, Eritrea, South Africa, Ethiopia, Kenya, Malawi, Rwanda, Somalia, Sudan, Tanzania and Uganda. The IUCN has classified the species as being of least concern.\n<br>Origin and phylogeny has been obtained by Antonio Arnaiz-Villena et al. Estrildinae may have originated in India and dispersed thereafter .\n<br>",
         "description": "",
         "habitat": "",
@@ -5590,7 +5565,7 @@
         "areas": [
             "forest",
             "savannah",
-            "bush"
+            "savannah"
         ],
         "intro": "The fawn-breasted waxbill  is a common species of estrildid finch found in central Africa. It has an estimated global extent of occurrence of 1,800,000\u00a0km2. Estrilda paludicola, E. ochrogaster and E. poliopareia have been lumped into E. paludicola .\n<br>The fawn-breasted waxbill is commonly found in subtropical\/tropical  wet grassland habitats in Angola, Burundi, Central African Republic, the Republic of Congo, the Democratic Republic of the Congo, Ethiopia, Gabon,  Kenya, Rwanda, Sudan, Tanzania, Uganda and Zambia. However, it also inhabits dry forest and dry shrubland habitats. The IUCN has classified the species as being of least concern.\n<br>",
         "description": "",
@@ -5655,7 +5630,7 @@
         "rarity": 1,
         "areas": [
             "forest",
-            "bush",
+            "savannah",
             "water"
         ],
         "intro": "The baglafecht weaver , also known as Reichenow's weaver, is a species of weaver bird from the family Ploceidae which is found in eastern and central Africa. The origin of the word baglafecht is something of a mystery and was coined by Georges-Louis Leclerc, Comte de Buffon, probably from a local name in an Abyssinian language. There are several disjunct populations with distinguishable plumage patterns. Only some races display a discrete non-breeding plumage.<br>",
@@ -5760,7 +5735,6 @@
         "areas": [
             "forest",
             "savannah",
-            "bush",
             "water"
         ],
         "intro": "The white-headed buffalo weaver or white-faced buffalo-weaver  is a species of passerine bird in the family Ploceidae native to East Africa. The buffalo part of its name derives from its habit of following the African buffalo, feeding on disturbed insects. Two subspecies are recognized.\n<br>",
@@ -5934,7 +5908,6 @@
         "rarity": 1,
         "areas": [
             "savannah",
-            "bush",
             "water"
         ],
         "intro": "The black-capped social weaver  is a sparrow-like of bird that has been assigned to the weaverbird family. It was originally described by Fisher and Reichenow, and moved later by the latter to the genus Pseudonigrita. Adults have a large black cap, ivory-colored bill, red eyes, brown back and wings, blackish-brown tail, white throat and underparts with a black midline, and dark horn-colored legs. It breeds in colonies and roofed nests with an entrance at the bottom in thorny trees such as acacias are constructed by the male from grass stems. It is found in parts of Ethiopia, Kenya, Somalia, and Tanzania. It is sometimes kept and bred in captivity.<br>",
@@ -5952,7 +5925,7 @@
         "type": "bird",
         "rarity": 1,
         "areas": [
-            "bush",
+            "savannah",
             "water"
         ],
         "intro": "The grey-capped social weaver or grey-headed social weaver  is a sparrow-like liver-colored bird, with a pale grey crown, a dark grey bill, a whitish eye-ring, horn-colored legs, with some black in the wing and a light terminal band in the tail, that builds roofed nests made of straws, breeds in colonies in thorny Acacia trees, and feeds in groups gathering grass seeds and insects. Male and female have near identical plumage. Recent DNA-analysis confirms it is part of the weaver family. It is found in Ethiopia, Kenya, Somalia, South Sudan, Sudan, Tanzania, and Uganda.\n<br>",
@@ -5989,7 +5962,6 @@
         "areas": [
             "forest",
             "savannah",
-            "bush",
             "water"
         ],
         "intro": "",
@@ -6022,7 +5994,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "",
         "description": "",
         "habitat": "",
@@ -6037,7 +6009,7 @@
         "type": "bird",
         "rarity": 1,
         "areas": [
-            "bush"
+            "savannah"
         ],
         "intro": "The isabelline wheatear  is a small passerine bird that was formerly classed as a member of the thrush family Turdidae, but is now more generally considered to be an Old World flycatcher in the family Muscicapidae. It is a migratory insectivorous bird. Its habitat is steppe and open countryside and it breeds in southern Russia and central Asia to northern Pakistan, wintering in Africa and northwestern India. It is a very rare vagrant to western Europe.\n<br>In colouring it resembles a female northern wheatear but it is larger at 15\u201316.5 centimetres  in length, more upright and more tawny in colour, and has more black on its tail.  The term isabelline refers to the parchment-like colouration.  The axillaries and underwing coverts are white, whereas in the commoner bird they are mottled with grey. The sexes are similar.\n<br>",
         "description": "Male and female isabelline wheatear are similar in appearance. The upper-parts are a pale sandy brown with an isabelline tinge . The lower back is isabelline and the rump and upper tail-coverts are white. The tail feathers are brownish-black with a narrow edge and tip of buff and a large white base. In the outer tail feathers this occupies more than half the length of the feather but in the central feathers it is about one third. There is an over-eye streak of creamy white and the ear-coverts are pale brown. The chin is pale cream and the throat pale buff. The breast is sandy or isabelline buff and the belly creamy white. The under tail-coverts are pale buff and the under wing-coverts and axilliaries white with dark bases. The wing feathers are brownish-black, tipped and edged with creamy buff. The beak, legs and feet are black and the irises are brown.<br>At a length of 16.5 centimetres  it is rather larger and also paler in colour than the northern wheatear . The beak is longer than that bird and the ear-coverts are paler but otherwise the birds are very similar in appearance and could be confused. The plumage is moulted twice a year, there being a complete moult in late summer and a partial moult of the body feathers in mid-winter.<br>The call note is a chirp, and a loud whistle is sometimes emitted. The song has been described as lark-like and starts with a croaking noise followed by various whistles and includes mimicry of the voices of other birds.<br>",
@@ -6054,7 +6026,6 @@
         "rarity": 1,
         "areas": [
             "savannah",
-            "bush",
             "water"
         ],
         "intro": "The pied wheatear  is a wheatear, a small insectivorous passerine bird that was formerly classed as a member of the thrush family Turdidae, but is now more generally considered to be an Old World flycatcher . This migratory central Asiatic wheatear occurs from the extreme southeast of Europe to China, and has been found wintering in India and northeastern Africa. It is a very rare vagrant to western Europe.\n<br>The male is a boldly marked white-and-black bird. The white crown tinged with brown contrasts with the black face and throat and white rump. The female is browner, and the head is washed with sandy buff. Females are darker than the females of the northern wheatear, look smaller and show less white on the rump. The tail feathers are white with characteristic black markings, which form an inverted black \"T\" pattern that resembles the tail of the black-eared wheatear. This 14 centimetres  bird nests in open, stony, sparsely vegetated regions, laying four to six eggs in a hole, under a stone or in a rock crevice. The pied wheatear primarily eats insects but will also take seeds.\n<br>",
@@ -6070,7 +6041,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "The Kikuyu white-eye  is a species of bird in the family Zosteropidae. It includes numerous subspecies, sometimes considered a subspecies of montane white-eye\u00a0. It is found in central Kenya, in the Aberdare Mountains and on Mount Kenya. IUCN categorizes it as of least concern.<br>",
         "description": "",
         "habitat": "",
@@ -6086,7 +6057,7 @@
         "rarity": 1,
         "areas": [
             "forest",
-            "bush"
+            "savannah"
         ],
         "intro": "",
         "description": "",
@@ -6099,7 +6070,7 @@
         "images": [],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "Taita white-eye  is a species of bird in the family Zosteropidae. It includes numerous subspecies, sometimes considered a subspecies to montane white-eye\u00a0. It is only found in Taita Hills\u00a0in southeastern Kenya. IUCN categorizes it as endangered.<br>",
         "description": "",
         "habitat": "",
@@ -6202,7 +6173,7 @@
         "areas": [
             "forest",
             "savannah",
-            "bush"
+            "savannah"
         ],
         "intro": "The green-backed woodpecker or little spotted woodpecker , is a species of bird in the family Picidae. It is native to large parts of tropical central Africa. It has an extremely wide range and is an uncommon species, and the International Union for Conservation of Nature has rated its conservation status as being of \"least concern\".<br>",
         "description": "The green-backed woodpecker grows to a length of about 16\u00a0cm . The male has a scarlet crown flecked with black and a bright red nape. The female has a blackish crown spotted with white, and a red nape. Both sexes have green upper parts, spotted with cream or yellow, and buff or white underparts, boldly spotted with black, and flanks barred with black. The tail is green with individual feathers having brownish shafts. There is a white supercilium, the eye ring is grey, the iris chestnut, the beak grey tipped with black and the legs and feet grey or olive. The juvenile is similar to the female in appearance, although the nape may have little red.<br>",
@@ -6234,7 +6205,7 @@
         ],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "The Mombasa woodpecker  is a species of bird in the family Picidae.\nIt is found in Kenya, Somalia, and Tanzania.\n<br>",
         "description": "",
         "habitat": "",
@@ -6251,7 +6222,7 @@
         "areas": [
             "forest",
             "savannah",
-            "bush"
+            "savannah"
         ],
         "intro": "The Nubian woodpecker  is a species of bird in the family Picidae. It is distributed widely in Central and Eastern Africa, from Chad in west to Somalia in east and Tanzania in south. It is a fairly common species with a wide range, the population seems stable, and the International Union for Conservation of Nature has rated its conservation status as being of \"least concern\".<br>",
         "description": "The Nubian woodpecker Is a medium-sized species growing to a length of about 21\u00a0cm . The male has a red crown and nape and a reddish streak on the cheek, while the female has a black crown speckled with white, a red nape, and a dark cheek stripe with white speckling. In other respects, the sexes are similar. The upper parts are olive-brown with much cream speckling and barring. The wings are greenish-brown barred with white and the tail greenish-yellow barred with brown, the shafts of the feathers being gold. The throat is cream and the head, neck, breast and belly are white, spotted and barred with black. The beak is grey with a dark tip, the eye red or pink, the orbital ring grey and the feet olive or grey. Various vocalisations are made, shrill ringing or piping notes repeated, often musical but sometimes metallic. Often sung in duet.<br>",
@@ -6284,7 +6255,7 @@
         "rarity": 1,
         "areas": [
             "forest",
-            "bush"
+            "savannah"
         ],
         "intro": "The Stierling's woodpecker  is a species of bird in the family Picidae. It is native to Malawi, Mozambique, and Tanzania where its natural habitat is tropical dry forests in the Eastern miombo woodlands ecoregion. It is threatened by habitat destruction. The bird is named in honour of the German bird collector N.\u00a0Stierling.<br>",
         "description": "This woodpecker grows to a length of about 17.5\u00a0cm . The sexes are different, being distinguished by the male having a red mid-crown and nape and the female having a brown crown with pale streaks and a black nape. The upper parts of both sexes are plain olive brown and the underparts white or cream with brown markings. The face, neck, chin and throat are white. A brown band extends from the eye across the ear coverts, and a brown malar streak extends to the breast. The wings are brown above and white below, and the tail is brown with a buff tip and pale underside. The beak is grey with a paler base, the legs are grey or olive and the iris of the eye reddish.<br>",
@@ -6297,7 +6268,7 @@
         "images": [],
         "type": "bird",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "",
         "description": "",
         "habitat": "",
@@ -6325,7 +6296,7 @@
         "images": [],
         "type": "reptile",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "Afrotyphlops lineolatus, also known as the common lined worm snake or lineolate blind snake, is a species of snake in the family Typhlopidae. It is widely distributed in Sub-Saharan Africa, from Senegal in the west to Ethiopia in the east and Zambia in the south.<br>",
         "description": "",
         "habitat": "",
@@ -6340,7 +6311,7 @@
         "type": "reptile",
         "rarity": 1,
         "areas": [
-            "bush"
+            "savannah"
         ],
         "intro": "Afrotyphlops schlegelii, commonly known as Schlegel's beaked blind snake or Schlegel's giant blind snake, is a species of snake in the family Typhlopidae. The species is endemic to eastern and southern Africa, and bears the distinction of being the world's largest typhlopid. It is harmless to humans and lives exclusively on a diet of termites.\n<br>",
         "description": "Three distinct color phases of A. schlegelii are found: uniform, blotched, or striped.\n<br>The maximum recorded snout-vent length  is 95\u00a0cm .\n<br>The scales are arranged in 30-44 rows around the body. There are more than 300 scales in the vertebral row .<br>The snout is very prominent, with a sharp horizontal cutting edge, below which are located the nostrils. The rostral is very large, extending as far back as the eyes. The portion of the rostral visible from below is broader than long. There are four upper labials. The nasal is semidivided, the suture proceeding from the first upper labial. A preocular is present, narrower than the nasal or the ocular, in contact with the second and third upper labials. The eyes distinct, located below the suture between the preocular and the ocular. The diameter of the body goes 25 to 30 times in the total length. The tail is broader than long, ending in a spine.<br>",
@@ -6374,7 +6345,6 @@
         "areas": [
             "forest",
             "savannah",
-            "bush",
             "water"
         ],
         "intro": "",
@@ -6405,7 +6375,7 @@
         "images": [],
         "type": "reptile",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "The Central African mud turtle  is a species of turtle in the family Pelomedusidae. The species is endemic to Central Africa.\n<br>",
         "description": "",
         "habitat": "",
@@ -6422,7 +6392,7 @@
         "rarity": 1,
         "areas": [
             "savannah",
-            "bush"
+            "savannah"
         ],
         "intro": "The coarse chameleon, Trioceros rudis, also known as the rudis chameleon, Ruwenzori side-striped chameleon or the Rwenzori bearded chameleon is a chameleon from western Uganda, Rwanda, Burundi, and eastern DR Congo. Contrary to common belief, this species does not inhabit Mount Meru, Tanzania. Tanzania chameleons called T. rudis are in fact T. sternfeldi.\n<br>This chameleon is often found in open habitats, inhabiting low bushes and shrubs  in the transitional zones between grasslands, reedbeds and montane heath.\n<br>T. rudis is small ) and lacks horns or occipital lobes. It has a long tail and a small crest.\n<br>",
         "description": "",
@@ -6437,7 +6407,7 @@
         ],
         "type": "reptile",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "Echis pyramidum is a species of venomous viper endemic to Northeast Africa and the Arabian Peninsula. Three subspecies are currently recognized, including the nominate subspecies described here.<br>",
         "description": "The average total length  is 30\u201360\u00a0cm  with a maximum total length of 85\u00a0cm  .<br>",
         "habitat": "",
@@ -6454,7 +6424,7 @@
         "areas": [
             "forest",
             "savannah",
-            "bush"
+            "savannah"
         ],
         "intro": "The graceful chameleon  is a species of chameleon native to sub-Saharan Africa. It is commonly around a foot  long. Because of its abundance, it is heavily exploited by the pet trade.<br>",
         "description": "C. gracilis is often green, yellow, or brown, with a green stripe on its side. Although it is usually a foot  in total length , it can grow up to 15 inches  in total length.<br>",
@@ -6481,7 +6451,7 @@
         "images": [],
         "type": "reptile",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "Kinyongia adolfifriderici is a species of chameleon found in Central and East Africa (northern and eastern Democratic Republic of the Congo, Burundi, Rwanda, and Uganda. It is also known as the Ituri dwarf chameleon and  Ituri chameleon. The specific name adolfifriderici honours Duke Adolf Friedrich of Mecklenburg, leader of the German Central Africa Expedition in 1907\u20131908, during which the types were collected.<br>",
         "description": "",
         "habitat": "",
@@ -6523,7 +6493,7 @@
         "images": [],
         "type": "reptile",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "Lygodactylus keniensis, also known as Parker's dwarf gecko or Kenya dwarf gecko, is a species of gecko found in northern Kenya, southern Somalia, southern Ethiopia, and eastern Uganda.<br>",
         "description": "",
         "habitat": "",
@@ -6539,7 +6509,6 @@
         "rarity": 1,
         "areas": [
             "savannah",
-            "bush",
             "water"
         ],
         "intro": "The savannah monitor  is a medium-sized species of monitor lizard native to Africa. The species is known as Bosc\u2019s monitor in Europe, since French scientist Louis Bosc first described the species. It belongs to the subgenus Polydaedalus, along with the Nile, the ornate and other monitors.\n<br>",
@@ -6571,7 +6540,7 @@
         ],
         "type": "reptile",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "Trachylepis albilabris  is a species of skink.<br>",
         "description": "",
         "habitat": "",
@@ -6583,7 +6552,7 @@
         "images": [],
         "type": "reptile",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "Trachylepis bayonii is a species of skink, a lizard in the family Scincidae. The species is endemic to Africa.\n<br>",
         "description": "",
         "habitat": "",
@@ -6597,7 +6566,7 @@
         ],
         "type": "reptile",
         "rarity": 1,
-        "areas": ["forest", "bush", "water"],
+        "areas": ["forest", "savannah", "water"],
         "intro": "Trioceros hoehnelli, commonly known as von H\u00f6hnel's chameleon, the helmeted chameleon, and the high-casqued chameleon, is a species of chameleon, a lizard in the family Chamaeleonidae. The species is endemic to eastern Africa. \n<br>",
         "description": "",
         "habitat": "",
@@ -6663,7 +6632,7 @@
         "rarity": 1,
         "areas": [
             "forest",
-            "bush",
+            "savannah",
             "water"
         ],
         "intro": "The African civet  is the largest representative of the African Viverridae and the sole member of its genus.\nIt is considered common and widely distributed in sub-Saharan Africa.<br>The African civet is primarily nocturnal and spends the day sleeping in dense vegetation, but wakes up at sunset. It is a solitary mammal with a unique coloration: the black and white stripes and blotches covering its coarse pelage are an effective cryptic pattern. The black bands surrounding its eyes closely resemble those of the raccoon. Other distinguishing features are its disproportionately large hindquarters and its erectile dorsal crest. It is an omnivorous generalist, preying on small vertebrates, invertebrates, eggs, carrion, and vegetable matter. It is capable of killing venomous invertebrates and snakes. Prey is primarily detected by smell and sound rather than by sight. It prefers riverine habitats and woodlands.<br>Like all civets it has perineal glands that produce a fluid known as civet, which it spreads on markers in its territory to claim its range. It is used in the perfume industry.<br>",
@@ -6735,7 +6704,7 @@
         "rarity": 1,
         "areas": [
             "forest",
-            "bush",
+            "savannah",
             "water"
         ],
         "intro": "The Bates's pygmy antelope , also known as the dwarf antelope, pygmy antelope or Bates' dwarf antelope, is a very small antelope living in the moist forest and brush of Central and West Africa. It is in the same genus as the suni and the royal antelope.\n<br>",
@@ -6753,7 +6722,7 @@
         "rarity": 2,
         "areas": [
             "forest",
-            "bush",
+            "savannah",
             "water"
         ],
         "intro": "The dusky bushbaby  is a species of primate in the family Galagidae. It is also known as Matschie's galago, in honour of the German zoologist Paul Matschie, curator of mammals at the Museum f\u00fcr Naturkunde in Berlin. Native to tropical Central Africa, it is found in forests in Burundi, Rwanda, Democratic Republic of the Congo and Uganda. The species is small with a long tail, and has an arboreal, nocturnal and omnivorous lifestyle.\n<br>",
@@ -6772,7 +6741,7 @@
         "rarity": 2,
         "areas": [
             "forest",
-            "bush",
+            "savannah",
             "water"
         ],
         "intro": "Prince Demidoff's bushbaby , also known as Prince Demidoff's galago, is a species of primate in the family Galagidae. It is native to parts of tropical West and Central Africa.\n<br>",
@@ -6792,7 +6761,6 @@
         "areas": [
             "forest",
             "savannah",
-            "bush",
             "water"
         ],
         "intro": "The Senegal bushbaby , also known as the Senegal galago, the lesser galago or the lesser bush baby, is a small, nocturnal primate, a member of the galago family Galagidae.\n<br>The name \"bush baby\" may come either from the animals' cries or from their appearance. They are agile leapers, and run swiftly along branches. They live in Africa south of the Sahara and nearby islands including Zanzibar. They tend to live in dry woodland regions and savannah regions. They are small primates  with woolly thick fur that ranges from silvery grey to dark brown. They have large eyes, giving them good night vision; strong hind limbs; and long tails, which help them balance. Their ears are made up of four segments that can bend back individually, to aid their hearing when hunting insects at night. Their omnivorous diet is a mixture of other small animals, including birds and insects, fruit, seeds, flowers, eggs, nuts, and tree gums.\n<br>",
@@ -6809,7 +6777,7 @@
         "type": "mammal",
         "rarity": 2,
         "areas": [
-            "bush",
+            "savannah",
             "water"
         ],
         "intro": "Thomas's bushbaby  is a species of primate in the family Galagidae. It is found in Angola, Burundi, Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Kenya, Nigeria, Rwanda, Tanzania, Uganda, and Zambia.<br>",
@@ -6829,7 +6797,6 @@
         "areas": [
             "forest",
             "savannah",
-            "bush",
             "water"
         ],
         "intro": "",
@@ -6849,7 +6816,6 @@
         "areas": [
             "forest",
             "savannah",
-            "bush",
             "water"
         ],
         "intro": "The Southeast African cheetah  is the nominate cheetah subspecies native to East and Southern Africa. The Southern African cheetah lives mainly in the lowland areas and deserts of the Kalahari, the savannahs of Okavango Delta, and the grasslands of the Transvaal region in South Africa. In Namibia, cheetahs are mostly found in farmlands.<br>The Southern African cheetah was first described by the German zoologist Johann Christian Daniel von Schreber in 1775 and named Felis jubatus on the basis of a specimen from the Cape of Good Hope. Subpopulations have been called \"South African cheetah\" and \"Namibian cheetah.\"<br>",
@@ -6906,7 +6872,6 @@
         "areas": [
             "forest",
             "savannah",
-            "bush",
             "water"
         ],
         "intro": "The common duiker , also known as the grey or bush duiker, is a small antelope found in  everywhere in Africa south of the Sahara, excluding the Horn of Africa and the rainforests of the central and western parts of the continent. Generally, they are found in habitats with sufficient vegetation cover to allow them to hide\u2014savanna and hilly areas, including the fringes of human settlements.\n<br>",
@@ -6925,7 +6890,7 @@
         "type": "mammal",
         "rarity": 2,
         "areas": [
-            "bush",
+            "savannah",
             "water"
         ],
         "intro": "The crested porcupine  is a species of rodent in the family Hystricidaefound in Italy, North Africa, and sub-Saharan Africa.\n<br>",
@@ -6944,7 +6909,6 @@
         "areas": [
             "forest",
             "savannah",
-            "bush",
             "water"
         ],
         "intro": "The G\u00fcnther's dik-dik  is a small antelope found in arid zones of East Africa.\n<br>",
@@ -6977,7 +6941,7 @@
         "rarity": 1,
         "areas": [
             "forest",
-            "bush",
+            "savannah",
             "water"
         ],
         "intro": "The blue duiker  is a small antelope found in western, southern and eastern Africa. It is the smallest duiker. The species was first described by Swedish naturalist Carl Peter Thunberg in 1789. 12 subspecies are identified. The blue duiker reaches 32\u201341 centimetres  at the shoulder and weighs 3.5\u20139 kilograms . Sexually dimorphic, the females are slightly larger than the males. The dark tail measures slightly above 10 centimetres . It has short, spiky horns, around 5 centimetres  long and hidden in hair tufts. The subspecies show a great degree of variation in their colouration. The blue duiker bears a significant resemblance to Maxwell's duiker.\n<br>Activity is diurnal . Secretive and cautious, the blue duiker confines itself to the forest fringes. Territorial, individuals of opposite sexes form pairs and occupy territories, nearly 0.4\u20130.8 hectares  large and marked by preorbital gland secretions. The blue duiker feeds on fallen fruits, foliage, flowers and pieces of bark, provided mainly by the forest canopies in their habitat. The age when sexual maturity is gained has been given differently by different studies. The species is monogamous, with pairs remaining together throughout the year. The length of the gestational period has been estimated from as little as four months to as long as seven months. Births occur throughout the year, though the birth rate might fall in the dry season. The calf is mainly kept in hiding and weaning occurs at 2.5 to 3 months.\n<br>The habitat consists of a variety of forests, including old-growth, secondary, and gallery forests. Forests are preferred as these provide the animal with shelter through the dense understory and forage through canopy. Though categorised as Least Concern by the International Union for Conservation of Nature and Natural Resources , the blue duiker is under threat from extensive bushmeat hunting across its range.\n<br>",
@@ -6993,7 +6957,7 @@
         "rarity": 1,
         "areas": [
             "forest",
-            "bush",
+            "savannah",
             "water"
         ],
         "intro": "The Ruwenzori duiker or Ruwenzori red duiker  is a stocky but small antelope found only in the Ruwenzori Mountains between Uganda and, probably, the Democratic Republic of Congo. They may be a subspecies of the black-fronted duiker or the red-flanked duiker.\n<br>The Ruwenzori duiker weighs about 15\u00a0kg  and has a shoulder height of about 45\u00a0cm . They have rufous coats, lighter on their underbellies and darker on their backs. Their short, prong-like horns are about 8\u00a0cm long.\n<br>They are found in subalpine zones above 3,000 meters, where they eat herbs. They are diurnal.\n<br>",
@@ -7011,7 +6975,7 @@
         "rarity": 1,
         "areas": [
             "forest",
-            "bush",
+            "savannah",
             "water"
         ],
         "intro": "The Weyns's duiker  is a tiny antelope found in the Democratic Republic of Congo, Uganda and western Kenya. It is sometimes spelled \"Weyn's\", \"Weyns\", or \"Weyns'\" duiker.\n<br>Weyns's duikers average about 33\u00a0lb  in weight when full grown, with a shoulder height of about 17 in . They have plain rufous coats.\n<br>This duiker makes it home in lowlands and montane rainforests.\n<br>",
@@ -7031,7 +6995,6 @@
         "areas": [
             "forest",
             "savannah",
-            "bush",
             "water"
         ],
         "intro": "",
@@ -7050,7 +7013,7 @@
         "rarity": 2,
         "areas": [
             "forest",
-            "bush"
+            "savannah"
         ],
         "intro": "The eastern chimpanzee  is a subspecies of the common chimpanzee. It occurs in the Central African Republic, South Sudan, the Democratic Republic of the Congo, Uganda, Rwanda, Burundi, and Tanzania.<br>The 2007 IUCN Red List classified them as Endangered. Although the common chimpanzee is the most abundant and widespread of the non-human great apes, recent declines in East Africa are expected to continue due to hunting and loss of habitat. Because chimpanzees and humans are so physiologically similar, chimpanzees succumb to many diseases that afflict humans. If not properly managed, research and tourism also presents a risk of disease transmission between humans and chimpanzees.\n<br>Colin Groves of the Australian National University argues that there is enough variation between the northern and southern populations of P. t. schweinfurthii to be split into two subspecies instead of one; the northern population as P. t. schweinfurthii and the southern population as P. t. marungensis<br>This subspecies has been extensively studied by Dr. Jane Goodall at Gombe National Park.<br>",
         "description": "Adult chimpanzees in the wild weigh between 40 and 65 kilograms . Males can measure up to 160 centimetres  and females up to 130 centimetres  in height. The chimpanzee's body is covered with coarse black hair, except for the face, fingers, toes, palms of the hands and soles of the feet. Both of its thumbs and its big toes are opposable, allowing a precision grip.\n<br>",
@@ -7069,7 +7032,6 @@
         "areas": [
             "forest",
             "savannah",
-            "bush",
             "water"
         ],
         "intro": "",
@@ -7088,7 +7050,6 @@
         "areas": [
             "forest",
             "savannah",
-            "bush",
             "water"
         ],
         "intro": "The Grant's gazelle  is a species of gazelle distributed from northern Tanzania to South Sudan and Ethiopia, and from the Kenyan coast to Lake Victoria. Its Swahili name is Swala Granti. It was named for a 19th-century Scottish explorer, Lt Col Grant.<br>",
@@ -7127,7 +7088,7 @@
         "rarity": 3,
         "areas": [
             "forest",
-            "bush",
+            "savannah",
             "water"
         ],
         "intro": "The eastern gorilla  is a critically endangered species of the genus Gorilla and the largest living primate. At present, the species is subdivided into two subspecies. Grauer's gorilla, formerly known as the eastern lowland gorilla  is more populous, at about 3,800 individuals. The mountain gorilla  has only about 880 individuals. The International Union for the Conservation of Nature mentioned illegal hunting in its assessment of threats to the species.<br>",
@@ -7147,7 +7108,7 @@
         "rarity": 3,
         "areas": [
             "forest",
-            "bush",
+            "savannah",
             "water"
         ],
         "intro": "The mountain gorilla  is one of the two subspecies of the eastern gorilla. The subspecies is listed as endangered by the IUCN, with only two surviving populations. One is found in the Virunga Mountains of East Africa in three bordering national parks: Mgahinga Gorilla National Park in Uganda, Volcanoes National Park in Rwanda, and Virunga National Park in the Democratic Republic of Congo . The other population is found in Uganda's Bwindi Impenetrable National Park. A count in 2018 put the mountain gorilla population at just over 1,000. The species was previously listed as critically endangered until 2018.\n<br>",
@@ -7167,7 +7128,6 @@
         "areas": [
             "forest",
             "savannah",
-            "bush",
             "water"
         ],
         "intro": "The mantled guereza , also known simply as the guereza, the eastern black-and-white colobus, or the Abyssinian black-and-white colobus, is a black-and-white colobus, a type of Old World monkey. It is native to much of west central and east Africa, including Cameroon, Equatorial Guinea, Nigeria, Ethiopia, Kenya, Tanzania, Uganda and Chad. The species consists of several subspecies that differ in appearance. It has a distinctive appearance, which is alluded to in its name; the long white fringes of hair the run along each side of its black trunk are known as a mantle. Its face is framed with white hair and it has a large white tail tuft.\n<br>The mantled guereza is diurnal and arboreal, found in both deciduous and evergreen forests. It is an adaptable species that can cope with habitat disturbance and prefers secondary forest close to rivers or lakes. Although previously thought only to eat leaves, it also eats seeds, fruits, and arthropods. It is able to digest plant material with a high fibre content with its specialised stomach and may only eat from a few plant species at a time. It is preyed on by birds of prey and some mammals, such as the common chimpanzee and the leopard.\n<br>The mantled guereza lives in social groups of three to fifteen individuals. These groups normally include a dominant male, several females, and the offspring of the females. It has a polygynous mating system and copulation is initiated with vocal communication. After a gestation period of just over five months, infants are born with pink skin and white fur, which darkens to the adult coloration by three to four months. The mantled guereza is well known for its dawn chorus, the males' \"roar\" is a method of long distance communication that reinforces territorial boundaries. It also makes other vocalization and uses body postures, movements, and facial expressions to communicate.\n<br>The mantled guereza is listed as Least Concern by the International Union for Conservation of Nature  because it is widespread - although it is locally threatened in some areas, the decline is not great enough to list it in a higher category of threat. However, one subspecies found in Kenya is listed as Endangered. It can survive well in degraded forests and in some areas it is more common in logged areas than unlogged ones. The mantled guereza is also threatened by hunting for bushmeat and for its skin.\n<br>",
@@ -7186,7 +7146,7 @@
         "rarity": 2,
         "areas": [
             "forest",
-            "bush"
+            "savannah"
         ],
         "intro": "The heart-nosed bat  is a species of bat in the family Megadermatidae. It is monotypic within the genus Cardioderma. It is found in Djibouti, Eritrea, Ethiopia, Kenya, Somalia, Sudan, Tanzania, and Uganda. Its natural habitats are subtropical or tropical dry forests, subtropical or tropical dry shrubland, caves, and hot deserts.\n<br>",
         "description": "",
@@ -7206,7 +7166,6 @@
         "areas": [
             "forest",
             "savannah",
-            "bush",
             "water"
         ],
         "intro": "The giant forest hog , the only member of its genus, is native to wooded habitats in Africa and generally is considered the largest wild member of the pig family, Suidae; a few subspecies of the wild boar can reach an even larger size. Despite its large size and relatively wide distribution, it was first described only in 1904. The specific name honours Richard Meinertzhagen, who shot the type specimen in Kenya and had it shipped to the Natural History Museum in England.<br>",
@@ -7225,7 +7184,7 @@
         "rarity": 1,
         "areas": [
             "forest",
-            "bush",
+            "savannah",
             "water"
         ],
         "intro": "The klipspringer  is a small antelope found in eastern and southern Africa. The sole member of its genus, the klipspringer was first described by German zoologist Eberhard August Wilhelm von Zimmermann in 1783. The klipspringer is a small, sturdy antelope; it reaches 43\u201360 centimetres  at the shoulder and weighs from 8 to 18 kilograms . The coat of the klipspringer, yellowish gray to reddish brown, acts as an efficient camouflage in its rocky habitat. Unlike most other antelopes, the klipspringer has a thick and coarse coat with hollow, brittle hairs. The horns, short and spiky, typically measure 7.5\u20139 centimetres .\n<br>Typically nocturnal , the klipspringer rests during the middle of the day and late at night. A gregarious animal, the klipspringer is monogamous to a much greater extent than other antelopes; individuals of opposite sexes exhibit long-term to lifelong pair bonding. The mates tend to stay as close as within 5 metres  of each other at most times. Males form territories, 7.5\u201349 hectares , in which they stay with their partners and offspring. Primarily a browser, the klipspringer prefers young plants, fruits and flowers. Gestation lasts around six months, following which a single calf is born; births peak from spring to early summer. The calf leaves its mother when it turns a year old.\n<br>The klipspringer inhabits places characterised by rocky terrain and sparse vegetation. Its range extends from northeastern Sudan, Eritrea, northern Somalia and Ethiopia in the east to South Africa in the south, and along coastal Angola and Namibia. The International Union for the Conservation of Nature and Natural Resources  classifies the klipspringer as Least Concern. There are no major threats to the survival of the klipspringer, as its habitat is inaccessible and unfavourable for hunting. Significant numbers occur on private farmlands. As of 2008, nearly 25% of the populations occur in protected areas throughout its range.\n<br>",
@@ -7246,7 +7205,6 @@
         "areas": [
             "forest",
             "savannah",
-            "bush",
             "water"
         ],
         "intro": "",
@@ -7284,7 +7242,6 @@
         "areas": [
             "forest",
             "savannah",
-            "bush",
             "water"
         ],
         "intro": "The greater kudu  is a woodland antelope found throughout eastern and southern Africa. Despite occupying such widespread territory, they are sparsely populated in most areas due to  declining habitat, deforestation and poaching. The greater kudu is one of two species commonly known as kudu, the other being the lesser kudu, T. imberbis.\n<br>",
@@ -7303,7 +7260,7 @@
         "rarity": 1,
         "areas": [
             "forest",
-            "bush",
+            "savannah",
             "water"
         ],
         "intro": "The lesser kudu  is a forest antelope found in East Africa. It is placed in the genus Tragelaphus and family Bovidae. It was first described by the English zoologist Edward Blyth in 1869. The head-and-body length is typically 110\u2013140\u00a0cm . Males reach about 95\u2013105\u00a0cm  at the shoulder, while females reach 90\u2013100\u00a0cm . Males typically weigh 92\u2013108\u00a0kg  and females 56\u201370\u00a0kg . The females and juveniles have a reddish-brown coat, while the males become yellowish grey or darker after the age of 2 years. Horns are present only on males. The spiral horns are 50\u201370\u00a0cm  long, and have two to two-and-a-half twists.\n<br>A pure browser, the lesser kudu feeds on foliage from bushes and trees  and herbs. Despite seasonal and local variations, foliage from trees and shrubs constitute 60\u201380% of the diet throughout the year. The lesser kudu is mainly active at night and during the dawn, and seeks shelter in dense thickets just after the sunrise. The lesser kudu exhibits no territorial behaviour, and fights are rare. While females are gregarious, adult males prefer being solitary. No fixed breeding season is seen; births may occur at any time of the year. The lesser kudu inhabits dry, flat, and heavily forested regions.\n<br>The lesser kudu is native to Ethiopia, Kenya, Somalia, South Sudan, Tanzania, and Uganda, but it is extinct in Djibouti. It may have been present in Saudi Arabia and Yemen as recently as 1967, though its presence in the Arabian Peninsula is still controversial. The total population of the lesser kudu has been estimated to be nearly 118,000, with a decreasing trend in populations. One-third of the populations survive in protected areas. Presently, the International Union for Conservation of Nature  rates the lesser kudu as \"near threatened\".\n<br>",
@@ -7321,7 +7278,7 @@
         "rarity": 2,
         "areas": [
             "forest",
-            "bush",
+            "savannah",
             "water"
         ],
         "intro": "Alexander's kusimanse  is a genus of mongoose found in the Democratic Republic of Congo and Uganda.<br>This species has a body length of 30 to 45 centimeters  and weighs between 0.45 and 1.4\u00a0kg . Its tail measures 15 and 25 centimeters  in length.\n<br>It is known to share range with the Angolan kusimanse . It feeds on grubs, small rodents, small reptiles, crabs, and some fruits. It can produce 2 to 3 litters  of young each year after a gestation period of 8 weeks. The young wean at 3 weeks old and reach sexual maturity at 9 months old.\n<br>",
@@ -7337,7 +7294,7 @@
         ],
         "type": "mammal",
         "rarity": 1,
-        "areas": ["savannah", "bush"],
+        "areas": ["savannah", "savannah"],
         "intro": "The Lelwel hartebeest , also known as Jackson's hartebeest, is an antelope native to Central African Republic, Chad, the Democratic Republic of the Congo, Ethiopia, Kenya, Sudan, Tanzania, and Uganda.\n<br>The Lelwel hartebeest can hybridize with Coke's hartebeest to make the Kenya Highland hartebeest , or with Swayne's hartebeest to make the Neumann hartebeest .\n<br>",
         "description": "",
         "habitat": "",
@@ -7351,7 +7308,7 @@
         "rarity": 2,
         "areas": [
             "forest",
-            "bush"
+            "savannah"
         ],
         "intro": "The link rat  is a species of rodent in the family Muridae. It is also known by the common name Congo forest mouse. It is native to central Africa.<br>It is 12-14.5\u00a0cm long with a 15\u201321\u00a0cm long tail. It weighs 40-70 g. It has long legs and a pointed, narrow head, surmounted by enormous ears. It has a very long, bicoloured tail. The back and forehead are rich orange and brown and the underside is white. The rump hairs are stiff.\n<br>The link rat is nocturnal and crepuscular. It prefers seasonally flooded forest floors between Cameroon and the Victoria Nile. It has a widespread but scattered distribution and is seldom common. It feeds mainly on insects, crustaceans, slugs and some fallen fruits, notably palm-nut husks.\n<br>The link rat has traditionally been placed as a member of the subfamily Dendromurinae along with the African climbing mice, but has been demonstrated to be more closely related to the spiny mice on the basis of molecular data. A new subfamily  has now been created, which contains this species, plus the spiny mouse , the brush furred mice , and Rudd's mouse . This group is supported by several recent phylogenetic studies.<br>",
         "description": "",
@@ -7435,7 +7392,6 @@
         "areas": [
             "forest",
             "savannah",
-            "bush",
             "water"
         ],
         "intro": "The common dwarf mongoose , sometimes just called the dwarf mongoose, is a small African carnivore belonging to the mongoose family .\n<br>",
@@ -7453,7 +7409,7 @@
         "rarity": 2,
         "areas": [
             "forest",
-            "bush",
+            "savannah",
             "water"
         ],
         "intro": "Jackson's mongoose  is a species of mongoose belonging to the genus Bdeogale. Discovered in 1889 by Frederick John Jackson, Oldfield Thomas in 1894 described it as Galeriscus jacksoni. It is most closely related to the black-footed mongoose of the same subgenus Galeriscus and both are sometimes united in a single species.\n<br>With a head and body length of more than 50\u00a0cm  and a body weight of 2\u20133\u00a0kg , it is a large mongoose. Its long and dense fur is grizzled black and white, the cheeks, the throat and the sides of the neck are very yellowish, the legs are dark brown or black, and the bushy tail is white.\n<br>Jackson's mongoose feeds on rodents and insects, especially on army ants, and is mainly nocturnal and crepuscular and possibly solitary. Its distributional range in Kenya, Uganda and Tanzania is limited to some arboreous mountain regions. It appears to be rare, and in 2008, the IUCN classified it as Near Threatened.\n<br>",
@@ -7473,7 +7429,6 @@
         "areas": [
             "forest",
             "savannah",
-            "bush",
             "water"
         ],
         "intro": "The Pousargues's mongoose , also known as the African tropical savannah mongoose, is a mongoose native to Central Africa. It is listed as data deficient on the IUCN Red List as little is known about its distribution and ecology.<br>Up to the late 20th century, it was known from only around 30 zoological specimens in natural history museum collections.<br>",
@@ -7492,7 +7447,7 @@
         "rarity": 1,
         "areas": [
             "forest",
-            "bush",
+            "savannah",
             "water"
         ],
         "intro": "The blue monkey or diademed monkey  is a species of Old World monkey native to Central and East Africa, ranging from the upper Congo River basin east to the East African Rift and south to northern Angola and Zambia. It sometimes includes the Sykes', silver, and golden monkey as subspecies.<br>",
@@ -7528,7 +7483,7 @@
         "rarity": 1,
         "areas": [
             "forest",
-            "bush",
+            "savannah",
             "water"
         ],
         "intro": "",
@@ -7655,7 +7610,6 @@
         "areas": [
             "forest",
             "savannah",
-            "bush",
             "water"
         ],
         "intro": "The vervet monkey , or simply vervet, is an Old World monkey of the family Cercopithecidae native to Africa. The term \"vervet\" is also used to refer to all the members of the genus Chlorocebus. The five distinct subspecies can be found mostly throughout Southern Africa, as well as some of the eastern countries. Vervets were introduced to Florida, St. Kitts, Ascension Island, and Cape Verde. These mostly herbivorous monkeys have black faces and grey body hair color, ranging in body length from about 50 centimetres  for males to about 40 centimetres  for females.\n<br>In addition to behavioral research on natural populations, vervet monkeys serve as a nonhuman primate model for understanding genetic and social behaviors of humans. They have been noted for having human-like characteristics, such as hypertension, anxiety, and social and dependent alcohol use. Vervets live in social groups ranging from 10 to 70 individuals, with males moving to other groups at the time of sexual maturity. The most significant studies done on vervet monkeys involve their communication and alarm calls, specifically in regard to kin and group recognition and particular predator sightings.\n<br>",
@@ -7690,7 +7644,7 @@
         "type": "mammal",
         "rarity": 3,
         "areas": ["savannah",
-        "bush",
+        "savannah",
         "forest",
             "water"],
         "intro": "",
@@ -7709,7 +7663,7 @@
         "rarity": 1,
         "areas": [
             "forest",
-            "bush",
+            "savannah",
             "water"
         ],
         "intro": "",
@@ -7728,7 +7682,6 @@
         "areas": [
             "forest",
             "savannah",
-            "bush",
             "water"
         ],
         "intro": "The bohor reedbuck  is an antelope native to central Africa. The animal is placed under the genus Redunca and in the family Bovidae. It was first described by German zoologist and botanist Peter Simon Pallas in 1767. The bohor reedbuck has five subspecies. The head-and-body length of this medium-sized antelope is typically between 100\u2013135\u00a0cm . Males reach approximately 75\u201389\u00a0cm  at the shoulder, while females reach 69\u201376\u00a0cm . Males typically weigh 43\u201365\u00a0kg  and females 35\u201345\u00a0kg . This sturdily built antelope has a yellow to grayish brown coat. Only the males possess horns which measure about 25\u201335\u00a0cm  long.\n<br>A herbivore, the bohor reedbuck prefers grasses and tender reed shoots with high protein and low fiber content. This reedbuck is dependent on water, though green pastures can fulfill its water requirement. The social structure of the bohor reedbuck is highly flexible. Large aggregations are observed during the dry season, when hundreds of bohor reedbuck assemble near a river. Males become sexually mature at the age of three to four years, while females can conceive at just one year of age, reproducing every nine to fourteen months. Though there is no fixed breeding season, mating peaks in the rainy season. The gestation period is seven and a half months long, after which a single calf is born. The calves are weaned at eight to nine months of age.\n<br>The bohor reedbuck inhabits moist grasslands and swamplands as well as woodlands. The bohor reedbuck is native to Benin, Burkina Faso, Burundi, Cameroon, Central African Republic, Chad, Democratic Republic of Congo, Ethiopia, Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Mali, Mauritania, Niger, Nigeria, Rwanda, Senegal, Sudan, Tanzania and Togo. The animal is possibly extinct in Ivory Coast and Uganda. Reckless hunting and loss of habitat as a result of human settlement have led to significant decline in the numbers of the bohor reedbuck, although this antelope tends to survive longer in such over-exploited areas as compared to its relatives. The total populations of the bohor reedbuck are estimated to be above 100,000. Larger populations occur in eastern and central Africa than in western Africa. The International Union for Conservation of Nature  rates the bohor reedbuck as of Least Concern.\n<br>",
@@ -7749,7 +7702,6 @@
         "areas": [
             "forest",
             "savannah",
-            "bush",
             "water"
         ],
         "intro": "The mountain reedbuck  is an antelope found in mountainous areas of much of sub-Saharan Africa.\n<br>",
@@ -7770,7 +7722,6 @@
         "areas": [
             "forest",
             "savannah",
-            "bush",
             "water"
         ],
         "intro": "",
@@ -7786,7 +7737,7 @@
         "rarity": 2,
         "areas": [
             "forest",
-            "bush"
+            "savannah"
         ],
         "intro": "The Ruwenzori sun squirrel   is a species of rodent in the family Sciuridae.\n<br>It is found in Burundi, Democratic Republic of the Congo, Rwanda, and Uganda.\n<br>Its natural habitats are subtropical or tropical moist montane forests and arable land.\n<br>",
         "description": "",
@@ -7805,7 +7756,6 @@
         "areas": [
             "forest",
             "savannah",
-            "bush",
             "water"
         ],
         "intro": "",
@@ -7836,7 +7786,6 @@
         "areas": [
             "forest",
             "savannah",
-            "bush",
             "water"
         ],
         "intro": "The sitatunga or marshbuck  is a swamp-dwelling antelope found throughout central Africa, centering on the Democratic Republic of the Congo, Cameroon, parts of Southern Sudan, Ghana, Botswana, Zambia, Gabon, Tanzania, Uganda and Kenya. The species was first described by the English explorer John Hanning Speke in 1863. The sitatunga is a medium-sized antelope. Males reach approximately 81\u2013116\u00a0cm  at the shoulder, while females reach 72\u201390\u00a0cm . Males typically weigh 76\u2013119\u00a0kg , while females weigh 24\u201357\u00a0kg . The sitatunga has a shaggy, water-resistant coat which varies in colour. The body and feet of this antelope are specially adapted to its swampy habitat. Only the males possess horns; these are spiral in shape, have one or two twists and are 45\u201392\u00a0cm  long.\n<br>Sitatunga are active mainly during the early hours after dawn, the last one or two hours before dusk, and night. They are not territorial. Sitatunga are selective in what they eat and feed mainly on new foliage, fresh grasses, aquatic plants, sedges and browse. Females are sexually mature by one year of age, while males take one and a half years to mature. Breeding occurs throughout the year but peaks in the dry season. Gestation lasts for nearly eight months, after which generally a single calf is born. Lifespan recorded in captivity averages 22 to 23 years.\n<br>The sitatunga is confined to swampy and marshy habitats. Here they occur in tall and dense vegetation as well as seasonal swamps, marshy clearings in forests, riparian thickets and mangrove swamps. Habitat loss is the most severe threat to the survival of the sitatunga. The species has been classified under the Least Concern category by the International Union for Conservation of Nature and Natural Resources , and under Appendix III  of the Washington Convention . Though the population is sporadic in some countries, the animal is common in many areas such as the Okavango Delta and Bangweulu Swamp.\n<br>",
@@ -7852,7 +7801,7 @@
         "rarity": 2,
         "areas": [
             "forest",
-            "bush",
+            "savannah",
             "water"
         ],
         "intro": "The target rat  is a species of rodent in the family Muridae.  It is the only species in the genus Stochomys.\nIt is found in Benin, Cameroon, Central African Republic, Republic of the Congo, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Togo, and Uganda. Its natural habitat is subtropical or tropical moist lowland forests.\n<br>",
@@ -7872,7 +7821,6 @@
         "areas": [
             "forest",
             "savannah",
-            "bush",
             "water"
         ],
         "intro": "",
@@ -7911,7 +7859,6 @@
         "areas": [
             "forest",
             "savannah",
-            "bush",
             "water"
         ],
         "intro": "",
@@ -7931,7 +7878,6 @@
         "areas": [
             "forest",
             "savannah",
-            "bush",
             "water"
         ],
         "intro": "The African buffalo or Cape buffalo  is a large African bovine.Syncerus caffer caffer, the Cape buffalo, is the typical subspecies, and the largest one, found in Southern and East Africa. S. c. nanus  is the smallest subspecies, common in forest areas of Central and West Africa, while  S. c. brachyceros is in West Africa and S. c. aequinoctialis is in the savannas of East Africa. The adult buffalo's horns are its characteristic feature; they have fused bases, forming a continuous bone shield across the top of the head referred to as a \"boss\".  They are widely regarded as very dangerous animals, as according to some estimates they gore and kill over 200 people every year.\n<br>The African buffalo is not an ancestor of domestic cattle and is only distantly related to other larger bovines. Owing to its unpredictable nature, which makes it highly dangerous to humans, the African buffalo has never been domesticated, unlike its Asian counterpart, the water buffalo. Other than humans, African Cape buffaloes have few predators aside from lions and large crocodiles, and are capable of defending themselves. Being a member of the big five game, the Cape buffalo is a sought-after trophy in hunting.\n<br>",

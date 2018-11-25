@@ -10,16 +10,12 @@ function getAreas($xpath){
 	$text = $xpath->query('//div[@id="bodyContent"]')->item(0)->nodeValue;
 	$areas = array();
 	$forest = array("forest", "woodland");
-	$savannah = array("savannah", "savanna", "grassland", "open woodland", "open grass", "plains");
-	$bush = array("shrubland", "scrubland", "scrub", "shrub", "brush", "bush");
-	$water = array("river", "water", "estuar", "mangrove", "wetland", "lake",
-		"swamp", "marsh", "bog", "fen", "pond");
+	$savannah = array("savannah", "savanna", "grassland", "open woodland", "open grass", "plains", "shrubland", "scrubland", "scrub", "shrub", "brush", "bush");
+	$water = array("river", "water", "estuar", "mangrove", "wetland", "lake", "swamp", "marsh", "bog", "fen", "pond");
 	if(striposa($text, $forest) !== false)
 		$areas[] = "forest";
 	if(striposa($text, $savannah) !== false)
 		$areas[] = "savannah";
-	if(striposa($text, $bush) !== false)
-		$areas[] = "bush";
 	if(striposa($text, $water) !== false)
 		$areas[] = "water";
 	return $areas;
