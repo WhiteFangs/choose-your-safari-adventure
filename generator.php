@@ -1,7 +1,8 @@
 <?php
 
 $visualDebug = false;
-$twinDebug = true;
+$twineDebug = false;
+$publish = true;
 
 include("./graph.php");
 $root = $_SERVER['DOCUMENT_ROOT'];
@@ -20,12 +21,14 @@ if($visualDebug){
 			}
 		}
 	}
-}
-
-if($twinDebug){
+}else if($twineDebug || $publish){
 	$filename = 'Choose-Your-Safari-Adventure_' . uniqid();
-	header('Content-disposition: attachment; filename=' . $filename . '.html');
-	header('Content-type: text/html');
+	if($twineDebug){
+		header('Content-disposition: attachment; filename=' . $filename . '.html');
+		header('Content-type: text/html');
+	}else if($publish){
+		include_once("./header.php");
+	}
 	function GetPositions($key){
 		$initialX = 1000;
 		$initialY = 100;
@@ -35,28 +38,28 @@ if($twinDebug){
 		$positionY = 0;
 		switch ($key) {
 			case 0:
-				$positionX = $initialX;
-				$positionY = $initialY;
-				break;
+			$positionX = $initialX;
+			$positionY = $initialY;
+			break;
 			case 1:
-				$positionX = $initialX - 200;
-				$positionY = $initialY + 200;
-				break;
+			$positionX = $initialX - 200;
+			$positionY = $initialY + 200;
+			break;
 			case 2:
-				$positionX = $initialX + 200;
-				$positionY = $initialY + 200;
-				break;
+			$positionX = $initialX + 200;
+			$positionY = $initialY + 200;
+			break;
 			default:
-				$positionInLevel = ($key - 3) % 12;
-				$positionX = $initialX;
-				if($positionInLevel < 4){
-					$positionX += $xArray4[$positionInLevel];
-					$positionY = $initialY + 400 + ((floor(($key - 3) / 12) * 2) *200);
-				}else{
-					$positionX += $xArray8[$positionInLevel - 4];
-					$positionY = $initialY + 400 + (((floor(($key - 3) / 12) * 2) + 1) *200);
-				}
-				break;
+			$positionInLevel = ($key - 3) % 12;
+			$positionX = $initialX;
+			if($positionInLevel < 4){
+				$positionX += $xArray4[$positionInLevel];
+				$positionY = $initialY + 400 + ((floor(($key - 3) / 12) * 2) *200);
+			}else{
+				$positionX += $xArray8[$positionInLevel - 4];
+				$positionY = $initialY + 400 + (((floor(($key - 3) / 12) * 2) + 1) *200);
+			}
+			break;
 		}
 		return (object)array("x" => $positionX, "y" => $positionY);
 	}
@@ -85,6 +88,9 @@ if($twinDebug){
 		echo "</tw-passagedata>";
 	}
 	echo "</tw-storydata>";
+	if($publish){
+		include_once("./footer.php");
+	}
 }
 
 ?>
