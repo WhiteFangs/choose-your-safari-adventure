@@ -1,6 +1,17 @@
 <?php
 
-function GetAnimalPage($animals, $previousPages){
+function GetAnimalPage($birds, $reptiles, $mammals, $previousPages){
+	$random = mt_rand() / mt_getrandmax();
+	$rarity = 1;
+	if($random < 0.45){
+		$animals = $birds;
+	}else if($random < 0.9){
+		$random = mt_rand() / mt_getrandmax();
+		$rarity = $random < 0.6 ? 1 : $random < 0.85 ? 2 : 3;
+		$animals = array_filter($mammals, function($a) use ($rarity) {return $a["rarity"] == $rarity;});
+	}else{
+		$animals = $reptiles;
+	}
 	$animal = $animals[array_rand($animals)];
 	$areas = $animal["areas"];
 	return (object) array(
@@ -17,6 +28,9 @@ function MapPagesToNextPages($page){
 }
 
 function GetPages($animals){
+	$birds = array_filter($animals, function($a) {return $a["type"] == 'bird';});
+	$reptiles = array_filter($animals, function($a) {return $a["type"] == 'reptile';});
+	$mammals = array_filter($animals, function($a) {return $a["type"] == 'mammal';});
 	$pages = array();
 	$endPage = (object) array(
 		"name" => "EndPage",
@@ -41,12 +55,13 @@ function GetPages($animals){
 				// so 1=>AB, 2=>BC, 3=>CD, 4=>DA, then after 4, 5=>AC, 6=>BD, then fill the rest 7=>CA, 8=>DB
 				// special cases are $previousPagesNb == 2 or 1, if 2 we take the 2 available everytime, if 1 just give the only possibility
 				$secondPageToChoose = $newPagesNb == 8 ? ($i + ($i < 4 ? 1 : 2)) % $previousPagesNb : ($i + 1) % $previousPagesNb;
-				$newPages[] = GetAnimalPage($animals, $previousPagesNb > 1 ? array($previousPages[$i % $previousPagesNb], $previousPages[$secondPageToChoose]) : $previousPages);
+				$nextPages = $previousPagesNb > 1 ? array($previousPages[$i % $previousPagesNb], $previousPages[$secondPageToChoose]) : $previousPages;
+				$newPages[] = GetAnimalPage($birds, $reptiles, $mammals, $nextPages);
 			}
 		}else {
 			for($i = 0; $i < 4; $i++)
 				// we get A=>(0,1), B=>(2,3), C=>(4,5) and D=>(6,7)
-				$newPages[] = GetAnimalPage($animals, array($previousPages[$i * 2], $previousPages[$i * 2 + 1]));
+				$newPages[] = GetAnimalPage($birds, $reptiles, $mammals, array($previousPages[$i * 2], $previousPages[$i * 2 + 1]));
 		}
 		$pages = array_merge($pages, $newPages);
 		$previousPages = array_map("MapPagesToNextPages", $newPages);
@@ -54,8 +69,8 @@ function GetPages($animals){
 
 	// create 2 pages to link to 4 last
 	$newPages = array();
-	$newPages[] = GetAnimalPage($animals, array($previousPages[0], $previousPages[1]));
-	$newPages[] = GetAnimalPage($animals, array($previousPages[2], $previousPages[3]));
+	$newPages[] = GetAnimalPage($birds, $reptiles, $mammals, array($previousPages[0], $previousPages[1]));
+	$newPages[] = GetAnimalPage($birds, $reptiles, $mammals, array($previousPages[2], $previousPages[3]));
 	$pages = array_merge($pages, $newPages);
 	$previousPages = array_map("MapPagesToNextPages", $newPages);
 
