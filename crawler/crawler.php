@@ -43,6 +43,7 @@ function getIntro($bodyNodes){
 	}
 	$intro = preg_replace('/\[.*?\]/', '', $intro);
 	$intro = preg_replace('/\(.*?\)/', '', $intro);
+	$intro = preg_replace('/\s,/', ',', $intro);
 	return $intro;
 }
 
@@ -63,6 +64,7 @@ function getSection($bodyNodes, $needles){
 	}
 	$section = preg_replace('/\[.*?\]/', '', $section);
 	$section = preg_replace('/\(.*?\)/', '', $section);
+	$section = preg_replace('/\s,/', ',', $section);
 	return $section;
 }
 
