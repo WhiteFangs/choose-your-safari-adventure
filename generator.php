@@ -76,8 +76,10 @@ if($visualDebug){
 	}
 	?>
 	</style>
-	<script role="script" id="twine-user-script" type="text/twine-javascript"></script>
-
+	<script role="script" id="twine-user-script" type="text/twine-javascript">
+	localStorage.clear();
+	sessionStorage.clear();
+	</script>
 	<?php
 	foreach ($pages as $key => $page) {
 		$positions = GetPositions($key);
