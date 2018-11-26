@@ -14,6 +14,13 @@ function GetAnimalIntro($animal){
 	return $intro;
 }
 
+function escapeHTML($html){
+	$html = preg_replace('/</', '&lt;', $html);
+	$html = preg_replace('/>/', '&gt;', $html);
+	$html = preg_replace('/"/', '&quot;', $html);
+	return $html;
+}
+
 function GetPositions($key){
 	$initialX = 1000;
 	$initialY = 100;

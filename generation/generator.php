@@ -38,6 +38,7 @@ if($visualDebug){
 	include_once("./style.php");
 	include_once("./script.php");
 	foreach ($pages as $key => $page) {
+		$replacers = 0;
 		$positions = GetPositions($key);
 		$tag = $page->area . "_" . array_rand($backgrounds[$page->area]);
 		$animal = $page->animal;
@@ -46,21 +47,29 @@ if($visualDebug){
 			echo GetPageIntro($page->area);
 			echo "\n\n";
 		}else{
-			// write intro
+			echo "Welcome to the safari!"; // write intro
+			echo "\n\n";
 		}
 		if($animal != null){
+			echo escapeHTML('<span id="animalIntro"><<click "...">><<replace "#animalIntro">>');
+			$replacers++;
 			echo GetAnimalIntro($animal);
 			echo "\n\n";
 		}
 		if($page->nextPages != null){
+			echo escapeHTML('<span id="nextPages"><<click "...">><<replace "#nextPages">>');
+			$replacers++;
 			foreach ($page->nextPages as $next) {
 				echo "Go [[". $next->area ."|" . $next->name . "]]";
 				echo "\n\n";
 			}
 		}
+		for ($i=0; $i < $replacers; $i++) { 
+			echo escapeHTML('<</replace>><</click>></span>');
+		}
 		if($animal != null){
 			foreach ($animal["images"] as $imgNb => $img) {
-				echo '&lt;img src=&quot;' . $img .'&quot; alt=&quot;' . $animal["name"] .' - Source: Wikipedia&quot; class=&quot;image'. $imgNb .'&quot;&gt;';
+				echo escapeHTML('<img src="' . $img .'" alt="' . $animal["name"] .' - Source: Wikipedia" class="image'. $imgNb .'">');
 			}
 		}
 		echo "</tw-passagedata>";

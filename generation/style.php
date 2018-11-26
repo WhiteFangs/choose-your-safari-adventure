@@ -3,6 +3,13 @@ body {
 	color: #000;
 	background-color: unset;
 }
+a{
+	color: #ba6200;
+	font-weight: bold;
+}
+a:hover{
+	color: #c00000;
+}
 #ui-bar{
 	display: none;
 }
