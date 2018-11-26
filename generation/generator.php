@@ -40,19 +40,25 @@ if($visualDebug){
 	foreach ($pages as $key => $page) {
 		$positions = GetPositions($key);
 		$tag = $page->area . "_" . array_rand($backgrounds[$page->area]);
+		$animal = $page->animal;
 		echo '<tw-passagedata pid="'. ($key+1) .'" name="'. $page->name .'" tags="'. $tag . '" position="'. $positions->x . ',' . $positions->y. '" size="100,100">';
-		echo GetIntro($page->area);
-		echo "\n\n";
-		echo $page->title;
-		echo "\n\n";
+		if($key != 0){
+			echo GetPageIntro($page->area);
+			echo "\n\n";
+		}else{
+			// write intro
+		}
+		if($animal != null){
+			echo GetAnimalIntro($animal);
+			echo "\n\n";
+		}
 		if($page->nextPages != null){
 			foreach ($page->nextPages as $next) {
 				echo "Go [[". $next->area ."|" . $next->name . "]]";
 				echo "\n\n";
 			}
 		}
-		if($page->animal != null){
-			$animal = $page->animal;
+		if($animal != null){
 			foreach ($animal["images"] as $imgNb => $img) {
 				echo '&lt;img src=&quot;' . $img .'&quot; alt=&quot;' . $animal["name"] .' - Source: Wikipedia&quot; class=&quot;image'. $imgNb .'&quot;&gt;';
 			}

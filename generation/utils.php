@@ -1,9 +1,17 @@
 <?php 
 
-function GetIntro($area){
-	global $intros;
-	$areasIntros = $intros[$area];
+function GetPageIntro($area){
+	global $pageIntros;
+	$areasIntros = $pageIntros[$area];
 	return $areasIntros[array_rand($areasIntros)];
+}
+
+function GetAnimalIntro($animal){
+	global $animalIntros;
+	$intro = $animalIntros[array_rand($animalIntros)];
+	$intro = str_replace("{animal}", $animal["name"], $intro);
+	$intro .= " " . $animal["intro"];
+	return $intro;
 }
 
 function GetPositions($key){
