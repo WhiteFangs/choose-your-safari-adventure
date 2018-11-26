@@ -28,6 +28,7 @@ function MapPagesToNextPages($page){
 }
 
 function GetPages($animals){
+	$animals = array_filter($animals, function($a) {return count($a["images"]) > 0;});
 	$birds = array_filter($animals, function($a) {return $a["type"] == 'bird';});
 	$reptiles = array_filter($animals, function($a) {return $a["type"] == 'reptile';});
 	$mammals = array_filter($animals, function($a) {return $a["type"] == 'mammal';});
