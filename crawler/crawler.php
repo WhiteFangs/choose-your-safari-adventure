@@ -36,7 +36,7 @@ function getIntro($bodyNodes){
 	foreach ($bodyNodes as $key => $node) {
 		if($node->tagName == "p" && strlen(trim($node->nodeValue)) > 0){
 			$intro .= $node->nodeValue;
-			$intro .= "<br>";
+			$intro .= "\n";
 		}else if($node->tagName == "div"){
 			break;
 		}
@@ -56,7 +56,7 @@ function getSection($bodyNodes, $needles){
 		}else if($entered){
 			if($node->tagName == "p" && strlen(trim($node->nodeValue)) > 0){ // paragraph in the section
 				$section .= $node->nodeValue;
-				$section .= "<br>";
+				$section .= "\n";
 			}else if($node->tagName == "h2"){ // out
 				break;
 			}
