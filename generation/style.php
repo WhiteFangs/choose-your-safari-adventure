@@ -16,7 +16,7 @@ a:hover{
 #story{
 	margin: 2vw;
 	margin-right: 50vw;
-	background-color: rgba(255,255,255,.8);
+	background-color: rgba(255,255,255,.9);
 	padding: 1em;
 	box-shadow: 1px 2px 5px black;
 }
