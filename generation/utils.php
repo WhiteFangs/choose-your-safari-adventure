@@ -6,12 +6,37 @@ function GetPageIntro($area){
 	return $areasIntros[array_rand($areasIntros)];
 }
 
-function GetAnimalIntro($animal){
-	global $animalIntros;
+function GetAnimalText($animal){
+	global $animalIntros, $sectionTransitions, $verbTalking;
 	$intro = $animalIntros[array_rand($animalIntros)];
-	$intro = str_replace("{animal}", $animal["name"], $intro);
-	$intro .= " " . $animal["intro"];
-	return $intro;
+	$text = '"' . str_replace("{animal}", "''" . $animal["name"] . "''", $intro) . '", says Robert.';
+	if(strlen($animal["intro"]) > 0)
+		$text .= ' "' . GetRandomNumberOfSentences($animal["intro"]) . '"';
+	if(strlen($animal["description"]) > 0){
+		$transition = '"' . $sectionTransitions[array_rand($sectionTransitions)] . '", he ' . $verbTalking[array_rand($verbTalking)] . ". ";
+		$text .= "\n\n" . $transition . '"' . GetRandomNumberOfSentences($animal["description"]) . '"';
+	}
+	if(strlen($animal["behaviour"]) > 0){
+		$transition = '"' . $sectionTransitions[array_rand($sectionTransitions)] . '", ' . $verbTalking[array_rand($verbTalking)] . " Robert. ";
+		$text .= "\n\n". $transition . '"' . GetRandomNumberOfSentences($animal["behaviour"]) . '"';
+	}
+	if(strlen($animal["habitat"]) > 0){
+		$transition = '"' . $sectionTransitions[array_rand($sectionTransitions)] . '", he ' . $verbTalking[array_rand($verbTalking)] . ". ";
+		$text .= "\n\n". $transition . '"' . GetRandomNumberOfSentences($animal["habitat"]) . '"';
+	}
+	return $text;
+}
+
+function GetNextPageText($area){
+	global $pageNext;
+	$areasNext = $pageNext[$area];
+	return $areasNext[array_rand($areasNext)];
+}
+
+function GetRandomNumberOfSentences($text){
+	$sentences = explode(". ", $text);
+	$sentences = array_slice($sentences, 0, mt_rand(1, 2));
+	return implode(". ", $sentences) . ".";
 }
 
 function escapeHTML($html){

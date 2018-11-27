@@ -67,24 +67,21 @@ if($visualDebug){
 		if($animal != null){
 			echo escapeHTML('<span id="animalIntro"><<click "[...]">><<replace "#animalIntro">>');
 			$replacers++;
-			echo GetAnimalIntro($animal);
+			echo GetAnimalText($animal);
 			echo "\n\n";
+			foreach ($animal["images"] as $imgNb => $img) {
+				echo escapeHTML('<img src="' . $img .'" alt="' . $animal["name"] .' - Source: Wikipedia" class="image'. $imgNb .'">');
+			}
 		}
 		if($page->nextPages != null){
 			echo escapeHTML('<span id="nextPages"><<click "[...]">><<replace "#nextPages">>');
 			$replacers++;
 			foreach ($page->nextPages as $next) {
-				echo "Go [[". $next->area ."|" . $next->name . "]]";
-				echo "\n\n";
+				echo "* " . GetNextPageText($next->area) . " [[ ▶▶ |" . $next->name . "]] \n";
 			}
 		}
 		for ($i=0; $i < $replacers; $i++) { 
 			echo escapeHTML('<</replace>><</click>></span>');
-		}
-		if($animal != null){
-			foreach ($animal["images"] as $imgNb => $img) {
-				echo escapeHTML('<img src="' . $img .'" alt="' . $animal["name"] .' - Source: Wikipedia" class="image'. $imgNb .'">');
-			}
 		}
 		echo "</tw-passagedata>";
 	}
