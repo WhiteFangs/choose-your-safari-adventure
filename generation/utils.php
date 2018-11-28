@@ -41,6 +41,7 @@ function GetNextPageText($area){
 }
 
 function GetRandomNumberOfSentences($text){
+	$text = preg_replace('/\n/', " ", $text);
 	$sentences = explode(". ", $text);
 	$sentences = array_slice($sentences, 0, mt_rand(1, 2));
 	return implode(". ", $sentences) . ".";
