@@ -4,7 +4,7 @@ $pageIntros = array(
 	"savannah" => array("savannah"),
 	"water" => array("water"),
 	"forest" => array("forest"),
-	"building" => array("building") // ending only
+	"building" => array("The sun is setting on the horizon while you're approaching the checkpoint. This day has been full of marvelous encounters.") // ending only
 	);
 
 $animalIntros = array(

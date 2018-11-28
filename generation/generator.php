@@ -79,6 +79,15 @@ if($visualDebug){
 			foreach ($page->nextPages as $next) {
 				echo "* " . GetNextPageText($next->area) . " [[ ▶▶ |" . $next->name . "]] \n";
 			}
+		}else if($key != 0){ // ending
+			echo escapeHTML('<span id="ending_1"><<click "[...]">><<replace "#ending_1">>');
+			$replacers++;
+			echo '"I hope you\'re happy to have seen all these animals today" says Robert. "I\'m really glad that we were able to see the ... and the ... too!"';
+			echo "\n\n";
+			echo "But every journey, even the most beautiful one, has to come to an end. Your car passes through the checkpoint, behind you the red sun is almost gone. You're leaving the park with unforgettable memories in your mind and one hope: to come back as soon as possible.";
+			echo "\n\n";
+			echo "And the animals? Well, they won't be waiting for you. But, as long as their environment is protected, they will be here and you can always come by and say hi.";
+			echo '!The end';
 		}
 		for ($i=0; $i < $replacers; $i++) { 
 			echo escapeHTML('<</replace>><</click>></span>');

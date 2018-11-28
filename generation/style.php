@@ -25,6 +25,7 @@ a:hover{
 	max-width: 45vw;
 	max-height: 40vh;
 	right: 2vw;
+	box-shadow: 1px 2px 5px black;
 }
 #passages .passage img.image0{
 	top: 1em;
