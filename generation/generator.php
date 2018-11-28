@@ -60,6 +60,7 @@ if($visualDebug){
 			echo "\n";
 			echo 'You drive through the portal into this wild area. But where should you go first?';
 			echo "\n\n";
+			echo escapeHTML('<<initInv>>');
 		}else{
 			echo GetPageIntro($page->area);
 			echo "\n\n";
@@ -69,6 +70,7 @@ if($visualDebug){
 			$replacers++;
 			echo GetAnimalText($animal);
 			echo "\n\n";
+			echo escapeHTML("<<addToInv \"". $animal["name"] ."\">>");
 			foreach ($animal["images"] as $imgNb => $img) {
 				echo escapeHTML('<img src="' . $img .'" alt="' . $animal["name"] .' - Source: Wikipedia" class="image'. $imgNb .'">');
 			}
@@ -82,11 +84,13 @@ if($visualDebug){
 		}else if($key != 0){ // ending
 			echo escapeHTML('<span id="ending_1"><<click "[...]">><<replace "#ending_1">>');
 			$replacers++;
-			echo '"I hope you\'re happy to have seen all these animals today" says Robert. "I\'m really glad that we were able to see the ... and the ... too!"';
+			echo '"I\'m really happy to have done this safari with you" says Robert. "I hope you\'re happy too! Look, I took some notes, today we\'ve seen: ';
+			echo escapeHTML("''the <<inv>>''.\"");
 			echo "\n\n";
-			echo "But every journey, even the most beautiful one, has to come to an end. Your car passes through the checkpoint, behind you the red sun is almost gone. You're leaving the park with unforgettable memories in your mind and one hope: to come back as soon as possible.";
+			echo "But every journey, even the most ''beautiful'' one, has to come to an end. Your car passes through the checkpoint, behind you the red sun is almost gone. You're leaving the park with unforgettable memories in your mind and one hope: to ''come back'' as soon as possible.";
 			echo "\n\n";
-			echo "And the animals? Well, they won't be waiting for you. But, as long as their environment is protected, they will be here and you can always come by and say hi.";
+			echo "''And the animals?'' Well, they won't be waiting for you. But, as long as their ''environment'' is protected, they will be here and you can always come by and say hi.";
+			echo "\n";
 			echo '!The end';
 		}
 		for ($i=0; $i < $replacers; $i++) { 
