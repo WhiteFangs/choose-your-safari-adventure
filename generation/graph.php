@@ -7,7 +7,7 @@ function GetAnimalPage($birds, $reptiles, $mammals, $previousPages){
 		$animals = $birds;
 	}else if($random < 0.9){
 		$random = mt_rand() / mt_getrandmax();
-		$rarity = $random < 0.6 ? 1 : $random < 0.85 ? 2 : 3;
+		$rarity = $random < 0.7 ? 1 : $random < 0.85 ? 2 : 3;
 		$animals = array_filter($mammals, function($a) use ($rarity) {return $a["rarity"] == $rarity;});
 	}else{
 		$animals = $reptiles;

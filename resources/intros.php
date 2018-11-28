@@ -62,6 +62,20 @@ $animalIntros = array(
 	"This {animal} has so much grace!"
 	);
 
+$sameAnimal = array(
+	"Oh, just another {animal}.",
+	"The {animal}, again.",
+	"We've alreay seen that {animal}.",
+	"It's just the {animal}.",
+	"Nothing new, the {animal}.",
+	"So many {animal} today!",
+	"Did we come back to see this {animal} again?",
+	"One more {animal}.",
+	"I don't mind seeing this {animal} again.",
+	"How many times have we seen this {animal}?",
+	"We've seen this {animal} twice now, or more?"
+	);
+
 $sectionTransitions = array(
 	"Also",
 	"I can also tell you this",

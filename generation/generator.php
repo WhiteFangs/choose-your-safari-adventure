@@ -68,9 +68,14 @@ if($visualDebug){
 		if($animal != null){
 			echo escapeHTML('<span id="animalIntro"><<click "[...]">><<replace "#animalIntro">>');
 			$replacers++;
+			echo escapeHTML('<<if $inventory.indexOf("'. $animal["name"] .'") != -1>>');
+			echo GetSameAnimalText($animal);
+			echo escapeHTML('<<endif>>');
+			echo escapeHTML('<<if $inventory.indexOf("'. $animal["name"] .'") == -1>>');
 			echo GetAnimalText($animal);
-			echo "\n\n";
 			echo escapeHTML("<<addToInv \"". $animal["name"] ."\">>");
+			echo escapeHTML('<<endif>>');
+			echo "\n\n";
 			foreach ($animal["images"] as $imgNb => $img) {
 				echo escapeHTML('<img src="' . $img .'" alt="' . $animal["name"] .' - Source: Wikipedia" class="image'. $imgNb .'">');
 			}

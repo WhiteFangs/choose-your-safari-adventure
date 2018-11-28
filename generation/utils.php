@@ -6,6 +6,13 @@ function GetPageIntro($area){
 	return $areasIntros[array_rand($areasIntros)];
 }
 
+function GetSameAnimalText($animal){
+	global $sameAnimal;
+	$text = $sameAnimal[array_rand($sameAnimal)];
+	$text = '"' . str_replace("{animal}", "''" . $animal["name"] . "''", $text) . '", says Robert.';
+	return $text;
+}
+
 function GetAnimalText($animal){
 	global $animalIntros, $sectionTransitions, $verbTalking;
 	$intro = $animalIntros[array_rand($animalIntros)];
