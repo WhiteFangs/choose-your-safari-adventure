@@ -31,7 +31,7 @@ foreach ($pages as $key => $page) {
 	$animal = $page->animal;
 	echo '<tw-passagedata pid="'. ($key+1) .'" name="'. $page->name .'" tags="'. $tag . '" position="'. $positions->x . ',' . $positions->y. '" size="100,100">';
 	if($key == 0){ // intro page
-		echo '!Welcome To The Safari Park!';
+		echo '!Welcome To Your Safari!';
 		echo "\n";
 		echo 'After days of exhausing flights, stopovers and car drives, you\'re finally here: the entrance of the national park. You\'ve made it. But this is only the beginning, your real safari journey will start soon. An endless horizon of \'\'savannah\'\' surrounded by \'\'mountains\'\' and \'\'tropical rainforests\'\' awaits behind this small checkpoint. And who knows how many amazing animals are lying back there?';
 		echo "\n\n";
