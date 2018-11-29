@@ -9,7 +9,7 @@ $animals = json_decode($string, true);
 
 $pages = GetPages($animals); // get story graph
 
-$filename = 'Choose-Your-Safari-Adventure_' . uniqid();
+$filename = 'Choose Your Safari Adventure';
 include("./resources/backgrounds.php");
 include("./resources/intros.php");
 include("./generation/utils.php");
