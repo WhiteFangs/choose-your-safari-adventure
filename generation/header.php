@@ -2,8 +2,22 @@
 <html data-init="no-js">
 <head>
 <meta charset="UTF-8" />
-<title>Choose-Your-Safari-Adventure_5bfa83dd3b191</title>
+<title>Choose Your Safari Adventure</title>
 <meta name="viewport" content="width=device-width,initial-scale=1" />
+	
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@White_fangs">
+<meta name="twitter:creator" content="@White_fangs">
+<meta name="twitter:title" content="Louphole - Choose Your Safari Adventure">
+<meta name="twitter:description" content="Programmes utiles, drôles et étranges. Louphole est le portfolio de Bilgé Kimyonok.">
+<meta name="twitter:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Phalaborwa_Gate%2C_Kruger_National_Park_%281980%29_-_panoramio.jpg/1280px-Phalaborwa_Gate%2C_Kruger_National_Park_%281980%29_-_panoramio.jpg">
+
+<meta property="og:url" content="http://louphole.com/" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Louphole - Choose Your Safari Adventure" />
+<meta property="og:description" content="Programmes utiles, drôles et étranges. Louphole est le portfolio de Bilgé Kimyonok." />
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Phalaborwa_Gate%2C_Kruger_National_Park_%281980%29_-_panoramio.jpg/1280px-Phalaborwa_Gate%2C_Kruger_National_Park_%281980%29_-_panoramio.jpg" />
+<meta property="og:locale" content="fr_FR" />
 <!--
 
 SugarCube (v2.21.0): A free (gratis and libre) story format.
