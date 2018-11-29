@@ -84,6 +84,16 @@ foreach ($pages as $key => $page) {
 		echo "''And the animals?'' Well, they won't be waiting for you. But, as long as their ''environment'' is protected, they will be here and you can always come by and say hi.";
 		echo "\n";
 		echo '!The end';
+		echo "\n\n";
+		echo "//If you want to try a new interactive safari, just refresh the page!";
+		echo "\n";
+		echo 'This interactive safari has been created for the [[NaNoGenMo 2018|https://github.com/NaNoGenMo/2018]]. You can check the repository for the code on [[GitHub|https://github.com/WhiteFangs/choose-your-safari-adventure]]. For other cool projects or to contact me, check out [[my website|http://louphole.com]]. ';
+		echo "\n";
+		echo "This interactive story has been generated using Wikipedia data. All images are from Wikimedia.";
+		echo "\n";
+		echo "Special thanks to Alice, David and Robert for this incredible journey in Uganda.";
+		echo "\n\n";
+		echo "Bilgé Kimyonok//";
 	}
 	for ($i=0; $i < $replacers; $i++) { 
 		echo escapeHTML('<</replace>><</click>></span>');
