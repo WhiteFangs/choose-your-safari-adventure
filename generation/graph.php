@@ -44,7 +44,7 @@ function GetPages($animals){
 	$previousPages = array_map("MapPagesToNextPages", $pages);
 
 	$graphLevelCounter = 0; // 0 is 2 options, 1 is 4, 2 is 8, 3 is 4. So odd $graphLevelCounter is 4 options and even is 8.
-	$totalGraphLevels = 10; // we want to finish with an odd $graphLevelCounter so we choose an even $totalGraphLevels
+	$totalGraphLevels = 50; // we want to finish with an odd $graphLevelCounter so we choose an even $totalGraphLevels
 	for ($graphLevelCounter; $graphLevelCounter < $totalGraphLevels; $graphLevelCounter++) { 
 		$previousPagesNb = count($previousPages);
 		shuffle($previousPages);

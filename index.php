@@ -3,27 +3,27 @@
 $twineDebug = false;
 $publish = true;
 
-include("./graph.php");
-$string = file_get_contents("../resources/data.json");
+include("./generation/graph.php");
+$string = file_get_contents("./resources/data.json");
 $animals = json_decode($string, true);
 
 $pages = GetPages($animals); // get story graph
 
 $filename = 'Choose-Your-Safari-Adventure_' . uniqid();
-include("../resources/backgrounds.php");
-include("../resources/intros.php");
-include("./utils.php");
+include("./resources/backgrounds.php");
+include("./resources/intros.php");
+include("./generation/utils.php");
 if($twineDebug){
 	header('Content-disposition: attachment; filename=' . $filename . '.html');
 	header('Content-type: text/html');
 }else if($publish){
-	include_once("./header.php");
+	include_once("./generation/header.php");
 }
 ?>
 <tw-storydata name="<?php echo $filename; ?>" startnode="1" creator="Twine" creator-version="2.2.1" ifid="CD3FE479-0DA0-43AD-8F87-75DBDE871DD4" zoom="1" format="SugarCube" format-version="2.21.0" options="" hidden>
 <?php
-include_once("./style.php");
-include_once("./script.php");
+include_once("./generation/style.php");
+include_once("./generation/script.php");
 foreach ($pages as $key => $page) {
 	$replacers = 0;
 	$positions = GetPositions($key);
@@ -92,7 +92,7 @@ foreach ($pages as $key => $page) {
 }
 echo "</tw-storydata>";
 if($publish){
-	include_once("./footer.php");
+	include_once("./generation/footer.php");
 }
 
 ?>
