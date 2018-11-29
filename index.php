@@ -1,5 +1,5 @@
 <?php
-
+header("Cache-Control: max-age=1");
 $twineDebug = false;
 $publish = true;
 
