@@ -27,7 +27,7 @@ function GetAnimalText($animal){
 		$transition = '"' . $sectionTransitions[array_rand($sectionTransitions)] . '", ' . $verbTalking[array_rand($verbTalking)] . " Robert. ";
 		$text .= "\n\n". $transition . '"' . GetRandomNumberOfSentences($animal["behaviour"]) . '"';
 	}
-	if(strlen($animal["habitat"]) > 0){
+	if(strlen($animal["habitat"]) > 0 && $animal["behaviour"] != $animal["habitat"]){
 		$transition = '"' . $sectionTransitions[array_rand($sectionTransitions)] . '", he ' . $verbTalking[array_rand($verbTalking)] . ". ";
 		$text .= "\n\n". $transition . '"' . GetRandomNumberOfSentences($animal["habitat"]) . '"';
 	}
